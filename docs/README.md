@@ -1,4 +1,4 @@
 # Software-Projektmanagement
 
-##Gruppenmitglieder:
-*André Grellmann
+## Gruppenmitglieder:
+* André Grellmann
