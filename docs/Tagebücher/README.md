@@ -11,4 +11,4 @@ in die _sidebar.md im Tagebuch-Verzeichnis.
 
 ## Hinweis - Skript
 In der Schablone liegt ein Verweis auf ein Skript. Das ist das Berechnungsskript für die Gesamtdauer
-alle Tätigkeiten. Das Skript sollte am Besten nicht entfernt werden, sonst wird die Gesamtdauer nicht mehr berechnet. 
+aller Tätigkeiten. Das Skript sollte am Besten nicht entfernt werden, sonst wird die Gesamtdauer nicht mehr berechnet.
