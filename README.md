@@ -24,4 +24,5 @@ im Software Engineering](https://www.springer.com/de/book/9783642292897)
 ## Links
 
 [GitHub-Pages](https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/#/)  
-[Tagebücher](https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/#/Tagebücher/)
+[Tagebücher](https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/#/Tagebücher/)  
+[Jira](https://sw-pm-ws2018-g14-2.atlassian.net)
