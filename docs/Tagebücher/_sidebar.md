@@ -1,3 +1,3 @@
 * [Tagebücher](/Tagebücher/)
-	* [Richard Leikam](/docs/Tagebücher/Richard_Leikam.md)
-	+ [André Grellmann](/docs/Tagebücher/Andre_Grellmann.md)
+	* [Richard Leikam](/Tagebücher/Richard_Leikam.md)
+	+ [André Grellmann](/Tagebücher/Andre_Grellmann.md)
