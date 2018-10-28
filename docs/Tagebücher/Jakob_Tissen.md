@@ -9,7 +9,8 @@ Datum      | Tätigkeiten                                                 | Daue
 22.10.2018 | Vorstellung und besprechung der Vorbereitung | 1:20
 22.10.2018 | Besprechung weiteres Vorgehen und Aufgabenverteilung | 1:00
 24.10.2018 | Verteilung der Kapitel nach Preferenzen | 0:15
-28.10.2018 | Bearbeiten des zugewiesenen Kapitelteils (lesen + Notitzen) |
+28.10.2018 | Markdown einarbeiten | 0:15
+28.10.2018 | Kapitel 8 Manfred Broy lesen und Außerarbeitung beginnen | 3:00
 
 <script src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/Tageb%C3%BCcher/timeCalculation.js">
 </script>
