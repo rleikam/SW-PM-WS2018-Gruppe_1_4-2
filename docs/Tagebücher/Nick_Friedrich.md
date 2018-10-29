@@ -7,5 +7,5 @@ Datum      | Tätigkeiten   | Dauer
 28.10.2018 | Bechprechung für das weitere Vorgehen | 0:45
 
 
-<script src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/Tageb%C3%BCcher/timeCalculation.js">
+<script src="Tagebücher/timeCalculation.js">
 </script>

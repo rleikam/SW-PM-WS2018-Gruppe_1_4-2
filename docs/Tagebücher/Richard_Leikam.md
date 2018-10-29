@@ -11,5 +11,5 @@ Datum      | Tätigkeiten                                                       
 29.10.2018 | Gruppenmeeting: Jira Einführung, Weitere Aufgabenverteilung, Besprechung über die Projektmanagement-Tools | 1:50
 29.10.2018 | Dokumente umstrukturiert, Integration der ersten Ausarbeitung des PiS                                     | 0:50
 
-<script src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/Tageb%C3%BCcher/timeCalculation.js">
+<script src="Tagebücher/timeCalculation.js">
 </script>

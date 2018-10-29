@@ -13,5 +13,5 @@ Datum      | Tätigkeiten                                                 | Daue
 28.10.2018 | Kapitel 8 Manfred Broy lesen und Außerarbeitung beginnen | 3:00
 28.10.2018 | Virtuelles Meeting :Gira Projektplannung Organisatorisches | 0:45
 
-<script src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/Tageb%C3%BCcher/timeCalculation.js">
+<script src="Tagebücher/timeCalculation.js">
 </script>
