@@ -19,6 +19,7 @@ im Software Engineering](https://www.springer.com/de/book/9783642292897)
 * Nick Friedrich
 * Jakob Tissen
 * Kevin Gerzen
+* Lennard Kuhnke
 
 
 ## Links
