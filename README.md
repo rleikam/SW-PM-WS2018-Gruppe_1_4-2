@@ -4,12 +4,12 @@
 
 Das Software-Projektmanagement-Projekt vom WS2018.  
 
-Folgende Bücher sollen ausgearbeitet werden:
-* [Claudia Stöhler: Projektmanagement im Studium. Vom Projektauftrag bis
+Folgende Bücher sollen ausgearbeitet werden (Angabe mit Kürzel):
+* [[PiS]Claudia Stöhler: Projektmanagement im Studium. Vom Projektauftrag bis
 zur Abschlusspräsentation](https://www.springer.com/de/book/9783658119843)
-* [Christian Aichele, Marius Schönberger: IT-Projektmanagement. Effiziente
+* [[ITP]Christian Aichele, Marius Schönberger: IT-Projektmanagement. Effiziente
 Einführung in das Management von Projekten](https://www.springer.com/de/book/9783658083885)
-* [Manfred Broy, Marco Kuhrmann: Projektorganisation und Management
+* [[PuM]Manfred Broy, Marco Kuhrmann: Projektorganisation und Management
 im Software Engineering](https://www.springer.com/de/book/9783642292897)
 
 ## Gruppenmitglieder
@@ -24,7 +24,7 @@ im Software Engineering](https://www.springer.com/de/book/9783642292897)
 
 ## Links
 
-[Ausarbeitung](https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/#/)
+[Ausarbeitung](https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/#/)  
 [Dokumentation](https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/#/Dokumentation/)  
 [Tagebücher](https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/#/Tagebücher/)  
 [Jira](https://sw-pm-ws2018-g14-2.atlassian.net)
