@@ -2,11 +2,11 @@
 ---
 Anwesend: Alle
 
-##### Ziele dieses Meetings:
+Ziele dieses Meetings:
 Tools Aufteilunng , Jira einführung,
 Einigung auf den FormStill der Ausarbeitungen.
 
-##### Toolverteillung
+Toolverteillung
 Tools: Ms Projekts : Jakob und Lennard
 Github Projekt : Nick 
 Gira: Richard
@@ -17,14 +17,14 @@ Github Ordnerstruktur, gibt Richard vor.
 Roter Faden in der Ausarbeitung als Vorschlag:
 Zusammenfassung der Kapitel in eigenen Worten und Beispiele beziehen sich konkret auf unser Projekt.
 
-##### StilVorgabe:
+StilVorgabe:
 grobe Überschruft 2## subsections 3###
 
-##### jiraEinführung:
+jiraEinführung:
 In Jira haben wir geübt
 Anlegen von Task im Backlog, zuweisen von Tasks, Sprints anlegen und beenden .Sich mit der Umgebung und Menüs vertraut machen.
 
-##### Gedanken zum Scheduuling der Abschlusspräsentation
+Gedanken zum Scheduuling der Abschlusspräsentation
 
 Überlegung : Die Kapitelverteilung nach dem Ablauf der Präsentation ausrichten.
 
