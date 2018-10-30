@@ -1,16 +1,36 @@
-# Meeting Protokolle
-
-Die Meeting Protokolle werden hier abgelegt. Jedes Protokoll wird dazu mit einer
-Überschrift bestückt. Es muss außerdem die Zeit vom Start und Ende des Meetings
-aufgenommen werden. Am Besten wird die Uhrzeit direkt unter die Überschrift gelegt.
-Für die Protokolle sollte eine Gliederung vorhanden sein.
-
-Die Überschrift sollte das Datum beinhalten am Besten in folgender Form: MP tt-mm-jjjj
-
+##### Protokoll 29.10.2018 12 bis 14 uhr
 ---
+Anwesend: Alle
 
-## MP tt-mm-jjjj
-Start: hh:mm  
-Ende: hh:mm  
-  
-Dieses Protokoll dient als erste Vorlage und darf überschrieben werden.
+##### Ziele dieses Meetings:
+Tools Aufteilunng , Jira einführung,
+Einigung auf den FormStill der Ausarbeitungen.
+
+##### Toolverteillung
+Tools: Ms Projekts : Jakob und Lennard
+Github Projekt : Nick 
+Gira: Richard
+Youtrack: Andre
+
+Github Ordnerstruktur, gibt Richard vor.
+
+Roter Faden in der Ausarbeitung als Vorschlag:
+Zusammenfassung der Kapitel in eigenen Worten und Beispiele beziehen sich konkret auf unser Projekt.
+
+##### StilVorgabe:
+grobe Überschruft 2## subsections 3###
+
+##### jiraEinführung:
+In Jira haben wir geübt
+Anlegen von Task im Backlog, zuweisen von Tasks, Sprints anlegen und beenden .Sich mit der Umgebung und Menüs vertraut machen.
+
+##### Gedanken zum Scheduuling der Abschlusspräsentation
+
+Überlegung : Die Kapitelverteilung nach dem Ablauf der Präsentation ausrichten.
+
+Vorläufige Festlegung des Präsentationsablauf.:
+Jeder stellt die ihm zugewisenen vor und : Personen tragen abwechselnd mehrfach vor.
+
+Ziele bis 5.11:
+Jeder schreibt seine Tasks ins Backlog.
+Markdown sammeldokument , wo jeder seine Ideen zur Presentation einfügen kann.
