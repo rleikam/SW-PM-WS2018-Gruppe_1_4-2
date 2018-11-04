@@ -14,6 +14,11 @@ Datum      | Tätigkeiten                                                 | Daue
 28.10.2018 | Virtuelles Meeting :Gira Projektplannung Organisatorisches | 0:45
 29.10.2018 | Teambesprechung, Gira Einführung, Projektplannung, Aufgabenverteilung,Protokollant | 2:30
 31.10.2018 | Kapitel 8 lesen abgeschlossen | 0:45
+04.11.2018 | Virtuelles Meeting  | 0:00
+04.11.2018 | Tools:Einarbeitung MS Projekts | 0:00
+04.11.2018 | Ausarbeitung Kap8 fortgeführt | 0:00
+
+
 
 <script src="Tagebücher/timeCalculation.js">
 </script>
