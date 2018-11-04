@@ -34,3 +34,21 @@ Jeder stellt die ihm zugewisenen vor und : Personen tragen abwechselnd mehrfach 
 Ziele bis 5.11:
 Jeder schreibt seine Tasks ins Backlog.
 Markdown sammeldokument , wo jeder seine Ideen zur Presentation einfügen kann.
+
+##### Protokoll 4.11.2018 Virtuelles Meeting Start 15:15 Ende 16:15
+---
+Anwesend: Alle außer Lennard.
+
+Jeder hat ein kurzes Wochenreview gemacht.
+
+Festgehalten:
+- Sprint Reviews werden Montag gemacht, am Tag wo wir Sprints starten.
+- Einzelne Ausarbeitungen kommen in Dokumentation/Ausarbeitungen  im github
+- Wir präsentieren in der Reihenfolge , wie die Kapitel zugewiesen wurden
+- 10- 17 Dez machen alle QS in Form von Korrekturlesen eigener und anderer Ausarbeitung
+- Meeting(vorraus)plannung im Github und Umstrukturierung der Darstellung der Protokolle im github.
+- Teil-Ausarbeitungen werden notiert, und werden mittels PR repräsentiert. Werden dann im Sprint Review besprochen und anschließend in die Haupt-Ausarbeitung integriert.
+
+
+Projekt Management in Jira:
+Ziel für Montag in der Nachbesprechung: Anfertigung der Issues im Jira.
