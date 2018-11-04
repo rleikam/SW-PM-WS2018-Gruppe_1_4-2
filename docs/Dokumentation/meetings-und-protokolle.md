@@ -1,5 +1,10 @@
-##### Protokoll 29.10.2018 12 bis 14 uhr
----
+# Meetings und Protokolle
+
+Hier werden alle Meetings und Protokolle zusammengetragen. Meetings sind noch bevorstehende
+Gruppentreffen. Protokolle sind bereits abgeschlossene Meetings mit Protokollaufzeichnung.
+
+### Protokoll 29.10.2018 12 bis 14 uhr
+
 Anwesend: Alle
 
 Ziele dieses Meetings:
@@ -35,8 +40,8 @@ Ziele bis 5.11:
 Jeder schreibt seine Tasks ins Backlog.
 Markdown sammeldokument , wo jeder seine Ideen zur Presentation einfügen kann.
 
-##### Protokoll 4.11.2018 Virtuelles Meeting Start 15:15 Ende 16:15
----
+### Protokoll 04.11.2018 15:15 bis 16:15 uhr
+
 Anwesend: Alle außer Lennard.
 
 Jeder hat ein kurzes Wochenreview gemacht.
@@ -52,3 +57,11 @@ Festgehalten:
 
 Projekt Management in Jira:
 Ziel für Montag in der Nachbesprechung: Anfertigung der Issues im Jira.
+
+### Meeting 5.11.2018 12 bis 14 uhr
+Wahrscheinlich Anwesenden: Alle, außer Lennard Kuhnke
+
+Ziele dieses Meetings:
+* Einführung in das Arbeiten von Jira mit GitHub
+* Erzeugung von Jira Issues im Backlog anhand der Unterkapitel
+* Zusammentragen der Teilausarbeitungen in die Ausarbeitung
