@@ -39,3 +39,12 @@ Jeder stellt die ihm zugewisenen vor und : Personen tragen abwechselnd mehrfach 
 Ziele bis 5.11:
 Jeder schreibt seine Tasks ins Backlog.
 Markdown sammeldokument , wo jeder seine Ideen zur Presentation einfügen kann.
+
+---
+### Meeting 5.11.2018 12 bis 14 uhr
+Wahrscheinlich Anwesenden: Alle, außer Lennard Kuhnke
+
+Ziele dieses Meetings:
+* Einführung in das Arbeiten von Jira mit GitHub
+* Erzeugung von Jira Issues im Backlog anhand der Unterkapitel
+* Zusammentragen der Teilausarbeitungen in die Ausarbeitung
