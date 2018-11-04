@@ -12,6 +12,7 @@ Datum      | Tätigkeiten                                                 | Daue
 28.10.2018 | Markdown einarbeiten | 0:15
 28.10.2018 | Kapitel 8 Manfred Broy lesen und Außerarbeitung beginnen | 3:00
 28.10.2018 | Virtuelles Meeting :Gira Projektplannung Organisatorisches | 0:45
+29.10.2018 | Teambesprechung, Gira Einführung, Projektplannung, Aufgabenverteilung,Protokollant | 2:30
 
 <script src="Tagebücher/timeCalculation.js">
 </script>
