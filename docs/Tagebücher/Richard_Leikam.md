@@ -10,6 +10,9 @@ Datum      | Tätigkeiten                                                       
 28.10.2018 | Gruppenmeeting: Einweisung von Lennard Kuhnke in das Projekt, Besprechung über das morgige Vorgehen       | 0:30
 29.10.2018 | Gruppenmeeting: Jira Einführung, Weitere Aufgabenverteilung, Besprechung über die Projektmanagement-Tools | 1:50
 29.10.2018 | Dokumente umstrukturiert, Integration der ersten Ausarbeitung des PiS                                     | 0:50
+04.10.2018 | Dokument zum Erstellen von Smart Commits erstellt					                                       | 1:00
+04.10.2018 | Virtuelles Meeting: Festlegen von Teilausarbeitungen, spezieller QS-Sprint, Meetingplanung geändert       | 1:00
+04.10.2018 | Dokument für Teilausarbeitung angelegt, Umstrukturierung des Meetingplans                                 | 0:20
 
 <script src="Tagebücher/timeCalculation.js">
 </script>
