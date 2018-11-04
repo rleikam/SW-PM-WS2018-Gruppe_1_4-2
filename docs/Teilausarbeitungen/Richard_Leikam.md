@@ -1,0 +1,1 @@
+# Ausarbeitung Richard Leikam
