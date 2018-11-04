@@ -1,5 +1,10 @@
-##### Protokoll 29.10.2018 12 bis 14 uhr
----
+# Meetings und Protokolle
+
+Hier werden alle Meetings und Protokolle zusammengetragen. Meetings sind noch bevorstehende
+Gruppentreffen. Protokolle sind bereits abgeschlossene Meetings mit Protokollaufzeichnung.
+
+### Protokoll 29.10.2018 12 bis 14 uhr
+
 Anwesend: Alle
 
 Ziele dieses Meetings:

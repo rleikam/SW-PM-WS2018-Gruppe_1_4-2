@@ -1,5 +1,5 @@
 * [Software-Projektmanagement](/Dokumentation/)
-* [Meeting Protokolle](/Dokumentation/meeting-protokolle.md)
+* [Meetings und Protokolle](/Dokumentation/meetings-und-protokolle.md)
 * [Ideensamlung: Präsentation](/Dokumentation/ideensammlung-präsentation.md)
 * [How to docsify](/Dokumentation/how-to-docsify.md)
 * [How to Jira-GitHub](/Dokumentation/how-to-jira-github.md)
