@@ -21,6 +21,14 @@ im Software Engineering](https://www.springer.com/de/book/9783642292897)
 * Kevin Gerzen
 * Lennard Kuhnke
 
+## Kapitelverteilung
+
+* Kevin Gerzen: 6 und 5
+* Nick Friedrich: 4 und 11
+* André Grellmann: 7 und 12
+* Jakob Tissen: 10 und 8
+* Richard Leikam: 3 und 9
+* Lennard Kuhnke: 2 und 1
 
 ## Links
 
