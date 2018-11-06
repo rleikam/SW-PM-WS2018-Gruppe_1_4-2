@@ -10,6 +10,7 @@ Datum      | Tätigkeiten                                                       
 03.11.2018 | Ausarbeitung Haupt-Buch Kap. 7.3                                    | 1:00
 04.11.2018 | VoIP Gruppenbesprechung: Wochen (Kompakt-)Review, organisatorisches | 1:00
 05.11.2018 | Meeting: Jira Smart Commits, Wochenbesprechung, Issues erstellen    | 2:30
+06.11.2018 | Ausarbeitung Haupt-Buch Kap. 7.4                                    | 1:00
 
 <script src="Tagebücher/timeCalculation.js">
 </script>
