@@ -17,6 +17,8 @@ Datum      | Tätigkeiten                                                 | Daue
 04.11.2018 | Virtuelles Meeting ,review, organisation | 1:00
 04.11.2018 | Tools:Einarbeitung MS Projekts und vorläufige Ausarbeitung | 0:40
 05.11.2018 | Kap 10 Metriken durchgelesen und Kap 1 überflogen | 1:00
+05.11.2018 | Meeting, Jira Task Erstellung ,einweisung github integration,Organisatorisches| 2:30
+10.11.2018 | Ausarbeitung Kapitel 8 bis 8.2.3 | 5:30
 
 
 
