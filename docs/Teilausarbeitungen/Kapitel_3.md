@@ -29,3 +29,25 @@ Im **Softwarelebenszyklus** beschreibt man die Entwicklung von Softwaresystemen.
 von Software z.B. Software auf CD's produziert und verkauft werden, dann lässt sich von einem Softwareprodukt sprechen.
 Der Softwarelebenszyklus wird meist folgendermaßen aus der Anforderungsfestlegung, Grob- und Feinentwurf, Implementierung,
 Test und Integration, Erprobung und Inbetriebnahme, der Wartung und Weiterentwicklung, sowie der Außerbetriebnahme beschrieben.
+
+### Projektlebenszyklus
+
+Die Phasen Projektentstehung, Projektdefinition, Projektdurchführung, Projektabschluss bilden ein **Grundmodell** ab. Die einzelnen
+Phasen werden weiter verfeinert. Dabei legt jede Phase bestimmte Schwerpunkte auf die zu auszuführenden Tätigkeiten fest. Jede
+Phase hat eine Gliederung von Aufgaben, Aktivitäten und Tätigkeiten. Dabei erarbeitet jede Tätigkeit bestimmte Ergebnisse,
+die **Artefakte** genannt werden.  
+
+In der **Projektentstehung** werden Ideen zusammengetragen und weiter detaillierter ausgearbeitet. Die Projektideen können dabei
+durch Eigenhand, durch Bedarf von Kunden oder durch Probleme entstehen. Anschließend müssen diese beurteilt bzw. analyisert werden.
+Darunter stellen sich Fragen, ob diese Projektideen **Machbar** sind und welche **Risiken** entstehen könnten. Ebenfalls spielt hier
+auch die **Wirtschaftlichkeit** eine wichtige Rolle. Nach einer solchen Beurteilung entsteht eine **Projektskizze**, die als
+**Entscheidungsgrundlage** dient. Durch eine erste Prüfung dieser Skizze wird festgestellt, ob die Projektidee weiterverfolgt wird. Bei
+Erfolg müssen schon Kosten, Aufwand, Herausforderungen, Wirtschaftlichkeit und Projektrisiken berücksichtigt werden. Somit ist das Ziel
+das Ausarbeiten dieser Aspekte damit ein **Projektauftrag** erfolgen kann.  
+
+Nach der Erteilung des Projektauftrags setzt man mit der **Projektvereinbarung** das Ziel sich auf das Projekt zu konzentrieren.
+Es werden Entscheidungen darüber getroffen, ob das Projekt eine Eigenentwicklung mit intern verfügbaren Ressourcen oder auf einen
+externen Dienstleister erfolgen soll.
+
+
+
