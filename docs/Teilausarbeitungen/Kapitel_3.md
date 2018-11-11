@@ -13,3 +13,6 @@ Diese sind der **Produktlebenszyklus**, welcher den Lebenszyklus eines Produktes
 der die Struktur für ein Projekt mit den normalerweise üblichen Phasen Projektentstehung, Projektdurchführung und
 Projektabschluss beschreibt und der **Softwarelebenszyklus** bei der die Entwicklungsphase, dem Betrieb und der Außerbetriebnahme
 eines Softwaresystems beschrieben wird.
+
+Im Rahmen des sogenannten Product Life Cycle Management wird der **Produktlebenzyklus** eines Produktes mitsamt seiner Entstehung,
+Entwicklung, Produktion und Markteinführung oder Inbetriebnahme und Betrieb und der Stillung des Produktes, definiert.  
