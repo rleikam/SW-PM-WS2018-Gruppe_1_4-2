@@ -65,3 +65,39 @@ Ziele dieses Meetings:
 * Einführung in das Arbeiten von Jira mit GitHub
 * Erzeugung von Jira Issues im Backlog anhand der Unterkapitel
 * Zusammentragen der Teilausarbeitungen in die Ausarbeitung
+
+### Protokoll 11.11.2018 20:00 bis 20:30 Uhr
+
+Anwesend: Nick Friedrich, Jakob Tissen, Richard Leikam  
+Autor: Richard Leikam  
+
+Ziele dieses Meetings:
+* Reihenfolge der Teilausarbeitungen festlegen
+
+Nick Friedrich:
+- Vorgehensmodelle
+	- Wasserfallmodell
+	- Spiralmodell
+- Agile Vorgehensmodelle
+
+Richard Leikam:
+- Definition vom Projektlebenszyklus, Softwarelebenszyklus, Produktlebenszyklus
+	- Projektlebenszyklus und Phasen
+
+Jakob Tissen:
+- Prozessdurchführung
+	- Arbeitsphase
+	- Einhalten der Rahmenbedingungen durch das 
+	  Management während der Projektdurchfürung
+	  aufgrund verschiedener Aspekte
+	- Konzepte für die Projektfortschrittskontrolle
+	- Aufwandserfassung
+	- Gegenmaßnahmen und Werkzeuge zur Gestaltung
+      der Durchführungsphase
+
+- Kapitel 3 und Kapitel 8 grobe Überschneidung
+
+Festgelegte Reihenfolge:
+1. Vorgehensmodelle
+2. Projektlebenszyklus
+3. Prozessdurchführung
