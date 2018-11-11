@@ -12,6 +12,9 @@ Datum      | Tätigkeiten                                                       
 05.11.2018 | Meeting: Jira Smart Commits, Wochenbesprechung, Issues erstellen    | 2:30
 06.11.2018 | Ausarbeitung Haupt-Buch Kap. 7.4                                    | 1:00
 07.11.2018 | Ausarbeitung Haupt-Buch Kap. 7.5                                    | 0:45
+08.11.2018 | Ausarbeitung Haupt-Buch Kap. 7.6                                    | 1:00
+10.11.2018 | Ausarbeitung Haupt-Buch Kap. 7.6 & Fließtextkonvertierung Kap. 7    | 1:30
+11.11.2018 | Fließtextkonvertierung Kap. 7                                       | 1:15
 
 <script src="Tagebücher/timeCalculation.js">
 </script>
