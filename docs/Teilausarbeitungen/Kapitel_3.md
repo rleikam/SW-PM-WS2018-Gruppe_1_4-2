@@ -47,7 +47,15 @@ das Ausarbeiten dieser Aspekte damit ein **Projektauftrag** erfolgen kann.
 
 Nach der Erteilung des Projektauftrags setzt man mit der **Projektvereinbarung** das Ziel sich auf das Projekt zu konzentrieren.
 Es werden Entscheidungen darüber getroffen, ob das Projekt eine Eigenentwicklung mit intern verfügbaren Ressourcen oder auf einen
-externen Dienstleister erfolgen soll.
+externen Dienstleister erfolgen soll.  
+
+Bei der **Projektdefinition** wird das Projekt nun ausgestaltet. Hier fallen nun die Zusammenstellung des Projektteams, organisatorische
+Regeln für das Projekt und Planungsaufgaben.  
+
+Bevor mit der eigentlichen Arbeit angefangen werden kann, muss das Projekt mit dem **Set-Up** beginnen. Hier findet die **Strukturierung** des
+Projektes mit dem Aufbau und der Bereitstellung der **Projektinfrastruktur** statt. Ebenso wird hier das **Projektteam** mit der Besetztung
+der **Projektrollen** und den entsprechenden **Zuständigkeiten** gebildet. Am Ende entsteht das sogenannte **Projekthandbuch**, welches
+die Regeln für alle Beteiligten des Projekts wiedergibt.  
 
 
 
