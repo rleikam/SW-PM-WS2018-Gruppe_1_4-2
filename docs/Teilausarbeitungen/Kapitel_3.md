@@ -75,5 +75,18 @@ unterschiedliche Projektpläne an, wie Meilensteinpläne, Arbeits- und Zeitplän
 die **Grundlage der Projektdurchführung**. Sie enthalten die **Soll-Vorgaben** für das Projekt und beschreiben die **Ist-Vorgaben** durch Referenz
 auf die Messung.
 
+Innerhalb der **Projektdurchführung** wird das Projekt nun umgesetzt. Hier werden kontinuierliche Tätigkeiten, wie die Organisation
+der Projektarbeit, dem Management der Projektressourcen, dem Controlling, der Umplanung von Projektzielen, Kosten und etliches,
+das Erkennen und lösen von Problemen und Konflikten und der Dokumentation, ausgeführt.
 
+In der **Projektfortschrittskontrolle** erfasst man anhand der Kennzahlen die Messung vom Ist-Zustand des Projektes und den Soll-Vorgaben
+den **Arbeitsstand** des Projektes. Darunter fallen als wichtige Parameter Zeit, Kosten, Zielsetzung für das Management an. Zudem spielt
+das **Berichtswesen** eine wichtige Rolle, damit der Projektstatus für Stakeholder sichtbar gemacht wird.
+
+Neben der Projektfortschrittskontrolle gibt es auch die **Qualitätskontrolle und -steuerung**. Diese überwacht und steuert die Qualität im
+Projekt ebenfalls durch Kennzahlen oder Anforderungen. Auch hier findet das Berichtswesen statt, damit die Entwicklung der Qualität sichtbar
+gemacht werden kann.
+
+In der **Systementwicklung** wird das geplante Softwaresystem umgesetzt. Darunter fallen Aufgaben wie die Entwurfsaufgaben für das System,
+die Implementierung und Dokumentation, die Schulung der Anwender und der Auslieferung der Software.
 
