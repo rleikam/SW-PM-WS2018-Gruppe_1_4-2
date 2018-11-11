@@ -21,3 +21,9 @@ Wie schon oben beschrieben, folgt der **Projektlebenszyklus** 3 Phasen. In einem
 Bei der **Projektentstehung** werden Ideen für die Entwicklung von Software gesammelt und dann verstärkt in der
 **Projektdefinition** ausgearbeitet. In der **Projektdurchführung** findet dann die eigentliche Entwicklung statt und
 bei der Abgabe der Software an den Kunden findet der **Projektabschluss** statt.
+
+Im **Softwarelebenszyklus** beschreibt man die Entwicklung von Softwaresystemen. Hier ist es wichtig mit dem Begriff
+**Softwareprodukt** zu hantieren, da bei der Entwicklung einer Software kein materielles Gut erschaffen wird. Wenn Waren
+von Software z.B. Software auf CD's produziert und verkauft werden, dann lässt sich von einem Softwareprodukt sprechen.
+Der Softwarelebenszyklus wird meist folgendermaßen aus der Anforderungsfestlegung, Grob- und Feinentwurf, Implementierung,
+Test und Integration, Erprobung und Inbetriebnahme, der Wartung und Weiterentwicklung, sowie der Außerbetriebnahme beschrieben.
