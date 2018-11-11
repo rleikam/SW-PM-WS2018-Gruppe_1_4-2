@@ -57,5 +57,23 @@ Projektes mit dem Aufbau und der Bereitstellung der **Projektinfrastruktur** sta
 der **Projektrollen** und den entsprechenden **Zuständigkeiten** gebildet. Am Ende entsteht das sogenannte **Projekthandbuch**, welches
 die Regeln für alle Beteiligten des Projekts wiedergibt.  
 
+Im **Set-Up** muss ebenfalls ein **Projektmangementverfahren** festgelegt werden. Eine gute Kombination aus den vielen Methoden und Verfahren
+für das Projektmanagement ermöglicht eine **effiziente und übersichtliche** Projektplanung- und Durchführung. Im wesentlichen gibt es für
+das Verfahren, dass Risikomanagement, das Problem- und Änderungsmanagement, das Versions-und Konfigurationsmanagement und das Berichtswesen.
+Außerdem werden die Kennzahlen für den Projektfortschritt festgelegt.
+
+Ein **Verfahren für Qualitätssicherung** muss in der Projektdefinition ebenfalls enthalten sein. Dazu wählt man passende 
+Qualitätssicherungsmethoden aus zur Erreichung der Qualitätsziele. Diese dokumentiert man und lässt dieses für alle Mitglieder
+z.B. als QS-Handbuch zugreifbar sein.
+
+Die **Projektinfrastruktur** ermöglicht es dem Projektteam effizient zu arbeiten. Darunter fallen Festlegungen zu Hardware, Software,
+Kommunikationsinfrastruktur und auch Projektablagen. Viele Arbeiten in der Softwareentwicklungen fallen mit der Unterstützung von Werkzeugen
+zusammen. Diese Werkzeuge müssen auch festgelegt und eventuell sogar beschaffen werden.
+
+Innerhalb der Projektdefinition muss eine **Projektplanung** durchgeführt werden. Darunter fallen je nach Komplexität des Projekts
+unterschiedliche Projektpläne an, wie Meilensteinpläne, Arbeits- und Zeitpläne, Ressourcenpläne etc. die erstellt werden müssen und sind
+die **Grundlage der Projektdurchführung**. Sie enthalten die **Soll-Vorgaben** für das Projekt und beschreiben die **Ist-Vorgaben** durch Referenz
+auf die Messung.
+
 
 
