@@ -90,3 +90,7 @@ gemacht werden kann.
 In der **Systementwicklung** wird das geplante Softwaresystem umgesetzt. Darunter fallen Aufgaben wie die Entwurfsaufgaben für das System,
 die Implementierung und Dokumentation, die Schulung der Anwender und der Auslieferung der Software.
 
+Bei der Übergabe der Projektergebnisse gelangt man zum **Projektabschluss**. Die Erkenntnisse des Projekts müssen nun für weitere Projekte
+gesichert und zugänglich gemacht werden. Die anfallenden Aufgaben sind die Übergabe der Projektergebnisse, sowie die Vorbereitung und Durchführung
+des Projektabschlusses, der Abrechung des Projekts, die Retrospektive zum Projekt und das Auflösen des Projektteams mit der Freigabe der Ressourcen.
+
