@@ -16,3 +16,8 @@ eines Softwaresystems beschrieben wird.
 
 Im Rahmen des sogenannten Product Life Cycle Management wird der **Produktlebenzyklus** eines Produktes mitsamt seiner Entstehung,
 Entwicklung, Produktion und Markteinführung oder Inbetriebnahme und Betrieb und der Stillung des Produktes, definiert.  
+
+Wie schon oben beschrieben, folgt der **Projektlebenszyklus** 3 Phasen. In einem Softwareprojekt ist dies ähnlich.
+Bei der **Projektentstehung** werden Ideen für die Entwicklung von Software gesammelt und dann verstärkt in der
+**Projektdefinition** ausgearbeitet. In der **Projektdurchführung** findet dann die eigentliche Entwicklung statt und
+bei der Abgabe der Software an den Kunden findet der **Projektabschluss** statt.
