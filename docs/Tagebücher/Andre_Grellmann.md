@@ -15,6 +15,7 @@ Datum      | Tätigkeiten                                                       
 08.11.2018 | Ausarbeitung Haupt-Buch Kap. 7.6                                    | 1:00
 10.11.2018 | Ausarbeitung Haupt-Buch Kap. 7.6 & Fließtextkonvertierung Kap. 7    | 1:30
 11.11.2018 | Fließtextkonvertierung Kap. 7                                       | 1:15
+12.11.2018 | Meeting: Wochenbesprechung                                          | 2:30
 
 <script src="Tagebücher/timeCalculation.js">
 </script>
