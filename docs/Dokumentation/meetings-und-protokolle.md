@@ -66,6 +66,34 @@ Ziele dieses Meetings:
 * Erzeugung von Jira Issues im Backlog anhand der Unterkapitel
 * Zusammentragen der Teilausarbeitungen in die Ausarbeitung
 
+### Projektmanagement Sprint Review 05.11.2018 11.30 - 12.00 Uhr
+Protokollant: Kevin Gerzen
+Anwesend: Alle außer Lennard
+
+
+- Evaluierung zwischen PM-Tools durch eine Matrix.
+
+- Remark.js installieren und einarbeiten. Kevin
+- How-To für Remark.js schreiben
+- Idee: Teilausarbeitungen Kapitelweise zusammenfassen
+
+- Bis nächste Woche: - Teilausarbeitungen zusammenfügen
+	- Eigene Tasks in Jira erstellen 
+	- Remark.js installieren
+	- Bug-Report Jira Development Panel
+	- Julian Wasilewski, nachfragen wegen MS Projects
+	
+	
+	
+### Protokoll 05.11.2018 12 Uhr
+Protokollant: Kevin Gerzen
+Anwesend: Alle außer Lennard
+
+- Einführung in Jira Smart-Commits
+- Aus den anderen Büchern thematisch ähnliche Kapitel bearbeiten
+- Literaturverweise: Kapitel-Nr., fortlaufende Nummer
+- Backlog Issues erstellen
+
 ### Protokoll 11.11.2018 20:00 bis 20:30 Uhr
 
 Anwesend: Nick Friedrich, Jakob Tissen, Richard Leikam  
