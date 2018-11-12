@@ -3,13 +3,18 @@
 Hier werden alle Meetings und Protokolle zusammengetragen. Meetings sind noch bevorstehende
 Gruppentreffen. Protokolle sind bereits abgeschlossene Meetings mit Protokollaufzeichnung.
 
-### Protokoll 29.10.2018 12 bis 14 uhr
+---
+---
 
+### Protokoll 29.10.2018 12:00 - 14:00 uhr
+Protokollant: Jakob Tissen
 Anwesend: Alle
+Ziele:
+* Tools Aufteilunng
+* Jira einführung
+* Einigung auf den FormStill der Ausarbeitungen.
 
-Ziele dieses Meetings:
-Tools Aufteilunng , Jira einführung,
-Einigung auf den FormStill der Ausarbeitungen.
+---
 
 Toolverteillung
 Tools: Ms Projekts : Jakob und Lennard
@@ -40,9 +45,15 @@ Ziele bis 5.11:
 Jeder schreibt seine Tasks ins Backlog.
 Markdown sammeldokument , wo jeder seine Ideen zur Presentation einfügen kann.
 
-### Protokoll 04.11.2018 15:15 bis 16:15 uhr
+---
+---
 
+### Protokoll 04.11.2018 15:15 - 16:15 uhr
+Protokollant: Jakob Tissen
 Anwesend: Alle außer Lennard.
+Ziele: n.a.
+
+---
 
 Jeder hat ein kurzes Wochenreview gemacht.
 
@@ -58,10 +69,15 @@ Festgehalten:
 Projekt Management in Jira:
 Ziel für Montag in der Nachbesprechung: Anfertigung der Issues im Jira.
 
-### Sprint Review 05.11.2018 11.30 - 12.00 Uhr
+---
+---
+
+### Sprint Review 05.11.2018 11:30 - 12:00 Uhr
 Protokollant: Kevin Gerzen
 Anwesend: Alle außer Lennard
+Ziele: n.a.
 
+---
 
 - Evaluierung zwischen PM-Tools durch eine Matrix.
 
@@ -76,24 +92,34 @@ Anwesend: Alle außer Lennard
 	- Bug-Report Jira Development Panel
 	- Julian Wasilewski, nachfragen wegen MS Projects
 	
-### Protokoll 05.11.2018 12 Uhr - 14 Uhr
+---
+---
+
+### Protokoll 05.11.2018 12:00 Uhr - 14:00 Uhr
 Protokollant: Kevin Gerzen
 Anwesend: Alle außer Lennard
-Ziele dieses Meetings:
+Ziele:
 * Einführung in das Arbeiten von Jira mit GitHub
 * Erzeugung von Jira Issues im Backlog anhand der Unterkapitel
 * Zusammentragen der Teilausarbeitungen in die Ausarbeitung
+
+---
 
 - Einführung in Jira Smart-Commits
 - Aus den anderen Büchern thematisch ähnliche Kapitel bearbeiten
 - Literaturverweise: Kapitel-Nr., fortlaufende Nummer
 - Backlog Issues erstellen
 
-### Protokoll 11.11.2018 20:00 bis 20:30 Uhr
-Protokollant: Richard Leikam  
-Anwesend: Nick Friedrich, Jakob Tissen, Richard Leikam  
-Ziele dieses Meetings:
+---
+---
+
+### Protokoll 11.11.2018 20:00 - 20:30 Uhr
+Protokollant: Richard Leikam
+Anwesend: Nick Friedrich, Jakob Tissen, Richard Leikam
+Ziele:
 * Reihenfolge der Teilausarbeitungen festlegen
+
+---
 
 Nick Friedrich:
 - Vorgehensmodelle
@@ -122,3 +148,6 @@ Festgelegte Reihenfolge:
 1. Vorgehensmodelle
 2. Projektlebenszyklus
 3. Prozessdurchführung
+
+---
+---
