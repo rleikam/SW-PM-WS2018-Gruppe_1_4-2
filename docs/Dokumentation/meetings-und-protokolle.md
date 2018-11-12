@@ -58,15 +58,7 @@ Festgehalten:
 Projekt Management in Jira:
 Ziel für Montag in der Nachbesprechung: Anfertigung der Issues im Jira.
 
-### Meeting 5.11.2018 12 bis 14 uhr
-Wahrscheinlich Anwesenden: Alle, außer Lennard Kuhnke
-
-Ziele dieses Meetings:
-* Einführung in das Arbeiten von Jira mit GitHub
-* Erzeugung von Jira Issues im Backlog anhand der Unterkapitel
-* Zusammentragen der Teilausarbeitungen in die Ausarbeitung
-
-### Projektmanagement Sprint Review 05.11.2018 11.30 - 12.00 Uhr
+### Sprint Review 05.11.2018 11.30 - 12.00 Uhr
 Protokollant: Kevin Gerzen
 Anwesend: Alle außer Lennard
 
@@ -77,17 +69,20 @@ Anwesend: Alle außer Lennard
 - How-To für Remark.js schreiben
 - Idee: Teilausarbeitungen Kapitelweise zusammenfassen
 
-- Bis nächste Woche: - Teilausarbeitungen zusammenfügen
+- Bis nächste Woche:
+	- Teilausarbeitungen zusammenfügen
 	- Eigene Tasks in Jira erstellen 
 	- Remark.js installieren
 	- Bug-Report Jira Development Panel
 	- Julian Wasilewski, nachfragen wegen MS Projects
 	
-	
-	
-### Protokoll 05.11.2018 12 Uhr
+### Protokoll 05.11.2018 12 Uhr - 14 Uhr
 Protokollant: Kevin Gerzen
 Anwesend: Alle außer Lennard
+Ziele dieses Meetings:
+* Einführung in das Arbeiten von Jira mit GitHub
+* Erzeugung von Jira Issues im Backlog anhand der Unterkapitel
+* Zusammentragen der Teilausarbeitungen in die Ausarbeitung
 
 - Einführung in Jira Smart-Commits
 - Aus den anderen Büchern thematisch ähnliche Kapitel bearbeiten
@@ -95,10 +90,8 @@ Anwesend: Alle außer Lennard
 - Backlog Issues erstellen
 
 ### Protokoll 11.11.2018 20:00 bis 20:30 Uhr
-
+Protokollant: Richard Leikam  
 Anwesend: Nick Friedrich, Jakob Tissen, Richard Leikam  
-Autor: Richard Leikam  
-
 Ziele dieses Meetings:
 * Reihenfolge der Teilausarbeitungen festlegen
 
