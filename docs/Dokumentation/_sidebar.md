@@ -4,3 +4,4 @@
 * [How to docsify](/Dokumentation/how-to-docsify.md)
 * [How to Jira-GitHub](/Dokumentation/how-to-jira-github.md)
 * [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [How to Remark](/Dokumentation/how-to-remark.md)
