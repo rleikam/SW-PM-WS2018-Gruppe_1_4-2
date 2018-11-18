@@ -95,3 +95,9 @@ gesichert und zugänglich gemacht werden. Die anfallenden Aufgaben sind die Übe
 des Projektabschlusses, der Abrechung des Projekts, die Retrospektive zum Projekt und das Auflösen des Projektteams mit der Freigabe der Ressourcen.
 
 ### Softwarelebenszyklus und der Entwicklungsprozess
+
+Der Softwarelebenszyklus bildet eine Struktur für eine zu entwickelnde Software ab.
+Anhand der Phasen werden jeweilige Arbeiten zugeordnet. Im Softwarelebenszyklus
+werden zu dem Tätigkeiten und Artefakte beschrieben. Der Entwicklungsprozess gibt
+zu dem entsprechenden Softwarelebenszyklus Rollen und Abläufe an und 
+beides zusammen ergibt dann das Vorgehensmodell.
