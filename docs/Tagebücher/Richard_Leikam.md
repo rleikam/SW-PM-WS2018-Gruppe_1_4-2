@@ -15,6 +15,9 @@ Datum      | Tätigkeiten                                                       
 04.11.2018 | Dokument für Teilausarbeitung angelegt, Umstrukturierung des Meetingplans                                                | 0:20
 11.11.2018 | Ausarbeitung: Kapitel 3, Subkapitel 1-3 fertiggestellt                                                                   | 4:00
 11.11.2018 | Virtuelles Meeting: Kurze Zusammenfassung der Teilausarbeitungen besprochen, Reihenfolge der Teilausarbeitung festgelegt | 0:30
+12.11.2018 | Gruppenmeeting: Wiederholung zu Jira und GitHub, Weitere Tasks erzeugt, Planung des Sprints                              | 2:00
+16.11.2018 | Ausarbeitung: Kapitel 3, Subkapitel 4 - Softwarelebenszyklus und Entwicklungsprozess mit wichtigen Faktoren beschrieben  | 0:30
+18.11.2018 | Ausarbeitung: Kapitel 3, Subkapitel 4 fertiggestellt                                                                     | 3:00
 
 <script src="Tagebücher/timeCalculation.js">
 </script>
