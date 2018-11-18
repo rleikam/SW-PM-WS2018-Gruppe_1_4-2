@@ -117,3 +117,7 @@ Teilergebnissen der vorherigen Phasen begonnen werden. Dies macht gern man wegen
 Phasen. Für eine parallele Ausführung werden die entsprechenden Ressourcen und mehr Planung benötigt, damit die Resultate in späteren
 Phasen rechtzeitig vorliegen.
 
+Entwicklungsprozesse sind in den Lebenszyklus von Projekten eingebunden. Hier spricht man vom **Projektkontext**. Ein Projekt hat allerdings
+immer nur einen einzigen Entwicklungsprozess eingebettet. Daher werden Projekte mit großem Umfang oft als einzelne Projekte ausgeführt.
+Dadurch gelangt man zu **Projekthierarchien** in einem Projekt, bei denen eine oder mehrere Projekte in den einzelnen Phasen integriert werden
+und sogar parallel bearbeitet werden können.
