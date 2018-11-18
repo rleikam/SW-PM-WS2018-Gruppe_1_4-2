@@ -94,3 +94,4 @@ Bei der Übergabe der Projektergebnisse gelangt man zum **Projektabschluss**. Di
 gesichert und zugänglich gemacht werden. Die anfallenden Aufgaben sind die Übergabe der Projektergebnisse, sowie die Vorbereitung und Durchführung
 des Projektabschlusses, der Abrechung des Projekts, die Retrospektive zum Projekt und das Auflösen des Projektteams mit der Freigabe der Ressourcen.
 
+### Softwarelebenszyklus
