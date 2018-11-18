@@ -144,3 +144,9 @@ Tests oder Reviews geprüft um damit das richtige Zusammenspiel der einzelnen Be
 Am Ende der Softwareentwicklung steht nun die **Erprobung und die Übergabe der Software** an. Dies erfolgt normalerweise durch Auslieferung,
 der Installation und der Nutzungsfreigabe der Software. Es ist wichtig hierbei die Kundenzufriedenheit zu gewährleisten. In dieser Phase
 sieht man das System im vollen Einsatz und die ergebenden echten Qualitäten. Somit ist das System nun ausgeliefert.
+
+Das **Betreiben und die Weiterentwicklung** der Software gehört nicht mehr zur eigentlichen Softwareentwicklung dazu. Vorallem, weil
+diese Aufgaben nicht zeitbegrenzt sind und dies der Definition eines Projekts widerspricht. Trotzdem sollten sogar bereits in der
+Projektdurchführung Gedanken dazu gemacht werden, wie der weitere Lebenszyklus der Software nach der Abgabe sich gestaltet. Dabei
+können die entsprechenden Kennzahlen anders auch **KPI (Key Performance Indicator)** genannt behilflich sein. Die Frage, wann allerdings
+ein altes System durch eines neues System ersetzt werden muss ist schwer zu entscheiden.
