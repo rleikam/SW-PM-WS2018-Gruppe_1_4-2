@@ -94,3 +94,59 @@ Bei der Übergabe der Projektergebnisse gelangt man zum **Projektabschluss**. Di
 gesichert und zugänglich gemacht werden. Die anfallenden Aufgaben sind die Übergabe der Projektergebnisse, sowie die Vorbereitung und Durchführung
 des Projektabschlusses, der Abrechung des Projekts, die Retrospektive zum Projekt und das Auflösen des Projektteams mit der Freigabe der Ressourcen.
 
+### Softwarelebenszyklus und der Entwicklungsprozess
+
+Der Softwarelebenszyklus bildet eine Struktur für eine zu entwickelnde Software ab.
+Anhand der Phasen werden jeweilige Arbeiten zugeordnet. Im Softwarelebenszyklus
+werden zu dem Tätigkeiten und Artefakte beschrieben. Der Entwicklungsprozess gibt
+zu dem entsprechenden Softwarelebenszyklus Rollen und Abläufe an und 
+beides zusammen ergibt dann das Vorgehensmodell.
+
+Es gibt beim **Entwicklungsprozess** zwei verschiedene **Faktoren**, die für Kosten, Termine
+und Qualität relevant sind. Dies sind zum einen zur Verfügung stehende **Ressourcen**, wie Personal,
+Finanzbudgets, Werkzeuge und Räumlichkeiten bzw. Arbeitsumgebungen. Die Ressourcen sollten auf das
+Projekt abgestimmt werden, sonst kann es zur Behinderung des Projektsfortschritts kommen. Der andere
+Faktor sind die **Vorgaben** für die Projektdurchführung, wie die Verträge, Rahmenbedingungen, Terminplan,
+Budgetplan, Qualitätsvorgaben, Standards und weitere Vorgaben wie zur Aufteilung der Verantwortungen.
+
+Mit dem **V-Modell** lässt sich ein allgemeiner Entwicklungsprozess darstellen, bei denen die unterteilten Aufgaben
+und auch das Gesamtergebnis durch die Integration von Einzelnergebnissen sichtbar gemacht werden. Ebenfalls werden damit
+Ebenen dargestellt, die es erlauben zwei Phasen gegeneinander zu stützen z.B. die Phase Systementwurf mit der Phase Integration.
+Es werden in der Praxis leider nicht immer alle Phasen vollständig ausgeführt, so dass die nächsten Phasen nur mit
+Teilergebnissen der vorherigen Phasen begonnen werden. Dies macht gern man wegen der Rückkopplung von späteren Phasen auf die früheren
+Phasen. Für eine parallele Ausführung werden die entsprechenden Ressourcen und mehr Planung benötigt, damit die Resultate in späteren
+Phasen rechtzeitig vorliegen.
+
+Entwicklungsprozesse sind in den Lebenszyklus von Projekten eingebunden. Hier spricht man vom **Projektkontext**. Ein Projekt hat allerdings
+immer nur einen einzigen Entwicklungsprozess eingebettet. Daher werden Projekte mit großem Umfang oft als einzelne Projekte ausgeführt.
+Dadurch gelangt man zu **Projekthierarchien** in einem Projekt, bei denen eine oder mehrere Projekte in den einzelnen Phasen integriert werden
+und sogar parallel bearbeitet werden können.
+
+Die erste Phase im Entwicklungsprozess stellt meistens das **Aufstellen bzw. das analysieren von Anforderung** der Software dar.
+Im **Lastenheft** sind die eigentlichen Kernanforderungen an eine Software gegeben. Diese Anforderungen müssen dann **verfeinert** werden,
+wobei darauf geachtet werden muss, dass dabei keine unnötigen Anforderungen entstehen. Die entsprechenden Anforderungen werden dann auch
+normalerweise geschätzt. Dadurch ergibt sich dann das **Pflichtenheft**, welches zur Umsetzung und erreichen der entsprechenden Ziele 
+genutzt wird.
+
+In der Phase des **Systementwurfs** legt man die System- und Softwarearchitektur fest. Die Beschreibung der Architektur ist
+für die Implementierung und Integration relevant und legt auch schon wichtige Qualitätsmerkmale fest. Die Architektur sollte daher
+sorgfälltigst dokumentiert sein. Daraus resultiert sich dann die **Softwarearchitektur** des zu entwickelnden Systems.
+
+In der **Implementierungs-, Verifikations- und Testphase** werden die einzelnen **Arbeitspakete abgearbeitet**, damit das System
+erstellt wird. Es entstehen viele Artefakte, wie Modelle, Code, Ressourcendateien und Testfälle. Es herrscht in dieser Phase ein
+sehr hoher Personalaufwand. Es ist daher wichtig eine gute Koordination und Qualitätsmaßstäbe zu setzen. Ebenfalls sollte die
+Implementierung nicht zu früh begonnen werden, da dies nur Kosten und Kommunikationsaufwand erzeugt für das Personal erzeugt.
+Daher ist eine ausreichende Präzisierung der Implementierungsaufgaben zur Erreichung des Ziels relevant.
+
+Bei der **Test- und Integrationsphase** werden die einzelnen Bestandteile des Systems nun zusammengeführt und durch automatisierte
+Tests oder Reviews geprüft um damit das richtige Zusammenspiel der einzelnen Bestandteile erfassen zu können.
+
+Am Ende der Softwareentwicklung steht nun die **Erprobung und die Übergabe der Software** an. Dies erfolgt normalerweise durch Auslieferung,
+der Installation und der Nutzungsfreigabe der Software. Es ist wichtig hierbei die Kundenzufriedenheit zu gewährleisten. In dieser Phase
+sieht man das System im vollen Einsatz und die ergebenden echten Qualitäten. Somit ist das System nun ausgeliefert.
+
+Das **Betreiben und die Weiterentwicklung** der Software gehört nicht mehr zur eigentlichen Softwareentwicklung dazu. Vorallem, weil
+diese Aufgaben nicht zeitbegrenzt sind und dies der Definition eines Projekts widerspricht. Trotzdem sollten sogar bereits in der
+Projektdurchführung Gedanken dazu gemacht werden, wie der weitere Lebenszyklus der Software nach der Abgabe sich gestaltet. Dabei
+können die entsprechenden Kennzahlen anders auch **KPI (Key Performance Indicator)** genannt behilflich sein. Die Frage, wann allerdings
+ein altes System durch eines neues System ersetzt werden muss ist schwer zu entscheiden.
