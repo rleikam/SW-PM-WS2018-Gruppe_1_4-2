@@ -101,3 +101,10 @@ Anhand der Phasen werden jeweilige Arbeiten zugeordnet. Im Softwarelebenszyklus
 werden zu dem Tätigkeiten und Artefakte beschrieben. Der Entwicklungsprozess gibt
 zu dem entsprechenden Softwarelebenszyklus Rollen und Abläufe an und 
 beides zusammen ergibt dann das Vorgehensmodell.
+
+Es gibt beim **Entwicklungsprozess** zwei verschiedene **Faktoren**, die für Kosten, Termine
+und Qualität relevant sind. Dies sind zum einen zur Verfügung stehende **Ressourcen**, wie Personal,
+Finanzbudgets, Werkzeuge und Räumlichkeiten bzw. Arbeitsumgebungen. Die Ressourcen sollten auf das
+Projekt abgestimmt werden, sonst kann es zur Behinderung des Projektsfortschritts kommen. Der andere
+Faktor sind die **Vorgaben** für die Projektdurchführung, wie die Verträge, Rahmenbedingungen, Terminplan,
+Budgetplan, Qualitätsvorgaben, Standards und weitere Vorgaben wie zur Aufteilung der Verantwortungen.
