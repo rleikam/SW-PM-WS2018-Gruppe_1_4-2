@@ -108,3 +108,12 @@ Finanzbudgets, Werkzeuge und Räumlichkeiten bzw. Arbeitsumgebungen. Die Ressour
 Projekt abgestimmt werden, sonst kann es zur Behinderung des Projektsfortschritts kommen. Der andere
 Faktor sind die **Vorgaben** für die Projektdurchführung, wie die Verträge, Rahmenbedingungen, Terminplan,
 Budgetplan, Qualitätsvorgaben, Standards und weitere Vorgaben wie zur Aufteilung der Verantwortungen.
+
+Mit dem **V-Modell** lässt sich ein allgemeiner Entwicklungsprozess darstellen, bei denen die unterteilten Aufgaben
+und auch das Gesamtergebnis durch die Integration von Einzelnergebnissen sichtbar gemacht werden. Ebenfalls werden damit
+Ebenen dargestellt, die es erlauben zwei Phasen gegeneinander zu stützen z.B. die Phase Systementwurf mit der Phase Integration.
+Es werden in der Praxis leider nicht immer alle Phasen vollständig ausgeführt, so dass die nächsten Phasen nur mit
+Teilergebnissen der vorherigen Phasen begonnen werden. Dies macht gern man wegen der Rückkopplung von späteren Phasen auf die früheren
+Phasen. Für eine parallele Ausführung werden die entsprechenden Ressourcen und mehr Planung benötigt, damit die Resultate in späteren
+Phasen rechtzeitig vorliegen.
+
