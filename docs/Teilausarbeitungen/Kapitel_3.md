@@ -121,3 +121,26 @@ Entwicklungsprozesse sind in den Lebenszyklus von Projekten eingebunden. Hier sp
 immer nur einen einzigen Entwicklungsprozess eingebettet. Daher werden Projekte mit großem Umfang oft als einzelne Projekte ausgeführt.
 Dadurch gelangt man zu **Projekthierarchien** in einem Projekt, bei denen eine oder mehrere Projekte in den einzelnen Phasen integriert werden
 und sogar parallel bearbeitet werden können.
+
+Die erste Phase im Entwicklungsprozess stellt meistens das **Aufstellen bzw. das analysieren von Anforderung** der Software dar.
+Im **Lastenheft** sind die eigentlichen Kernanforderungen an eine Software gegeben. Diese Anforderungen müssen dann **verfeinert** werden,
+wobei darauf geachtet werden muss, dass dabei keine unnötigen Anforderungen entstehen. Die entsprechenden Anforderungen werden dann auch
+normalerweise geschätzt. Dadurch ergibt sich dann das **Pflichtenheft**, welches zur Umsetzung und erreichen der entsprechenden Ziele 
+genutzt wird.
+
+In der Phase des **Systementwurfs** legt man die System- und Softwarearchitektur fest. Die Beschreibung der Architektur ist
+für die Implementierung und Integration relevant und legt auch schon wichtige Qualitätsmerkmale fest. Die Architektur sollte daher
+sorgfälltigst dokumentiert sein. Daraus resultiert sich dann die **Softwarearchitektur** des zu entwickelnden Systems.
+
+In der **Implementierungs-, Verifikations- und Testphase** werden die einzelnen **Arbeitspakete abgearbeitet**, damit das System
+erstellt wird. Es entstehen viele Artefakte, wie Modelle, Code, Ressourcendateien und Testfälle. Es herrscht in dieser Phase ein
+sehr hoher Personalaufwand. Es ist daher wichtig eine gute Koordination und Qualitätsmaßstäbe zu setzen. Ebenfalls sollte die
+Implementierung nicht zu früh begonnen werden, da dies nur Kosten und Kommunikationsaufwand erzeugt für das Personal erzeugt.
+Daher ist eine ausreichende Präzisierung der Implementierungsaufgaben zur Erreichung des Ziels relevant.
+
+Bei der **Test- und Integrationsphase** werden die einzelnen Bestandteile des Systems nun zusammengeführt und durch automatisierte
+Tests oder Reviews geprüft um damit das richtige Zusammenspiel der einzelnen Bestandteile erfassen zu können.
+
+Am Ende der Softwareentwicklung steht nun die **Erprobung und die Übergabe der Software** an. Dies erfolgt normalerweise durch Auslieferung,
+der Installation und der Nutzungsfreigabe der Software. Es ist wichtig hierbei die Kundenzufriedenheit zu gewährleisten. In dieser Phase
+sieht man das System im vollen Einsatz und die ergebenden echten Qualitäten. Somit ist das System nun ausgeliefert.
