@@ -20,7 +20,8 @@ Datum      | Tätigkeiten                                                       
 15.11.2018 | Ausarbeitung Haupt-Buch Kap. 7.6                                    | 1:00
 16.11.2018 | letzte Ausarbeitung Haupt-Buch Kap. 7.6                             | 0:30
 17.11.2018 | Fließtextkonvertierung Kap. 7                                       | 2:30
-18.11.2018 | Fließtextkonvertierung Kap. 7                                       | 3:00
+18.11.2018 | letzte Fließtextkonvertierung Kap. 7                                | 3:00
+19.11.2018 | Ausarbeitung Haupt-Buch Kap. 12                                     | 0:30
 
 <script src="Tagebücher/timeCalculation.js">
 </script>
