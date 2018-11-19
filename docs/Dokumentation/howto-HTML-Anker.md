@@ -45,6 +45,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 __Link:__
 Zur [Literatur](#Literatur)
+('Zur [Literatur](#Literatur)')
 
 ## Anmerkungen:
 - Springen nur einmal möglich - Weitere Anker zum Zurückspringen?
