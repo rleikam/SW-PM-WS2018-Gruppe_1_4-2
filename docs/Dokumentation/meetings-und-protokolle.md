@@ -27,8 +27,8 @@ Ziele:
 ---
 
 ### Protokoll 12.11.2018 11:30 - 14:00 Uhr
-Protokollant: Lennard Kuhnke 
-Anwesend: Alle
+Protokollant: Lennard Kuhnke  
+Anwesend: Alle  
 Ziele:
 * cleanup Branches
 
@@ -42,24 +42,24 @@ Ziele:
 ---
 
 ### Protokoll 11.11.2018 20:00 - 20:30 Uhr
-Protokollant: Richard Leikam
-Anwesend: Nick Friedrich, Jakob Tissen, Richard Leikam
+Protokollant: Richard Leikam  
+Anwesend: Nick Friedrich, Jakob Tissen, Richard Leikam  
 Ziele:
 * Reihenfolge der Teilausarbeitungen festlegen
 
 ---
 
-Nick Friedrich:
+Nick Friedrich:  
 - Vorgehensmodelle
 	- Wasserfallmodell
 	- Spiralmodell
 - Agile Vorgehensmodelle
 
-Richard Leikam:
+Richard Leikam:  
 - Definition vom Projektlebenszyklus, Softwarelebenszyklus, Produktlebenszyklus
 	- Projektlebenszyklus und Phasen
 
-Jakob Tissen:
+Jakob Tissen:  
 - Prozessdurchführung
 	- Arbeitsphase
 	- Einhalten der Rahmenbedingungen durch das 
@@ -72,17 +72,17 @@ Jakob Tissen:
 
 - Kapitel 3 und Kapitel 8 grobe Überschneidung
 
-Festgelegte Reihenfolge:
-1. Vorgehensmodelle
-2. Projektlebenszyklus
-3. Prozessdurchführung
+Festgelegte Reihenfolge:  
+1. Vorgehensmodelle  
+2. Projektlebenszyklus  
+3. Prozessdurchführung  
 
 ---
 ---
 
 ### Protokoll 05.11.2018 12:00 Uhr - 14:00 Uhr
-Protokollant: Kevin Gerzen
-Anwesend: Alle außer Lennard
+Protokollant: Kevin Gerzen  
+Anwesend: Alle außer Lennard  
 Ziele:
 * Einführung in das Arbeiten von Jira mit GitHub
 * Erzeugung von Jira Issues im Backlog anhand der Unterkapitel
@@ -99,8 +99,8 @@ Ziele:
 ---
 
 ### Sprint Review 05.11.2018 11:30 - 12:00 Uhr
-Protokollant: Kevin Gerzen
-Anwesend: Alle außer Lennard
+Protokollant: Kevin Gerzen  
+Anwesend: Alle außer Lennard  
 Ziele: n.a.
 
 ---
@@ -122,8 +122,8 @@ Ziele: n.a.
 ---
 
 ### Protokoll 04.11.2018 15:15 - 16:15 uhr
-Protokollant: Jakob Tissen
-Anwesend: Alle außer Lennard.
+Protokollant: Jakob Tissen  
+Anwesend: Alle außer Lennard  
 Ziele: n.a.
 
 ---
@@ -146,8 +146,8 @@ Ziel für Montag in der Nachbesprechung: Anfertigung der Issues im Jira.
 ---
 
 ### Protokoll 29.10.2018 12:00 - 14:00 uhr
-Protokollant: Jakob Tissen
-Anwesend: Alle
+Protokollant: Jakob Tissen  
+Anwesend: Alle  
 Ziele:
 * Tools Aufteilunng
 * Jira einführung
@@ -155,7 +155,7 @@ Ziele:
 
 ---
 
-Toolverteillung
+Toolverteilung
 Tools: Ms Projekts : Jakob und Lennard
 Github Projekt : Nick 
 Gira: Richard
