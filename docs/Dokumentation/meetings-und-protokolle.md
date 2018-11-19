@@ -7,8 +7,8 @@ Gruppentreffen. Protokolle sind bereits abgeschlossene Meetings mit Protokollauf
 ---
 
 ### Protokoll 19.11.2018 12:30 -
-Protokollant: Kevin Gerzen
-Anwesend: Alle außer Lennard
+Protokollant: Kevin Gerzen  
+Anwesend: Alle außer Lennard  
 Ziele:
 * Zitat-Stil setzen
 * Sprint vorbereitung
@@ -18,8 +18,8 @@ Ziele:
 ---
 
 ### Sprint Review 19.11.2018 11:40 - 12:30 Uhr
-Protokollant: Kevin Gerzen
-Anwesend: Alle außer Lennard
+Protokollant: Kevin Gerzen  
+Anwesend: Alle außer Lennard  
 Ziele:
 * Wochenreview
 
