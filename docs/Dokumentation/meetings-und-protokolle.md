@@ -151,3 +151,18 @@ Festgelegte Reihenfolge:
 
 ---
 ---
+
+### Protokoll 12.09.2018 11:30 - 14:00 Uhr
+Protokollant: Lennard Kuhnke 
+Anwesend: Alle
+Ziele:
+* cleanup Branches
+
+---
+
+- kurzes Wochenreview
+- Jira Einführung/Erklährung des Workflow für Lennard
+- Problem bei der Struktur haben. Haben uns auf einen Fromstil geeinigt
+
+---
+---
