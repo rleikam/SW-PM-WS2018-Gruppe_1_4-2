@@ -26,5 +26,5 @@ Ein Issue kann z.B. eine Aufgabe, Bugfix, Feature oder eine andere Art von Sachv
 **Issue Typ** klassifiziert. In Jira gibt es standardmäßige Issues z.B. Task, Story oder Bug. Zu jedem Issue Typ existiert eine Vielzahl
 an **Feldern**, die Merkmale eines Issue Typs beschreiben. Würde man beispielsweise eine Aufgabe mit einem Issue vom Typ Task beschreiben,
 dann könnte die Ausprägung eines solchen Issue Typs mit konkret ausgefüllten Feldern für die Aufgabenbeschreibung, der Priorität, einer
-Deadline und dem Namen eines Beauftragen, der die Aufgabe erledigen soll instanziert werden. In Jira lassen sich eigene Issue Typen mit
+Deadline und dem Namen eines Beauftragen, der die Aufgabe erledigen soll instanziiert werden. In Jira lassen sich eigene Issue Typen mit
 deren dazugehörigen Feldern definieren.
