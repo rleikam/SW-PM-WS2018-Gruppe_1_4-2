@@ -56,4 +56,4 @@ Berichte erlauben es, den Projektfortschritt durch Versionen, Epics, Sprints und
 existieren unterschiedliche Diagramme, die durch die entsprechenden Information eine Visualisierung darstellen. Für Scrum Projekte ist
 zum Beispiel das Burnup-Diagramm interessant, dass die Arbeit innerhalb eines Sprints in Bezug zur gesamten Arbeit des Sprints anhand
 von Storypunkten der Issues im Zeitraum des Sprints vergleicht oder der Velocity-Bericht der anhand von Storypunkten für jeden Sprint anzeigt,
-wie viel Arbeit in einem Sprint vorhanden war und wie viel davon abgearbeitet wurde.
+wie viel Arbeit in einem Sprint vorhanden war und wie viel davon abgearbeitet wurde. 
