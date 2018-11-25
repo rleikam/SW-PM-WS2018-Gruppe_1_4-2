@@ -49,3 +49,11 @@ Scrum Board. Es existiert ein typisches Kanban Board, bei der in der ersten Spal
 werden. Optional lässt sich ein weiteres Backlog aktivieren, in der sämtliche Issues enthalten sind, damit die Backlog Spalte nicht zu
 unübersichtlich wird. Kanban Boards werden generell als Board mit Spalten dargestellt. Next-gen Boards basieren auf Scrum- und Kanban Boards,
 die wesentlich einfacher und flexibler sind.
+
+## Berichte
+
+Berichte erlauben es, den Projektfortschritt durch Versionen, Epics, Sprints und Issues zu verfolgen und zu analysieren. Je nach Projekttyp
+existieren unterschiedliche Diagramme, die durch die entsprechenden Information eine Visualisierung darstellen. Für Scrum Projekte ist
+zum Beispiel das Burnup-Diagramm interessant, dass die Arbeit innerhalb eines Sprints in Bezug zur gesamten Arbeit des Sprints anhand
+von Storypunkten der Issues im Zeitraum des Sprints vergleicht oder der Velocity-Bericht der anhand von Storypunkten für jeden Sprint anzeigt,
+wie viel Arbeit in einem Sprint vorhanden war und wie viel davon abgearbeitet wurde.
