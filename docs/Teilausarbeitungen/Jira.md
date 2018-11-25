@@ -37,3 +37,15 @@ Zustand x zu einem anderen Zustand y zu gelangen muss dafür eine Transition von
 sind dabei nur unidirektional. Jira gibt schon ein standardmäßigen Workflow vor. Dieser lässt sich nicht modifizieren, aber dafür kopieren
 und Modifikationen können dann darüber stattfinden. Um für bestimmte Issue Typen einen Workflow zuzuweisen muss ein **Workflow Schemata** her,
 dass Abbildungen von mehreren Workflows mit Issues Typen schafft. Dabei dürfen einzelne Workflows im Schemata auf mehrere Issue Typen verweisen.
+
+## Boards
+
+Boards zeigen Issues von einem oder mehreren Projekten an. Mit ihnen werden einzelne Issues verwaltet. Innerhalb eines Jira Projekts dürfen
+mehrere Boards existieren. In Jira gibt es drei unterschiedliche Typen von Boards nämlich das Scrum Board, das Kanban Board und das
+Next-gen Board. Auf einem Scrum Board gibt es grundlegend zwei Bereiche, einmal der **Backlog** und einmal der **Sprint Backlog**.
+Im Scrum Backlog werden sämtliche Issues verwaltet, während in einem Sprint Backlog die Issues für einen Scrum Sprint vorbereitet werden.
+Aktive Sprints werden als Board mit Spalten dargestellt. Auf einem Kanban Board ist es ähnlich wie auf einem
+Scrum Board. Es existiert ein typisches Kanban Board, bei der in der ersten Spalte, also die Backlog Spalte, sämtliche Issues hinzugefügt
+werden. Optional lässt sich ein weiteres Backlog aktivieren, in der sämtliche Issues enthalten sind, damit die Backlog Spalte nicht zu
+unübersichtlich wird. Kanban Boards werden generell als Board mit Spalten dargestellt. Next-gen Boards basieren auf Scrum- und Kanban Boards,
+die wesentlich einfacher und flexibler sind.
