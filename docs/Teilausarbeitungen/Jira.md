@@ -28,3 +28,12 @@ an **Feldern**, die Merkmale eines Issue Typs beschreiben. Würde man beispielsw
 dann könnte die Ausprägung eines solchen Issue Typs mit konkret ausgefüllten Feldern für die Aufgabenbeschreibung, der Priorität, einer
 Deadline und dem Namen eines Beauftragen, der die Aufgabe erledigen soll instanziiert werden. In Jira lassen sich eigene Issue Typen mit
 deren dazugehörigen Feldern definieren.
+
+## Workflows
+
+Die Workflows in Jira beschreiben Zustände und Transitionen von Issues. Das heißt, dass einem Issue ein gewisser Lebenszyklus zugeschrieben
+wird und innerhalb dessen zwischen einzelnen Zuständen gesprungen wird. Ein Issue darf dabei immer nur in einem Zustand bleiben. Um von einem
+Zustand x zu einem anderen Zustand y zu gelangen muss dafür eine Transition von Zustand x nach Zustand y definiert werden. Die Transitionen
+sind dabei nur unidirektional. Jira gibt schon ein standardmäßigen Workflow vor. Dieser lässt sich nicht modifizieren, aber dafür kopieren
+und Modifikationen können dann darüber stattfinden. Um für bestimmte Issue Typen einen Workflow zuzuweisen muss ein **Workflow Schemata** her,
+dass Abbildungen von mehreren Workflows mit Issues Typen schafft. Dabei dürfen einzelne Workflows im Schemata auf mehrere Issue Typen verweisen.
