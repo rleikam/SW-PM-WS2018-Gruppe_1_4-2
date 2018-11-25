@@ -18,6 +18,7 @@ Datum      | Tätigkeiten                                                       
 12.11.2018 | Gruppenmeeting: Wiederholung zu Jira und GitHub, Weitere Tasks erzeugt, Planung des Sprints                              | 2:00
 16.11.2018 | Ausarbeitung: Kapitel 3, Subkapitel 4 - Softwarelebenszyklus und Entwicklungsprozess mit wichtigen Faktoren beschrieben  | 0:30
 18.11.2018 | Ausarbeitung: Kapitel 3, Subkapitel 4 fertiggestellt                                                                     | 3:00
+25.11.2018 | Ausarbeitung: Jira und Kapitel 9, Subkapitel 1-2 fertiggestellt                                                          | 5:00
 
 <script src="Tagebücher/timeCalculation.js">
 </script>
