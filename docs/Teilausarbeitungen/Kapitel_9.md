@@ -40,4 +40,4 @@ für Abnahmeprüfung hat, wie z.B. Urlaubszeiträume. Neben diese Maßnahme kann
 als abgenommen gilt, wenn sie innerhalb einer bestimmten Frist nicht widersprochen wurde. Desweiteren kann der Kunde die Annahme Verweigern,
 weil die im Vertrag definierten Anforderungen nicht mit der Lieferung übereinstimmen. Dies muss dann mit einer Klärung einhergehen. Ebenfalls
 kann es passieren, dass es Uneinigkeiten zwischen Auftraggeber und Auftragnehmer, aufgrund einer nicht abgenommenen Abnahme existieren. Hier
-bleibt dann nur die Wahl des Wegs zum Gericht oder zum Schiedsrichter.
+bleibt dann nur die Wahl des Wegs zum Gericht oder zum Schiedsrichter. 
