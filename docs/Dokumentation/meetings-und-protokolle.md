@@ -6,7 +6,50 @@ Gruppentreffen. Protokolle sind bereits abgeschlossene Meetings mit Protokollauf
 ---
 ---
 
-### Sprint Review 26.11.2018 11:45 -
+### Protokoll 26.11.2018 12:15 - 14:00
+Protokollant: Richard Leikam  
+Anwesend: Alle außer Nick und Kevin  
+  
+Ziele:
+* Festlegung der Abschnittsstruktur der Teilausarbeitung
+* Festlegung der Abschnittsstruktur und Reihenfolge der Ausarbeitung
+* Betonungen für Wörter durch fettschrift und kursivschrift
+* Dateistruktur für das Anlegen von Grafiken
+
+Festlegung für Betonungen:
+* Fettschrift für Schlüsselbegriffe eines Gedanken oder Absatzes
+* Kursivschrift für das hervorheben von längeren Satzabschnitten und Referenzierung auf andere Abschnitte.
+
+Referenzierung auf Quellen:
+* In Teilausarbeitungen bereits Referenzierungen (Anker) auf die Literaturverzeichnisüberschrift zu dem eigenen Thema.
+* Eigene Abschnitte einzelner Kapitel innerhalb des Literaturverzeichnis.
+
+Festlegung der Abschnittsstruktur für Teilausarbeitung:
+* Einleitung soll existieren
+* Abschnitte sollen eine Mindestzahl von ungefähr 5 Zeilen besitzen, aber möglichst klein gehalten werden.
+* Gliederung der Abschnitte:
+	1. Kapitelüberschrift
+	2. Unterkapitelüberschrift
+	
+Festlegung der Abschnittsstruktur und Reihenfolge für Ausarbeitung:
+* Grobe Reihenfolge für die Ausarbeitung:
+	* Kapitel 1 bis 5 - Erklärung, Terminologie, Projekte, Unternehmen, Ziele
+	* Projektanfang
+		* Projektentstehung, Kapitel 6
+		* Projektdefinition, Kapitel 7
+	* Projektdurchführung, Kapitel 8
+	* Projektabschluss
+* Gliederung der Abschnitte:
+	1. Hauptüberschrift
+	2. Kapitelüberschrift
+	3. Unterkapitelüberschrift
+	
+Verzeichnisstruktur wird Autorenweise dargestellt
+
+---
+---
+
+### Sprint Review 26.11.2018 11:45 - 12:15
 Protokollant: Richard Leikam  
 Anwesend: Alle außer Nick und Kevin  
   
