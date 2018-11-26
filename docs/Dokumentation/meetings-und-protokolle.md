@@ -6,6 +6,24 @@ Gruppentreffen. Protokolle sind bereits abgeschlossene Meetings mit Protokollauf
 ---
 ---
 
+### Sprint Review 26.11.2018 11:45 -
+Protokollant: Richard Leikam  
+Anwesend: Alle außer Nick und Kevin  
+  
+Regelung auf Einigung auf Form festsetzen:
+* Abschnitte und Größe festlegen
+* Betonung durch fettschrift und kursivität festlegen
+
+Einbindung von Grafiken
+* Referenzierung beachten
+* Festlegung von Dateistruktur für Grafiken
+
+Nächstes mal
+* Festlegung der Struktur der Ausarbeitung
+
+---
+---
+
 ### Protokoll 19.11.2018 12:30 -
 Protokollant: Kevin Gerzen  
 Anwesend: Alle außer Lennard  
