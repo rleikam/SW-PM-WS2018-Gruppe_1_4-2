@@ -65,3 +65,8 @@ persönlicher Erfahrung einzelner Mitarbeiter wichtig, den damit lässt sich der
 der Aufgaben des Projektleiters. Im Project Debriefing kann man einen Workshop für ein **Lessons learned** anlegen um damit das gegenseitige
 Lernen von Mitarbeitern und Führungskräfte durch Feedback ankurbeln.
 
+## Projektabschlussbericht
+
+Mit dem Projektabschlussbericht wird der Abschluss des Projektes definiert. Eine entsprechende Vorgabe wird normalerweise durch Vorgehensmodell
+getroffen. Beim V-Model XT beispielsweise existiert eine Gliederung in die Managementübersicht, Ausgangslage und Ziel, Projektergebnisse,
+Qualitätsbewertung und Projektverlauf. Diese Vorgaben existieren in ähnlicher Form auch in anderen Vorgehensmodelle.
