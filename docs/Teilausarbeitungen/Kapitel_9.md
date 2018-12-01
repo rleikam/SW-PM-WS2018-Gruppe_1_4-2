@@ -48,3 +48,12 @@ Mit dem Projektabschluss leitet man das Ende eines Projektes ein. Der Projektabs
 genauer erläutern werden. Dazu zählt zum einen die **Aufräumung** und das Sichern des **Wissen** des Projektes. Desweitern wird noch auf
 den **Projektabschlussbericht** weiter eingegangen. Nebst dieser gilt es den Projektabschluss zu **Organisieren**.
 
+## Aufgaben des Projektabschlusses
+
+Das **Aufräumen** beschreibt die **Planung** und die **Abschlusskalkulation** mit der Abrechnung. Es werden die eigentlichen Projektdaten, wie
+die Projektdauer, Aufwand, Kosten und weiteres mit den geplanten Daten gegenübergestellt um damit die **Präzision** der Planung herauszufinden
+und es wird geprüft, ob das Projekt den erwarteten **Wert** erreicht hat. Bei weiteren Folgeprojekten sollte man außerdem unbedingt, die
+Projektergebnisse archivieren um einen Projektzustand festzulegen, damit Einarbeitungszeiten vermieden werden. Zudem gilt es, dass Projektteam
+aufzulösen, damit sich diese auf **andere Arbeiten** konzentrieren können und damit diese das Ende des Projektes **erfasst** haben. Die
+Projektinfrastruktur sollte ebenfalls aufgelöst und zurückgegeben werden. Durch den Abschluss wird letztendlich der Projektleiter vom Projekt
+**entlastet**.  
