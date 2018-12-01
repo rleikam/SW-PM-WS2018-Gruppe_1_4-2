@@ -40,4 +40,43 @@ für Abnahmeprüfung hat, wie z.B. Urlaubszeiträume. Neben diese Maßnahme kann
 als abgenommen gilt, wenn sie innerhalb einer bestimmten Frist nicht widersprochen wurde. Desweiteren kann der Kunde die Annahme Verweigern,
 weil die im Vertrag definierten Anforderungen nicht mit der Lieferung übereinstimmen. Dies muss dann mit einer Klärung einhergehen. Ebenfalls
 kann es passieren, dass es Uneinigkeiten zwischen Auftraggeber und Auftragnehmer, aufgrund einer nicht abgenommenen Abnahme existieren. Hier
-bleibt dann nur die Wahl des Wegs zum Gericht oder zum Schiedsrichter. 
+bleibt dann nur die Wahl des Wegs zum Gericht oder zum Schiedsrichter.
+
+## Projektabschluss
+
+Mit dem Projektabschluss leitet man das Ende eines Projektes ein. Der Projektabschluss bedient sich noch weiterer Aufgaben, die wir folglich
+genauer erläutern werden. Dazu zählt zum einen die **Aufräumung** und das Sichern des **Wissen** des Projektes. Desweitern wird noch auf
+den **Projektabschlussbericht** weiter eingegangen. Nebst dieser gilt es den Projektabschluss zu **Organisieren**.
+
+## Aufgaben des Projektabschlusses
+
+Das **Aufräumen** beschreibt die **Planung** und die **Abschlusskalkulation** mit der Abrechnung. Es werden die eigentlichen Projektdaten, wie
+die Projektdauer, Aufwand, Kosten und weiteres mit den geplanten Daten gegenübergestellt um damit die **Präzision** der Planung herauszufinden
+und es wird geprüft, ob das Projekt den erwarteten **Wert** erreicht hat. Bei weiteren Folgeprojekten sollte man außerdem unbedingt, die
+Projektergebnisse archivieren um einen Projektzustand festzulegen, damit Einarbeitungszeiten vermieden werden. Zudem gilt es, dass Projektteam
+aufzulösen, damit sich diese auf **andere Arbeiten** konzentrieren können und damit diese das Ende des Projektes **erfasst** haben. Die
+Projektinfrastruktur sollte ebenfalls aufgelöst und zurückgegeben werden. Durch den Abschluss wird letztendlich der Projektleiter vom Projekt
+**entlastet**.  
+
+Mit der Sicherung des **Wissens** wird das gewonnene Wissen und die Erfahrung mit sämtlichen angewandten Techniken und Methoden des Projekts
+**gesichert** und für zukünftige Projekte **verwahrt**. Damit können in weiteren Projekten einmal gemachte Fehler vermieden werden. Somit
+lässt sich dann ein Methodenpool der sogennanten **Best Practices** für weitere Projekte schaffen. Zudem ist auch die Sicherung der
+persönlicher Erfahrung einzelner Mitarbeiter wichtig, den damit lässt sich der Zustand eines Projekts überprüfen und das Bewerten
+der Aufgaben des Projektleiters. Im Project Debriefing kann man einen Workshop für ein **Lessons learned** anlegen um damit das gegenseitige
+Lernen von Mitarbeitern und Führungskräfte durch Feedback ankurbeln.
+
+## Projektabschlussbericht
+
+Mit dem Projektabschlussbericht wird der Abschluss des Projektes definiert. Eine entsprechende Vorgabe wird normalerweise durch Vorgehensmodell
+getroffen. Beim V-Model XT beispielsweise existiert eine Gliederung in die Managementübersicht, Ausgangslage und Ziel, Projektergebnisse,
+Qualitätsbewertung und Projektverlauf. Diese Vorgaben existieren in ähnlicher Form auch in anderen Vorgehensmodelle.
+
+## Organisation des Projektabschlusses
+
+Die Organisation des Abschlusses ist abhängig von bestimmten Faktoren. Bei iterativen Projekten kann der Abschluss Phasen- oder Stufenweise
+erfolgen. In agilen Vorgehensmodellen, wie z.B. bei Scrum existieren sogar Sprint Reviews nach den jweiligen Sprints mit der neue
+Erfahrungen gesammelt werden können. Auch hier geschieht das *Aufräumen und die Wissenssicherung*, allerdings nur verkürzt. Desweiteren
+lässt sich ein Projektabschluss in entweder zwei Teile kategorisieren. Der **internen Projektabschluss** verläuft nur intern und dient zum
+Aufräumen und der Manöverkritik. Das Projektteam kann hier Erfahrungen austauschen, Feedback wiedergeben und das Wissen des Projektes aufnehmen.
+Der **große Projektabschluss** verläuft mitsamt des Kunden. Dazu werden entsprechende Abschlusspräsentation, Workshops und sogar Festveranstaltungen
+vorbereitet. Auch hier sollte man seine entsprechenden Erfahrungen austauschen.
