@@ -57,3 +57,11 @@ Projektergebnisse archivieren um einen Projektzustand festzulegen, damit Einarbe
 aufzulösen, damit sich diese auf **andere Arbeiten** konzentrieren können und damit diese das Ende des Projektes **erfasst** haben. Die
 Projektinfrastruktur sollte ebenfalls aufgelöst und zurückgegeben werden. Durch den Abschluss wird letztendlich der Projektleiter vom Projekt
 **entlastet**.  
+
+Mit der Sicherung des **Wissens** wird das gewonnene Wissen und die Erfahrung mit sämtlichen angewandten Techniken und Methoden des Projekts
+**gesichert** und für zukünftige Projekte **verwahrt**. Damit können in weiteren Projekten einmal gemachte Fehler vermieden werden. Somit
+lässt sich dann ein Methodenpool der sogennanten **Best Practices** für weitere Projekte schaffen. Zudem ist auch die Sicherung der
+persönlicher Erfahrung einzelner Mitarbeiter wichtig, den damit lässt sich der Zustand eines Projekts überprüfen und das Bewerten
+der Aufgaben des Projektleiters. Im Project Debriefing kann man einen Workshop für ein **Lessons learned** anlegen um damit das gegenseitige
+Lernen von Mitarbeitern und Führungskräfte durch Feedback ankurbeln.
+
