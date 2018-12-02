@@ -23,6 +23,9 @@ Datum      | Tätigkeiten                                                 | Daue
 19.11.2018 | Meeting | 2:15
 26.11.2018 | Meeting, Teilausarbeitungen Struktur und Integration der Hauptausarbeitung | 2:15
 02.12.2018 | Ausarbeitung Kapitel 8 abgeschllossen | 5:00
+02.12.2018 | Instalation MS Project 2019 | 0:45
+02.12.2018 | Testen der Funktionailtäten von MS Project 2019 | 1:00
+02.12.2018 | Ausarbeitung MS Project 2019 abgeschlossen | 3:00
 
 
 
