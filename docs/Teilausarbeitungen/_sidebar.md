@@ -5,6 +5,6 @@
 * [Kapitel 8](/Teilausarbeitungen/Kapitel_8.md)
 * [Kapitel 9](/Teilausarbeitungen/Kapitel_9.md)
 * [Kapitel 12](/Teilausarbeitungen/Kapitel_12.md)
-* [MS Projects 2019](/Teilausarbeitungen/MS_Projects_2019.md)
+* [MS Project 2019](/Teilausarbeitungen/MS_Project_2019.md)
 * [GitHub Project Board Tool](/Teilausarbeitungen/GitHub_Project_Board_Tool.md)
 * [Jira](/Teilausarbeitungen/Jira.md)
