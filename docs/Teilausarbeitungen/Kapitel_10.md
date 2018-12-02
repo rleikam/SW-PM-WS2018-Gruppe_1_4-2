@@ -40,3 +40,15 @@ mit den Projektmetriken. Diese nennt man dann speziell **In-Process Quality Metr
 
 Bei **Projektmetriken** nutzt man die Termintreue, Kosten- und Ressourcenverbrauch und die Produktivität als Beschreibung von Metriken.
 Die Projektmetriken werden für **Soll-Ist-Analysen** im Projektmangagement verwendet um damit Steuerungsmaßnahmen zu treffen.
+
+## Erfassen und Auswerten von Metriken
+
+Das Erfassen und Auswerten von Metriken muss in Projekten untersucht werden. Dazu muss nach der Art der Metrik bzw. der Weg zur Metrik
+mit dem jeweiligen Messverfahren, und der Festlegung von daraus ableitbaren Aussagen untersucht werden. Dafür existiert ein bereits 
+ein bewährter Ansatz, der **Goal-Question-Metric (GQM)**. Das GQM ist eine Methode zur Planung und Durchführung von zielorientierten Messungen.
+Dabei geht der GQM von **Messzielen** und weiteren Informationen aus um damit Metriken für **Fragestellungen** abzuleiten. Dabei wird hierarchisch
+eine Struktur aufgebaut, auf dessen erster Ebene die Ziele stehen. In den darauffolgenden Ebenen werden Fragen gestellt und immer weiter
+ebenenweise verfeinert bis zu einer Ebene auf der Metriken definiert sind. Die Auswertung folgt dann von Bottom-Up dieser Struktur, also
+angefangen bei den Metriken. Der Vorteil liegt dabei auf dieser schrittweisen Vorgehensweise, so dass man nur im Sinne der Messziele
+Metriken definiert und gemessen wird.  
+
