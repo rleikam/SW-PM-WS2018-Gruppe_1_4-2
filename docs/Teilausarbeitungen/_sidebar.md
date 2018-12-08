@@ -9,4 +9,4 @@
 * [MS Project 2019](/Teilausarbeitungen/MS_Project_2019.md)
 * [GitHub Project Board Tool](/Teilausarbeitungen/GitHub_Project_Board_Tool.md)
 * [Jira](/Teilausarbeitungen/Jira.md)
-+ [YouTrack](/Teilausarbeitungen/YouTrack.md)
+* [YouTrack](/Teilausarbeitungen/YouTrack.md)
