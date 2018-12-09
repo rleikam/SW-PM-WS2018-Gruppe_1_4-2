@@ -38,8 +38,12 @@ Die Workflows in Jira beschreiben Zustände und Transitionen von Issues. Das hei
 wird und innerhalb dessen zwischen einzelnen Zuständen gesprungen wird. Ein Issue darf dabei immer nur in einem Zustand bleiben. Um von einem
 Zustand x zu einem anderen Zustand y zu gelangen muss dafür eine Transition von Zustand x nach Zustand y definiert werden. Die Transitionen
 sind dabei nur unidirektional. Jira gibt schon ein standardmäßigen Workflow vor. Dieser lässt sich nicht modifizieren, aber dafür kopieren
-und Modifikationen können dann darüber stattfinden. Um für bestimmte Issue Typen einen Workflow zuzuweisen muss ein **Workflow Schemata** her,
-dass Abbildungen von mehreren Workflows mit Issues Typen schafft. Dabei dürfen einzelne Workflows im Schemata auf mehrere Issue Typen verweisen.
+und Modifikationen können dann darüber stattfinden [[Jira Workflows][Jira-Workflows]]. Um für bestimmte Issue Typen einen Workflow zuzuweisen muss ein **Workflow Schemata** her,
+dass Abbildungen von mehreren Workflows mit Issues Typen schafft. Dabei dürfen einzelne Workflows im Schemata auf mehrere Issue Typen
+verweisen [[Jira Workflow Schemata][Jira-Workflow-Schemata]].
+
+![Jira Workflow](https://confluence.atlassian.com/adminjiraserver072/files/828787890/828787899/1/1456788407758/JIRA+Workflow.png)
+Ein Standard Workflow in Jira mit seinen Zuständen und Transitionen[[Jira Workflow Abbild][Jira-Workflows]].
 
 ## Boards
 
@@ -62,3 +66,5 @@ von Storypunkten der Issues im Zeitraum des Sprints vergleicht oder der Velocity
 wie viel Arbeit in einem Sprint vorhanden war und wie viel davon abgearbeitet wurde. 
 
 [WP-Jira]: https://de.wikipedia.org/wiki/Jira_(Software)
+[Jira-Workflows]: https://confluence.atlassian.com/adminjiraserver072/working-with-workflows-828787890.html
+[Jira-Workflow-Schemata]: https://confluence.atlassian.com/adminjiraserver073/configuring-workflow-schemes-861253569.html
