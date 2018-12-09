@@ -1,6 +1,6 @@
-# Jira
+## Jira
 
-## Einleitung
+### Einleitung
 
 Jira ist eine von Atlassian entwickelte Webanwendung für das Projektmanagement überwiegend für Softwareprojekte [[Wikipedia Jira][WP-Jira]].
 Mit Jira lassen sich Aufgaben, Anforderungen und Prozesse von ein oder mehreren Projekten planen, verwalten und überwachen. 
@@ -9,7 +9,7 @@ mit Zugriffsberechitgungen für die Mitglieder von Jira Projekten erstellen. Mit
 Integration und weiteren Atlassian Anwendungen, wie Confluence lässt sich die bereitgestellte Plattform für die Projekte entsprechend
 erweitern.
 
-## Projekte
+### Projekte
 
 Die Jira Webanwendung ermöglicht das Erzeugen von verschiedenen Jira Projekten. Dabei können die Projekte unterschiedlich konfiguriert
 sein z.B. hinsichtlich des Vorgehensmodell oder des Workflows. Beim Erstellen eines Projekts lässt sich dieses bereits mit einer
@@ -22,7 +22,7 @@ Je nach der ausgewählten Projektvorlage ist das Jira Projekt eingerichtet und b
 ![Jira Klassische Projekte](/../Abbildungen/Richard_Leikam/Jira_Klassische_Projekte.png)
 Der Ausschnitt zeigt eine Teilmenge der Vorlagen für eine Projektkonfiguration in Jira.
 
-## Issues
+### Issues
 
 Issues stellen in gewisser Weise einen Abstraktionsbegriff in Jira dar. Unter einem Issue versteht man in Jira verschiedenes.
 Ein Issue kann z.B. eine Aufgabe, Bugfix, Feature oder eine andere Art von Sachverhalt darstellen. Der genaue Sachverhalt wird mit dem
@@ -32,7 +32,7 @@ dann könnte die Ausprägung eines solchen Issue Typs mit konkret ausgefüllten 
 Deadline und dem Namen eines Beauftragen, der die Aufgabe erledigen soll instanziiert werden. In Jira lassen sich eigene Issue Typen mit
 deren dazugehörigen Feldern definieren.
 
-## Workflows
+### Workflows
 
 Die Workflows in Jira beschreiben Zustände und Transitionen von Issues. Das heißt, dass einem Issue ein gewisser Lebenszyklus zugeschrieben
 wird und innerhalb dessen zwischen einzelnen Zuständen gesprungen wird. Ein Issue darf dabei immer nur in einem Zustand bleiben. Um von einem
@@ -45,7 +45,7 @@ verweisen [[Jira Workflow Schemata][Jira-Workflow-Schemata]].
 ![Jira Workflow](https://confluence.atlassian.com/adminjiraserver072/files/828787890/828787899/1/1456788407758/JIRA+Workflow.png)
 Ein Standard Workflow in Jira mit seinen Zuständen und Transitionen [[Jira Workflow Abbild][Jira-Workflows]].
 
-## Boards
+### Boards
 
 Boards zeigen Issues von einem oder mehreren Projekten an. Mit ihnen werden einzelne Issues verwaltet. Innerhalb eines Jira Projekts dürfen
 mehrere Boards existieren. In Jira gibt es drei unterschiedliche Typen von Boards nämlich das Scrum Board, das Kanban Board und das
@@ -60,7 +60,7 @@ die wesentlich einfacher und flexibler sind [[Jira Boards][Jira-Boards]].
 ![Jira Board](https://confluence.atlassian.com/jirasoftwarecloud/files/946023490/946023491/1/1519281781266/Scrum+board.png)
 Ein Scrum Board mit seinen jeweiligen Spalten und Issues [[Jira Board Abbild][Jira-Boards]].
 
-## Berichte
+### Berichte
 
 Berichte erlauben es, den Projektfortschritt durch Versionen, Epics, Sprints und Issues zu verfolgen und zu analysieren. Je nach Projekttyp
 existieren unterschiedliche Diagramme, die durch die entsprechenden Information eine Visualisierung darstellen. Für Scrum Projekte ist
