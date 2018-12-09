@@ -19,6 +19,9 @@ oder Personalbeschaffung. Diese Vorlagen zählen zu den sogenannten **klassische
 Erfahrung die sogenannten **Next-Gen Projekte**, die einen einfachen Einstieg in Jira ohne eine komplizierte Konfiguration ermöglichen.
 Je nach der ausgewählten Projektvorlage ist das Jira Projekt eingerichtet und bereit zur Nutzung.
 
+![Jira Klassische Projekte](/../Abbildungen/Richard_Leikam/Jira_Klassische_Projekte.png)
+Der Ausschnitt zeigt eine Teilmenge der Vorlagen für eine Projektkonfiguration in Jira.
+
 ## Issues
 
 Issues stellen in gewisser Weise einen Abstraktionsbegriff in Jira dar. Unter einem Issue versteht man in Jira verschiedenes.
