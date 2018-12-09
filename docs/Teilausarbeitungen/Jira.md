@@ -17,7 +17,7 @@ sein z.B. hinsichtlich des Vorgehensmodell oder des Workflows. Beim Erstellen ei
 wie z.B. für einfaches Projektmanagement zum Verfolgen von Aktivitäten, für das Verfolgen von Tasks aber auch wie Material-
 oder Personalbeschaffung. Diese Vorlagen zählen zu den sogenannten **klassischen Projekt** von Jira. Es gibt auch für Teams mit weniger
 Erfahrung die sogenannten **Next-Gen Projekte**, die einen einfachen Einstieg in Jira ohne eine komplizierte Konfiguration ermöglichen.
-Je nach der ausgewählten Projektvorlage ist das Jira Projekt eingerichtet und bereit zur Nutzung.
+Je nach der ausgewählten Projektvorlage ist das Jira Projekt eingerichtet und bereit zur Nutzung [[Jira Projekte][Jira-Projekte]].
 
 ![Jira Klassische Projekte](/../Abbildungen/Richard_Leikam/Jira_Klassische_Projekte.png)
 Der Ausschnitt zeigt eine Teilmenge der Vorlagen für eine Projektkonfiguration in Jira.
@@ -72,6 +72,7 @@ Ein Burndown Chart, dass anhand der Storypunkte den zeitlichen Verlauf der Abarb
 und noch die restliche Arbeit darstellt [[Jira Burndown-Chart Abbild][Jira-Burndown-Chart]].
 
 [WP-Jira]: https://de.wikipedia.org/wiki/Jira_(Software)
+[Jira-Projekte]: https://confluence.atlassian.com/adminjiraserver/defining-a-project-938847066.html
 [Jira-Issues]: https://confluence.atlassian.com/jira064/what-is-an-issue-720416138.html
 [Jira-Workflows]: https://confluence.atlassian.com/adminjiraserver072/working-with-workflows-828787890.html
 [Jira-Workflow-Schemata]: https://confluence.atlassian.com/adminjiraserver073/configuring-workflow-schemes-861253569.html
