@@ -55,7 +55,10 @@ Aktive Sprints werden als Board mit Spalten dargestellt. Auf einem Kanban Board 
 Scrum Board. Es existiert ein typisches Kanban Board, bei der in der ersten Spalte, also die Backlog Spalte, sämtliche Issues hinzugefügt
 werden. Optional lässt sich ein weiteres Backlog aktivieren, in der sämtliche Issues enthalten sind, damit die Backlog Spalte nicht zu
 unübersichtlich wird. Kanban Boards werden generell als Board mit Spalten dargestellt. Next-gen Boards basieren auf Scrum- und Kanban Boards,
-die wesentlich einfacher und flexibler sind.
+die wesentlich einfacher und flexibler sind [[Jira Boards][Jira-Boards]].
+
+![Jira Board](https://confluence.atlassian.com/jirasoftwarecloud/files/946023490/946023491/1/1519281781266/Scrum+board.png)
+Ein Scrum Board mit seinen jeweiligen Spalten und Issues [[Jira Board Abbild][Jira-Boards]].
 
 ## Berichte
 
@@ -68,3 +71,4 @@ wie viel Arbeit in einem Sprint vorhanden war und wie viel davon abgearbeitet wu
 [WP-Jira]: https://de.wikipedia.org/wiki/Jira_(Software)
 [Jira-Workflows]: https://confluence.atlassian.com/adminjiraserver072/working-with-workflows-828787890.html
 [Jira-Workflow-Schemata]: https://confluence.atlassian.com/adminjiraserver073/configuring-workflow-schemes-861253569.html
+[Jira-Boards]: https://confluence.atlassian.com/jirasoftwarecloud/what-is-a-board-764477964.html
