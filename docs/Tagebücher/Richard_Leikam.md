@@ -22,6 +22,7 @@ Datum      | Tätigkeiten                                                       
 26.11.2018 | Gruppenmeeting: Festlegung der Struktur und Regeln für die Teilausarbeitung und Hauptausarbeitung                        | 2:00
 01.12.2018 | Ausarbeitung: Kapitel 9, Subkapitel 3-4 fertiggestellt                                                                   | 3:00
 02.12.2018 | Ausarbeitung: Kapitel 10, Subkapitel 1-3 fertiggestellt                                                                  | 3:00
+09.12.2018 | Optimierung: Jira Ausarbeitung optimiert, Kapitel 3 - Abschnitte und Sätze umstrukturiert                                | 2:00
 
 <script src="Tagebücher/timeCalculation.js">
 </script>
