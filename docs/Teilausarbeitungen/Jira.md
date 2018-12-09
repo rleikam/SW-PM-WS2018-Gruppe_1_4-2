@@ -43,7 +43,7 @@ dass Abbildungen von mehreren Workflows mit Issues Typen schafft. Dabei dürfen 
 verweisen [[Jira Workflow Schemata][Jira-Workflow-Schemata]].
 
 ![Jira Workflow](https://confluence.atlassian.com/adminjiraserver072/files/828787890/828787899/1/1456788407758/JIRA+Workflow.png)
-Ein Standard Workflow in Jira mit seinen Zuständen und Transitionen[[Jira Workflow Abbild][Jira-Workflows]].
+Ein Standard Workflow in Jira mit seinen Zuständen und Transitionen [[Jira Workflow Abbild][Jira-Workflows]].
 
 ## Boards
 
@@ -66,9 +66,15 @@ Berichte erlauben es, den Projektfortschritt durch Versionen, Epics, Sprints und
 existieren unterschiedliche Diagramme, die durch die entsprechenden Information eine Visualisierung darstellen. Für Scrum Projekte ist
 zum Beispiel das Burnup-Diagramm interessant, dass die Arbeit innerhalb eines Sprints in Bezug zur gesamten Arbeit des Sprints anhand
 von Storypunkten der Issues im Zeitraum des Sprints vergleicht oder der Velocity-Bericht der anhand von Storypunkten für jeden Sprint anzeigt,
-wie viel Arbeit in einem Sprint vorhanden war und wie viel davon abgearbeitet wurde. 
+wie viel Arbeit in einem Sprint vorhanden war und wie viel davon abgearbeitet wurde [[Jira Berichte][Jira-Berichte]].
+
+![Jira Berichte](https://confluence.atlassian.com/jirasoftwarecloud/files/777002653/867194399/1/1484024907542/burndown-chart.png)
+Ein Burndown Chart, dass anhand der Storypunkte den zeitlichen Verlauf der Abarbeitung eines Sprints
+und noch die restliche Arbeit darstellt [[Jira Burndown-Chart Abbild][Jira-Burndown-Chart]].
 
 [WP-Jira]: https://de.wikipedia.org/wiki/Jira_(Software)
 [Jira-Workflows]: https://confluence.atlassian.com/adminjiraserver072/working-with-workflows-828787890.html
 [Jira-Workflow-Schemata]: https://confluence.atlassian.com/adminjiraserver073/configuring-workflow-schemes-861253569.html
 [Jira-Boards]: https://confluence.atlassian.com/jirasoftwarecloud/what-is-a-board-764477964.html
+[Jira-Berichte]: https://confluence.atlassian.com/jirasoftwarecloud/reporting-764478415.html
+[Jira-Burndown-Chart]: https://confluence.atlassian.com/jirasoftwarecloud/burndown-chart-777002653.html
