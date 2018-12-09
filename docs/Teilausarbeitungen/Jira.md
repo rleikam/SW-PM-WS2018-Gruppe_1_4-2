@@ -1,6 +1,6 @@
 # Jira
 
-## Beschreibung
+## Einleitung
 
 Jira ist eine von Atlassian entwickelte Webanwendung für das Projektmanagement überwiegend für Softwareprojekte. Mit Jira lassen
 sich Aufgaben, Anforderungen und Prozesse von ein oder mehreren Projekten planen, verwalten und überwachen. 
