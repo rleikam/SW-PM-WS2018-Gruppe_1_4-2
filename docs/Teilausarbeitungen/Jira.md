@@ -24,13 +24,12 @@ Der Ausschnitt zeigt eine Teilmenge der Vorlagen für eine Projektkonfiguration 
 
 ### Issues
 
-Issues stellen in gewisser Weise einen Abstraktionsbegriff in Jira dar. Unter einem Issue versteht man in Jira verschiedenes.
-Ein Issue kann z.B. eine Aufgabe, Bugfix, Feature oder eine andere Art von Sachverhalt darstellen. Der genaue Sachverhalt wird mit dem
-**Issue Typ** klassifiziert. In Jira gibt es standardmäßige Issues z.B. Task, Story oder Bug. Zu jedem Issue Typ existiert eine Vielzahl
-an **Feldern**, die Merkmale eines Issue Typs beschreiben. Würde man beispielsweise eine Aufgabe mit einem Issue vom Typ Task beschreiben,
-dann könnte die Ausprägung eines solchen Issue Typs mit konkret ausgefüllten Feldern für die Aufgabenbeschreibung, der Priorität, einer
-Deadline und dem Namen eines Beauftragen, der die Aufgabe erledigen soll instanziiert werden. In Jira lassen sich eigene Issue Typen mit
-deren dazugehörigen Feldern definieren.
+Issues stellen verschiedene Vorgänge in Jira dar. Ein Issue kann z.B. eine Aufgabe, Bugfix, Feature oder eine andere Art von Sachverhalt
+darstellen. Der genaue Sachverhalt wird mit dem **Issue Typ** klassifiziert. In Jira gibt es standardmäßige Issues z.B. Task, Story oder
+Bug. Zu jedem Issue Typ existiert eine Vielzahl an **Feldern**, die Merkmale eines Issue Typs beschreiben. Würde man beispielsweise eine
+Aufgabe mit einem Issue vom Typ Task beschreiben, dann könnte die Ausprägung eines solchen Issue Typs mit konkret ausgefüllten Feldern für
+die Aufgabenbeschreibung, der Priorität, einer Deadline und dem Namen eines Beauftragen, der die Aufgabe erledigen soll instanziiert werden.
+In Jira lassen sich eigene Issue Typen mit deren dazugehörigen Feldern definieren [[Jira Issues][Jira-Issues]].
 
 ### Workflows
 
@@ -73,6 +72,7 @@ Ein Burndown Chart, dass anhand der Storypunkte den zeitlichen Verlauf der Abarb
 und noch die restliche Arbeit darstellt [[Jira Burndown-Chart Abbild][Jira-Burndown-Chart]].
 
 [WP-Jira]: https://de.wikipedia.org/wiki/Jira_(Software)
+[Jira-Issues]: https://confluence.atlassian.com/jira064/what-is-an-issue-720416138.html
 [Jira-Workflows]: https://confluence.atlassian.com/adminjiraserver072/working-with-workflows-828787890.html
 [Jira-Workflow-Schemata]: https://confluence.atlassian.com/adminjiraserver073/configuring-workflow-schemes-861253569.html
 [Jira-Boards]: https://confluence.atlassian.com/jirasoftwarecloud/what-is-a-board-764477964.html
