@@ -2,9 +2,9 @@
 
 ### Einleitung
 
-Jira ist eine von Atlassian entwickelte Webanwendung für das Projektmanagement überwiegend für Softwareprojekte [[Wikipedia Jira][WP-Jira]].
-Mit Jira lassen sich Aufgaben, Anforderungen und Prozesse von ein oder mehreren Projekten planen, verwalten und überwachen. 
-Es unterstützt insbesondere agile Ansätze, wie Scrum und Kanban. Desweiteren lassen sich auch Rollen und Gruppen
+Jira ist eine von Atlassian entwickelte Webanwendung für das Projektmanagement überwiegend für Softwareprojekte
+[[Jira Wikipedia][Jira-Wikipedia]]. Mit Jira lassen sich Aufgaben, Anforderungen und Prozesse von ein oder mehreren Projekten planen,
+verwalten und überwachen. Es unterstützt insbesondere agile Ansätze, wie Scrum und Kanban. Desweiteren lassen sich auch Rollen und Gruppen
 mit Zugriffsberechitgungen für die Mitglieder von Jira Projekten erstellen. Mit Apps vom Jira Marketplace, wie einer GitHub-Jira
 Integration und weiteren Atlassian Anwendungen, wie Confluence lässt sich die bereitgestellte Plattform für die Projekte entsprechend
 erweitern.
@@ -75,7 +75,7 @@ und noch der restlichen Arbeit darstellt [[Jira Burndown-Chart Abbild][Jira-Burn
 ### Literatur
 Bezeichnung            | Verweis
 -----------------------|---------------------------------------------------------------------------------------------------
-WP-Jira                | https://de.wikipedia.org/wiki/Jira_(Software)
+Jira-Wikipedia         | https://de.wikipedia.org/wiki/Jira_(Software)
 Jira-Projekte          | https://confluence.atlassian.com/adminjiraserver/defining-a-project-938847066.html
 Jira-Issues            | https://confluence.atlassian.com/jira064/what-is-an-issue-720416138.html
 Jira-Workflows         | https://confluence.atlassian.com/adminjiraserver072/working-with-workflows-828787890.html
@@ -84,7 +84,7 @@ Jira-Boards            | https://confluence.atlassian.com/jirasoftwarecloud/what
 Jira-Berichte          | https://confluence.atlassian.com/jirasoftwarecloud/reporting-764478415.html
 Jira-Burndown-Chart    | https://confluence.atlassian.com/jirasoftwarecloud/burndown-chart-777002653.html
 
-[WP-Jira]: https://de.wikipedia.org/wiki/Jira_(Software)
+[Jira-Wikipedia]: https://de.wikipedia.org/wiki/Jira_(Software)
 [Jira-Projekte]: https://confluence.atlassian.com/adminjiraserver/defining-a-project-938847066.html
 [Jira-Issues]: https://confluence.atlassian.com/jira064/what-is-an-issue-720416138.html
 [Jira-Workflows]: https://confluence.atlassian.com/adminjiraserver072/working-with-workflows-828787890.html
