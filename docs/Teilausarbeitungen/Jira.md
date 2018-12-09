@@ -72,6 +72,18 @@ anzeigt, wie viel Arbeit in einem Sprint vorhanden war und wie viel davon abgear
 Ein Burndown Chart, dass anhand der Storypunkte den zeitlichen Verlauf der Abarbeitung eines Scrum Sprints
 und noch der restlichen Arbeit darstellt [[Jira Burndown-Chart Abbild][Jira-Burndown-Chart]].
 
+### Literatur
+Bezeichnung            | Verweis
+-----------------------|---------------------------------------------------------------------------------------------------
+WP-Jira                | https://de.wikipedia.org/wiki/Jira_(Software)
+Jira-Projekte          | https://confluence.atlassian.com/adminjiraserver/defining-a-project-938847066.html
+Jira-Issues            | https://confluence.atlassian.com/jira064/what-is-an-issue-720416138.html
+Jira-Workflows         | https://confluence.atlassian.com/adminjiraserver072/working-with-workflows-828787890.html
+Jira-Workflow-Schemata | https://confluence.atlassian.com/adminjiraserver073/configuring-workflow-schemes-861253569.html
+Jira-Boards            | https://confluence.atlassian.com/jirasoftwarecloud/what-is-a-board-764477964.html
+Jira-Berichte          | https://confluence.atlassian.com/jirasoftwarecloud/reporting-764478415.html
+Jira-Burndown-Chart    | https://confluence.atlassian.com/jirasoftwarecloud/burndown-chart-777002653.html
+
 [WP-Jira]: https://de.wikipedia.org/wiki/Jira_(Software)
 [Jira-Projekte]: https://confluence.atlassian.com/adminjiraserver/defining-a-project-938847066.html
 [Jira-Issues]: https://confluence.atlassian.com/jira064/what-is-an-issue-720416138.html
