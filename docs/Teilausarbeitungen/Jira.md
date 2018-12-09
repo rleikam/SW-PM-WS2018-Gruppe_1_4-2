@@ -14,10 +14,11 @@ erweitern.
 Die Jira Webanwendung ermöglicht das Erzeugen von verschiedenen Jira Projekten. Dabei können die Projekte unterschiedlich konfiguriert
 sein z.B. hinsichtlich des Vorgehensmodell oder des Workflows. Beim Erstellen eines Projekts lässt sich dieses bereits mit einer
 **Vorlage** konfigurieren. Als Vorlage kann man die bekannten Vorgehensmodelle Scrum oder Kanban wählen. Es gibt auch weitere Vorlagen,
-wie z.B. für einfaches Projektmanagement zum Verfolgen von Aktivitäten, für das Verfolgen von Tasks aber auch wie Material-
-oder Personalbeschaffung. Diese Vorlagen zählen zu den sogenannten **klassischen Projekt** von Jira. Es gibt auch für Teams mit weniger
-Erfahrung die sogenannten **Next-Gen Projekte**, die einen einfachen Einstieg in Jira ohne eine komplizierte Konfiguration ermöglichen.
-Je nach der ausgewählten Projektvorlage ist das Jira Projekt eingerichtet und bereit zur Nutzung [[Jira Projekte][Jira-Projekte]].
+wie z.B. für einfaches Projektmanagement zum Verfolgen von Aktivitäten, oder für das Verfolgen von Tasks aber auch Vorlagen für die
+Material- oder Personalbeschaffung. Diese Vorlagen zählen zu den sogenannten **klassischen Projekt** von Jira. Es gibt auch für Teams
+mit weniger Erfahrung die sogenannten **Next-Gen Projekte**, die einen einfachen Einstieg in Jira ohne eine komplizierte Konfiguration
+ermöglichen. Je nach der ausgewählten Projektvorlage ist das Jira Projekt eingerichtet und bereit zur
+Nutzung [[Jira Projekte][Jira-Projekte]].
 
 ![Jira Klassische Projekte](/../Abbildungen/Richard_Leikam/Jira_Klassische_Projekte.png)
 Der Ausschnitt zeigt eine Teilmenge der Vorlagen für eine Projektkonfiguration in Jira.
@@ -27,8 +28,8 @@ Der Ausschnitt zeigt eine Teilmenge der Vorlagen für eine Projektkonfiguration 
 Issues stellen verschiedene Vorgänge in Jira dar. Ein Issue kann z.B. eine Aufgabe, Bugfix, Feature oder eine andere Art von Sachverhalt
 darstellen. Der genaue Sachverhalt wird mit dem **Issue Typ** klassifiziert. In Jira gibt es standardmäßige Issues z.B. Task, Story oder
 Bug. Zu jedem Issue Typ existiert eine Vielzahl an **Feldern**, die Merkmale eines Issue Typs beschreiben. Würde man beispielsweise eine
-Aufgabe mit einem Issue vom Typ Task beschreiben, dann könnte die Ausprägung eines solchen Issue Typs mit konkret ausgefüllten Feldern für
-die Aufgabenbeschreibung, der Priorität, einer Deadline und dem Namen eines Beauftragen, der die Aufgabe erledigen soll instanziiert werden.
+Aufgabe mit einem Issue vom Typ Task beschreiben, dann würde man bei den Feldern für den Issue (Aufgabenbeschreibung, Priorität, Deadline
+und dem Namen eines Beauftragen), die dafür entsprechenden Daten eintragen.
 In Jira lassen sich eigene Issue Typen mit deren dazugehörigen Feldern definieren [[Jira Issues][Jira-Issues]].
 
 ### Workflows
@@ -47,7 +48,7 @@ Ein Standard Workflow in Jira mit seinen Zuständen und Transitionen [[Jira Work
 ### Boards
 
 Boards zeigen Issues von einem oder mehreren Projekten an. Mit ihnen werden einzelne Issues verwaltet. Innerhalb eines Jira Projekts dürfen
-mehrere Boards existieren. In Jira gibt es drei unterschiedliche Typen von Boards nämlich das Scrum Board, das Kanban Board und das
+mehrere Boards existieren. In Jira gibt es drei unterschiedliche Typen von Boards, nämlich das Scrum Board, das Kanban Board und das
 Next-gen Board. Auf einem Scrum Board gibt es grundlegend zwei Bereiche, einmal der **Backlog** und einmal der **Sprint Backlog**.
 Im Scrum Backlog werden sämtliche Issues verwaltet, während in einem Sprint Backlog die Issues für einen Scrum Sprint vorbereitet werden.
 Aktive Sprints werden als Board mit Spalten dargestellt. Auf einem Kanban Board ist es ähnlich wie auf einem
@@ -64,12 +65,12 @@ Ein Scrum Board mit seinen jeweiligen Spalten und Issues [[Jira Board Abbild][Ji
 Berichte erlauben es, den Projektfortschritt durch Versionen, Epics, Sprints und Issues zu verfolgen und zu analysieren. Je nach Projekttyp
 existieren unterschiedliche Diagramme, die durch die entsprechenden Information eine Visualisierung darstellen. Für Scrum Projekte ist
 zum Beispiel das Burnup-Diagramm interessant, dass die Arbeit innerhalb eines Sprints in Bezug zur gesamten Arbeit des Sprints anhand
-von Storypunkten der Issues im Zeitraum des Sprints vergleicht oder der Velocity-Bericht der anhand von Storypunkten für jeden Sprint anzeigt,
-wie viel Arbeit in einem Sprint vorhanden war und wie viel davon abgearbeitet wurde [[Jira Berichte][Jira-Berichte]].
+von Storypunkten der Issues im Zeitraum des Sprints vergleicht oder der Velocity-Bericht der anhand von Storypunkten für jeden Sprint
+anzeigt, wie viel Arbeit in einem Sprint vorhanden war und wie viel davon abgearbeitet wurde [[Jira Berichte][Jira-Berichte]].
 
 ![Jira Berichte](https://confluence.atlassian.com/jirasoftwarecloud/files/777002653/867194399/1/1484024907542/burndown-chart.png)
-Ein Burndown Chart, dass anhand der Storypunkte den zeitlichen Verlauf der Abarbeitung eines Sprints
-und noch die restliche Arbeit darstellt [[Jira Burndown-Chart Abbild][Jira-Burndown-Chart]].
+Ein Burndown Chart, dass anhand der Storypunkte den zeitlichen Verlauf der Abarbeitung eines Scrum Sprints
+und noch der restlichen Arbeit darstellt [[Jira Burndown-Chart Abbild][Jira-Burndown-Chart]].
 
 [WP-Jira]: https://de.wikipedia.org/wiki/Jira_(Software)
 [Jira-Projekte]: https://confluence.atlassian.com/adminjiraserver/defining-a-project-938847066.html
