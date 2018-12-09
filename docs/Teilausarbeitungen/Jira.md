@@ -2,8 +2,8 @@
 
 ## Einleitung
 
-Jira ist eine von Atlassian entwickelte Webanwendung für das Projektmanagement überwiegend für Softwareprojekte. Mit Jira lassen
-sich Aufgaben, Anforderungen und Prozesse von ein oder mehreren Projekten planen, verwalten und überwachen. 
+Jira ist eine von Atlassian entwickelte Webanwendung für das Projektmanagement überwiegend für Softwareprojekte [[Wikipedia Jira][WP-Jira]].
+Mit Jira lassen sich Aufgaben, Anforderungen und Prozesse von ein oder mehreren Projekten planen, verwalten und überwachen. 
 Es unterstützt insbesondere agile Ansätze, wie Scrum und Kanban. Desweiteren lassen sich auch Rollen und Gruppen
 mit Zugriffsberechitgungen für die Mitglieder von Jira Projekten erstellen. Mit Apps vom Jira Marketplace, wie einer GitHub-Jira
 Integration und weiteren Atlassian Anwendungen, wie Confluence lässt sich die bereitgestellte Plattform für die Projekte entsprechend
@@ -57,3 +57,5 @@ existieren unterschiedliche Diagramme, die durch die entsprechenden Information 
 zum Beispiel das Burnup-Diagramm interessant, dass die Arbeit innerhalb eines Sprints in Bezug zur gesamten Arbeit des Sprints anhand
 von Storypunkten der Issues im Zeitraum des Sprints vergleicht oder der Velocity-Bericht der anhand von Storypunkten für jeden Sprint anzeigt,
 wie viel Arbeit in einem Sprint vorhanden war und wie viel davon abgearbeitet wurde. 
+
+[WP-Jira]: https://de.wikipedia.org/wiki/Jira_(Software)
