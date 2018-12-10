@@ -36,6 +36,8 @@ Diese Form der Projektfortschrittskontrolle stellt sicher, das der Projektleiter
 Die Fortschrittskontrolle ist notwendig um Planungsabweichungen und Gründe dafür herauszuarbeiten und entsprechende Konsequenzen zu treffen. Erfasst und begutachtet werden Termintreue und Ressourceneinsatz. Die Termintreue kann berechnet werden in dem die geplanten Termine den tatsächlichen erreichten Terminen gegenübergestellt werden. Um die Plantreue zu errechnen, errechnen wir die Differenz aus den geschätzten Fertigstellungsterminen und der Plantermine über alle Arbeitspakete und bilden daraus das arithmetische Mittel. Das gibt uns einen Wert über oder unter 100 Prozent und gibt eine Aussage darüber, inwieweit das Projekt im zeitlichen Rahmen liegt oder nicht.
 
 Eine andere Methode zur Ermittlung von Termintreue und Trends von Projekten, ist die Meilensteintrendanalyse kurz MTA. Im Koordinatensystem wird auf die x und y-Achse die Zeit für das gesamt Projekt aufgetragen. Es wird ein Diagonale durch den Ursprung gezogen, welche als Ziellinie bezeichnet wird. Geplante Meilensteine beginnen auf der y-Achse und ihre zeitliche Umplanung wird über x aufgezeichnet. Erreicht eine Trendlinie die Diagonale, heißt es der Meilenstein ist erreicht worden. Die MTA gibt Aufschluss darüber, ob Planungen zu optimistisch oder zu pessimistisch gemacht wurden. Verzögerungen und Umplanungen werden deutlich sichtbar gemacht und ob und wie stark sie sich auf das Erreichen der Meilensteine auswirken.
+![Beispiel einer Meilensteintrendanalyse](/../Abbildungen/Jakob_Tissen/MTA.png)
+
 
 ### Aufwandserfassung
 
