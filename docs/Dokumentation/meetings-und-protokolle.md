@@ -6,6 +6,13 @@ Gruppentreffen. Protokolle sind bereits abgeschlossene Meetings mit Protokollauf
 ---
 ---
 
+### Protokoll 10.12.2018 11:30 - 14:00
+Protokollant: André Grellmann  
+Anwesend: Jakob Tissen, André Grellmann
+
+Ausarbeitungen der Woche vorgestellt  
+Vorgeschlagen: Matrix zu Projektmanagementtools --> Kriterien festlegen, Haken und Kreuze kömnnen reichen
+
 ### Protokoll 26.11.2018 12:15 - 14:00
 Protokollant: Richard Leikam  
 Anwesend: Alle außer Nick und Kevin  
