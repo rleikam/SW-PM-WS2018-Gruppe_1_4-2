@@ -1,6 +1,6 @@
 ## MS Project 2019
 
-Das Projektmanagementtool aus dem Hause Microsoft bietet eine riesige Palette an Werkzeugen, um Projekte und alle damit verbundenen Vorgänge abbilden zu können. Vorteilhaft ist die Integration und die Unterstützung anderer Office Produkte, sowie wiedererkennbare Office Menüs.[[Microsoft_Project-Wikipedia ][Microsoft_Project-Wikipedia ]]  
+Das Projektmanagementtool aus dem Hause Microsoft bietet eine riesige Palette an Werkzeugen, um Projekte und alle damit verbundenen Vorgänge abbilden zu können. Vorteilhaft ist die Integration und die Unterstützung anderer Office Produkte, sowie wiedererkennbare Office Menüs. [[Microsoft_Project-Wikipedia ][Microsoft_Project-Wikipedia ]]  
 
 ### Projekte
 
@@ -16,7 +16,7 @@ Ressourcen können Vorgängen zugeordnet werden. Dabei kann man zwischen Arbeit,
 
 ### Berichte und Ansichten
 
-Die Möglichkeiten das Projekt und die Vorgänge und Ressource so detailliert abbilden zu können, erlauben es eine Menge von vorgefertigten Berichten zu generieren. Hier eine kleine Auswahl: Arbeitsübersicht, Projektübersicht, Burndown, Kostenübersicht, Überlastete Ressourcen, Ertragswertbericht, eine Menge verschiedener Kostenübersichtsberichte, verzögerte Vorgänge, Meilensteinberichte und vieles mehr. Berichte werden dargestellt in Diagrammform und können mit allen Office Werkzeugen konfiguriert werden. Zudem können benutzerdefinierte Berichte angelegt werden, wo Regeln der Berechnung auf alle Projektdaten als Argumente zugreifen können.  Man hat die Möglichkeit zwischen mehreren Ansichten, während dem Arbeiten in MS Project 2019 zu wechseln. Jede Ansicht erlaubt es alle Relevanten Werkzeuge und Eingabeformulare schnell und übersichtlich zu verwenden.[[Ansicht wechseln][Ansicht wechseln]]  
+Die Möglichkeiten das Projekt und die Vorgänge und Ressource so detailliert abbilden zu können, erlauben es eine Menge von vorgefertigten Berichten zu generieren. Hier eine kleine Auswahl: Arbeitsübersicht, Projektübersicht, Burndown, Kostenübersicht, Überlastete Ressourcen, Ertragswertbericht, eine Menge verschiedener Kostenübersichtsberichte, verzögerte Vorgänge, Meilensteinberichte und vieles mehr. Berichte werden dargestellt in Diagrammform und können mit allen Office Werkzeugen konfiguriert werden. Zudem können benutzerdefinierte Berichte angelegt werden, wo Regeln der Berechnung auf alle Projektdaten als Argumente zugreifen können.  Man hat die Möglichkeit zwischen mehreren Ansichten, während dem Arbeiten in MS Project 2019 zu wechseln. Jede Ansicht erlaubt es alle Relevanten Werkzeuge und Eingabeformulare schnell und übersichtlich zu verwenden.   [[Ansicht wechseln][Ansicht wechseln]]
 
 ### MS Project versus Git
 
