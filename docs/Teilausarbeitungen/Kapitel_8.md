@@ -104,5 +104,4 @@ Die Integration des Produkts in die Einsatzumgebung muss vom Management geplant 
 ### Literatur
 Bezeichnung            | Verweis
 -----------------------|---------------------------------------------------------------------------------------------------
-1.                     | Manfred Broy,Marco Kuhrmann, Projektorganisation und Management im Software Engineering
-                       | 1.Auflage, Springer-Verlag Berlin Heidelberg 2013
+1                      | Manfred Broy,Marco Kuhrmann, Projektorganisation und Management im Software Engineering  1.Auflage, Springer-Verlag Berlin Heidelberg 2013
