@@ -8,7 +8,7 @@ Studiengang Informatik
 
 <p style="text-align: center;"> Software Projektmanagement </p>
 
-Angefertigt von:  
+angefertigt von:  
 Richard Leikam  
 André Grellmann  
 Nick Friedrich  
@@ -16,7 +16,7 @@ Jakob Tissen
 Kevin Gerzen  
 Lennard Kuhnke  
 
-Betreut von:  
+betreut von:  
 Prof. Dr. rer. nat. Jörg Brunsmann
 
 
