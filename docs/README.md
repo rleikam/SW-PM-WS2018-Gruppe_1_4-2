@@ -24,6 +24,16 @@ Prof. Dr. rer. nat. Jörg Brunsmann
 
 ### Abstract (Kurzzusammenfassung=1 Seite)
 ### Inhaltsverzeichnis (ggf. Abkürzungsverzeichnis oder Glossar, falls notwendig)
+
+Definitionsphase  
+Planungsphase 
+Tools  
+Realisierungsphase  
+Abschlussphase  
+
+Abbildungsverzeichnis  
+Quellenverzeichnis  
+
 ### Einleitung
 ### Hauptteil (=eigentliche Arbeit, meist 3–5 Hauptkapitel)
 ### Zusammenfassung oder Ausblick
