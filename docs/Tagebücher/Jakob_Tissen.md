@@ -26,6 +26,10 @@ Datum      | Tätigkeiten                                                 | Daue
 02.12.2018 | Instalation MS Project 2019 | 0:45
 02.12.2018 | Testen der Funktionailtäten von MS Project 2019 | 1:00
 02.12.2018 | Ausarbeitung MS Project 2019 abgeschlossen | 3:00
+03.12.2018 | Meeting | 1:15
+10.12.2018 | Optimierung der Ausarbeitungen mit Literaturverzeichniss und korrektur lesen | 3:00
+10.12.2018 | Meeting | 1:00
+
 
 
 
