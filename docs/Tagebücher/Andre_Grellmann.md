@@ -26,7 +26,8 @@ Datum      | Tätigkeiten                                                       
 22.11.2018 | Fließtextkonvertierung Kap. 12                                      | 1:15
 07.12.2018 | Ausarbeitung YouTrack                                               | 2:00
 08.12.2018 | Ausarbeitung YouTrack                                               | 1:15
-13.12.2018 | Ausarbeitungen optimieren                                           | 1:10
+13.12.2018 | Ausarbeitungen optimieren (Formatierung)                            | 1:10
+14.12.2018 | Ausarbeitungen optimieren (Bilder, Verweise, Sprache)               | 5:30
 
 Montagsbesprechungen hinzufügen!
 
