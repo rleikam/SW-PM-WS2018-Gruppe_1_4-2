@@ -31,7 +31,7 @@ Ergebnisse, die **Artefakte** genannt werden.
 ![Jira Klassische Projekte](/../Abbildungen/Richard_Leikam/Kapitel_3_Projektphasen.png)
 Das grundlegene Phasenmodell wird mit seinen Artefakten hier dargestellt.
 
-### Phasen des Projektlebenszyklus
+### Projektentstehung
 
 In der **Projektentstehung** werden Ideen zusammengetragen und weiter detaillierter ausgearbeitet. Die Projektideen können dabei
 durch Eigenhand, durch Bedarf von Kunden oder durch Probleme entstehen. Anschließend müssen diese beurteilt bzw. analyisert werden.
