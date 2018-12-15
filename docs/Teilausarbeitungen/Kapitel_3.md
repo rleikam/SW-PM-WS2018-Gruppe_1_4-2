@@ -12,14 +12,14 @@ und **Softwarelebenszyklus**.
 ### Lebenszylken
 
 Der **Produktlebenzyklus** wird im Product Life Cycle Management definiert. Dabei werden auf die Aspekte der Entstehung, Entwicklung,
-Produktion und Markteinführung oder Inbetriebnahme und Betrieb und der Stilllegung des Produktes, beachtet. Der **Projektlebenszyklus**
-wird üblicherweise in 3 Phasen unterteilt. In einem Softwareprojekt ist dies ähnlich. Bei der **Projektentstehung** werden Ideen für die
-Entwicklung von Software gesammelt und dann verstärkt in der **Projektdefinition** ausgearbeitet. In der **Projektdurchführung** findet
-dann die eigentliche Entwicklung statt und bei der Abgabe der Software an den Kunden findet der **Projektabschluss** statt. Im
-**Softwarelebenszyklus** beschreibt man die Entwicklung von Softwaresystemen. Manchmal wird auch von **Softwareprodukten** gesprochen,
-dies kann allerdings auf ein materielles Gut einer Software verweisen, wie z.B. CDs. Der Softwarelebenszyklus wird meist aus den Phasen
-der Anforderungsfestlegung, des Grob- und Feinentwurfs, der Implementierung, Test und Integration, der Erprobung und Inbetriebnahme, der
-Wartung und Weiterentwicklung, sowie der Außerbetriebnahme beschrieben.
+Produktion und Markteinführung oder Inbetriebnahme und Betrieb und der Stilllegung des Produktes, eingegangen. Der **Projektlebenszyklus**
+wird üblicherweise in 4 Phasen unterteilt. Bei der **Projektentstehung** werden Ideen für die Entwicklung von Software gesammelt und dann
+verstärkt in der **Projektdefinition** ausgearbeitet. In der **Projektdurchführung** findet dann die eigentliche Entwicklung statt und bei
+der Abgabe der Software an den Kunden findet der **Projektabschluss** statt. Im **Softwarelebenszyklus** beschreibt man die Entwicklung
+von Softwaresystemen. Manchmal wird auch von **Softwareprodukten** gesprochen, dies kann allerdings auf ein materielles Gut einer Software
+verweisen, wie z.B. CDs. Der Softwarelebenszyklus wird meist aus den Phasen der Anforderungsfestlegung, des Grob- und Feinentwurfs, der
+Implementierung, Test und Integration, der Erprobung und Inbetriebnahme, der Wartung und Weiterentwicklung, sowie der Außerbetriebnahme
+beschrieben.
 
 ### Projektlebenszyklus
 
