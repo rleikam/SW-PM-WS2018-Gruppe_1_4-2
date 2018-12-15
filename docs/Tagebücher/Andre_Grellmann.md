@@ -21,15 +21,17 @@ Datum      | Tätigkeiten                                                       
 16.11.2018 | letzte Ausarbeitung Haupt-Buch Kap. 7.6                             | 0:30
 17.11.2018 | Fließtextkonvertierung Kap. 7                                       | 2:30
 18.11.2018 | letzte Fließtextkonvertierung Kap. 7                                | 3:00
-19.11.2018 | Ausarbeitung Haupt-Buch Kap. 12                                     | 0:30
+19.11.2018 | Meeting: Wochenbesprechung + Ausarbeitung Haupt-Buch Kap. 12        | 3:00
 20.11.2018 | letzte Ausarbeitung Haupt-Buch Kap. 12                              | 0:45
 22.11.2018 | Fließtextkonvertierung Kap. 12                                      | 1:15
+26.11.2018 | Meeting: Wochenbesprechung - Formvorgaben, Grafiken, Reihenfolge    | 2:15
 07.12.2018 | Ausarbeitung YouTrack                                               | 2:00
 08.12.2018 | Ausarbeitung YouTrack                                               | 1:15
+10.12.2018 | Meeting: Wochbesprechung                                            | 2:30
 13.12.2018 | Ausarbeitungen optimieren (Formatierung)                            | 1:10
 14.12.2018 | Ausarbeitungen optimieren (Bilder, Verweise, Sprache)               | 5:30
 
-Montagsbesprechungen hinzufügen!
+---
 
 <script src="Tagebücher/timeCalculation.js">
 </script>
