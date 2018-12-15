@@ -11,7 +11,10 @@ Protokollant: André Grellmann
 Anwesend: Jakob Tissen, André Grellmann
 
 Ausarbeitungen der Woche vorgestellt  
-Vorgeschlagen: Matrix zu Projektmanagementtools --> Kriterien festlegen, Haken und Kreuze kömnnen reichen
+Vorgeschlagen: Matrix zu Projektmanagementtools --> Kriterien festlegen, Haken und Kreuze können reichen
+
+---
+---
 
 ### Protokoll 26.11.2018 12:15 - 14:00
 Protokollant: Richard Leikam  
