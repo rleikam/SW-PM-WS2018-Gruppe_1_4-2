@@ -2,11 +2,12 @@
 
 ### Einleitung
 
-Der **Projektlebenszyklus** beschreibt eine **grundsätzliche Struktur** für ein Projekt, welche auf die zu leistenden Aufgaben und der
-entsprechenden Zeit des Projekts fixiert ist. In Softwareprojekten teilt man solche Strukturen in Phasen auf. Hier ist die jeweilige
-Anordnung und Abhängigkeit der Phasen relevant, die die Ordnung der Phasen und den zeitlichen Faktor wiederspiegelt. Desweiteren lassen
-sich diese Phasen weiter in Bezug auf die jewelige Aufgabenstellung konkretisieren. Bei der Softwareentwicklung gibt es
-3 Lebenszyklusmodelle, der **Produktlebenszyklus**, der **Projektlebenszyklus** und **Softwarelebenszyklus**.
+Der **Projektlebenszyklus** beschreibt den zeitlichen Verlauf eines Projektes, wobei auf die zu leistenden Aufgaben und der entsprechenden
+Zeit des Projekts eingegangen wird. Zur Beschreibung wird ein Phasenmodell eingesetzt, wobei eine Phase einen zeitlichen Abschnitt im
+Projekt darstellt. Hier ist die jeweilige Anordnung und Abhängigkeit der Phasen relevant, die die Ordnung der Phasen und den zeitlichen
+Faktor wiederspiegelt. Desweiteren lassen sich diese Phasen weiter in Bezug auf die jeweilige Aufgabenstellung konkretisieren. Bei der
+Softwareentwicklung kann man 3 Lebenszyklusmodelle betrachten, diese sind der **Produktlebenszyklus**, der **Projektlebenszyklus**
+und **Softwarelebenszyklus**.
 
 ### Lebenszylken
 
