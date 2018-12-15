@@ -23,10 +23,13 @@ beschrieben.
 
 ### Projektlebenszyklus
 
-Die Phasen Projektentstehung, Projektdefinition, Projektdurchführung, Projektabschluss bilden ein oft verwendetes **Grundmodell** ab.
+Die Phasen Projektentstehung, Projektdefinition, Projektdurchführung, Projektabschluss bilden ein oft verwendetes **Phasenmodell** ab.
 Die einzelnen Phasen werden entsprechend weiter verfeinert. Dabei legt jede Phase bestimmte Schwerpunkte auf die zu auszuführenden
 Tätigkeiten fest. Jede Phase hat eine Gliederung von Aufgaben, Aktivitäten und Tätigkeiten. Dabei erarbeitet jede Tätigkeit bestimmte
-Ergebnisse, die **Artefakte** genannt werden.  
+Ergebnisse, die **Artefakte** genannt werden.
+
+![Jira Klassische Projekte](/../Abbildungen/Richard_Leikam/Kapitel_3_Projektphasen.png)
+Das grundlegene Phasenmodell wird mit seinen Artefakten hier dargestellt.
 
 ### Phasen des Projektlebenszyklus
 
