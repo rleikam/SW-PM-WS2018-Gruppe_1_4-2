@@ -2,14 +2,14 @@
 
 Das Projektmanagementtool aus dem Hause Microsoft bietet eine riesige Palette an Werkzeugen, um Projekte und alle damit verbundenen Vorgänge
 abbilden zu können. Vorteilhaft ist die Integration und die Unterstützung anderer Office Produkte, sowie wiedererkennbare 
-Office Menüs. [[Microsoft_Project-Wikipedia ][Microsoft_Project-Wikipedia ]]  
+Office Menüs. [12]
 
 ### Projekte
 
 Für das Anlegen eines neuen Projekts, kann man aus einer Menge von vorgefertigten Templates wählen oder man wählt ein leeres Template.
 Das Erstellen von benutzerdefinierten Templates ist optimal, um zukünftige Arbeitsprozesse zu verkürzen. Alle anlegbaren Objekte sind
 kategorisierbar und man kann entscheiden, ob sie Projektübergreifend genutzt werden sollen. Das gleichzeitige Managen mehrerer Projekte
-und oder Teilprojekte wird unterstützt. [[Projekt anlegen][Projekt anlegen]]
+und oder Teilprojekte wird unterstützt. [13]
 
 ### Vorgänge 
 
@@ -19,7 +19,7 @@ von Vorgängen. Die Dauer und Abhängigkeiten von anderen Vorgängen kann im Kon
 öffnet, verändert werden. Dort können noch andere mannigfaltige Einstellungen gemacht werden. Die Vorgänge in einem Projekt und ihre
 Abhängigkeiten, werden im Ganttdiagramm übersichtlich dargestellt und können per Drag and Drop angepasst werden. Wenn es so eingestellt
 war, verzögern sich abhängige Vorgänge entsprechend. Vorgänge mit der Dauer 0 werden als Meilensteine definiert und im Ganttdiagramm als
-solche symbolisiert. Der Fortschritt eines Vorgangs kann genau eingestellt werden. [[Vorgang anlegen ][Vorgang anlegen ]]  
+solche symbolisiert. Der Fortschritt eines Vorgangs kann genau eingestellt werden. [14]  
 
 ### Ressource
 
@@ -28,7 +28,7 @@ Mitarbeiter sind Ressourcen der Art Arbeit und können sehr detailliert definier
 Mitarbeiters abbilden mit Feiertagen und Ausnahmen. Die Konfiguration des Zeitmanagement lässt alles zu. Auch die Abbildung verschiedenster
 Vergütungsformen ist möglich, für eine möglichst exakte Kostenplanung. Es können Einschränkungen getroffen werden, sodass eine Ressource
 für ein Projekt oder Vorgang nur prozentual zu Verfügung steht, um Priorisierungen abbilden zu können. Kostenstellen können Kategorien
-zugewiesen werden. [[Ressource zuweisen][Ressource zuweisen]]  
+zugewiesen werden. [15]  
 
 ### Berichte und Ansichten
 
@@ -38,7 +38,7 @@ Ertragswertbericht, eine Menge verschiedener Kostenübersichtsberichte, verzöge
 werden dargestellt in Diagrammform und können mit allen Office Werkzeugen konfiguriert werden. Zudem können benutzerdefinierte Berichte
 angelegt werden, wo Regeln der Berechnung auf alle Projektdaten als Argumente zugreifen können.  Man hat die Möglichkeit zwischen mehreren
 Ansichten, während dem Arbeiten in MS Project 2019 zu wechseln. Jede Ansicht erlaubt es alle Relevanten Werkzeuge und Eingabeformulare
-schnell und übersichtlich zu verwenden.   [[Ansicht wechseln][Ansicht wechseln]]
+schnell und übersichtlich zu verwenden. [16]
 
 ### MS Project versus Git
 
@@ -49,7 +49,7 @@ Git von den Nutzern mit einer Bewertung im Durchschnitt einer 8.5 vor Microsoft 
 Unternehmensgrößen die Produkte im Verhältniss eingesetzt werden. Git ist in allen Unternehmensgrößen ungefähr gleich verteilt vertreten.
 Microsoft Products findet deutlich mehr Verwendung in Unternehmensgrößen ab 1000 Mitarbeitern. Die beiden Produkte unterscheiden sich auch
 deutlich in ihren Einsatzgebieten. Mit knapp 25% wird Git in der Computer Software Branche eingesetzt, wo hingegen Microsoft Product dort
-nur mit knapp 5% vorzufinden ist. [[MS Project vs Git ][MS Project vs Git ]]  
+nur mit knapp 5% vorzufinden ist. [17]  
 
 ### Fazit 
 

@@ -1,3 +1,5 @@
+[Quellenverzeichnis [1]](#Quellenverzeichnis)
+
 ## Einleitung
 
 In der Phase der Projektdurchführung sind die Aufgaben des Managements konzentriert auf eine detaillierte Arbeits- und Ressourcenplanung,
@@ -69,7 +71,7 @@ Erreichen der Meilensteine auswirken.
 
 <div style="text-align:center"> 
 	<img src="/../Abbildungen/Jakob_Tissen/MTA.png">
-	<div><b></b></div>
+	<div><b>Meilensteintrendanalyse[9]</b></div>
 </div>
 
 ## Aufwandserfassung

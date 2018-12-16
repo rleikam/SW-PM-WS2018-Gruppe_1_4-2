@@ -1,5 +1,7 @@
 ## GitHub Project Board
 
+_Zusammengefasst aus [27, 28, 29, 30, 31, 32, 33]._
+
 **GitHub** bietet auch Tools zum Projektmanagement in der Form von **Project Boards**. Diese **Project Boards** können entweder zu
 einem **Repository** angehören oder sogar bis zu 5 verschiedenen **Respositories**, wenn man ein **Organisation Project Board** erstellt.
 

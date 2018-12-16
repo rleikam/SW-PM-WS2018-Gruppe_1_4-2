@@ -1,5 +1,7 @@
 ## Vorgehensmodelle
 
+[Quellenverzeichnis [1]](#Quellenverzeichnis)
+
 ### Wasserfallmodell
 
 Das **Wasserfallmodell** ist einst der einfachsten **Vorgehensmodelle** und hat als Ziel ein **Meilenstein** in jeder Phase des Projekts
@@ -108,7 +110,7 @@ verbundenen Tätigkeiten.
 
 <div style="text-align:center"> 
 	<img src="/../Abbildungen/Nick_Friedrich/RUP-Gebirge.png">
-	<div><b></b></div>
+	<div><b>RUP-Gebirge[4]</b></div>
 </div>	
 
 **RUP** teilt das Projekt in folgende **Phasen** und **Meilensteine**:

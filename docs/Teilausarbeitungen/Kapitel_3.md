@@ -1,5 +1,7 @@
 ## Projekt- und Produktlebenszyklus von Software
 
+[Quellenverzeichnis [1]](#Quellenverzeichnis)
+
 ### Einleitung
 
 Der **Projektlebenszyklus** beschreibt den zeitlichen Verlauf eines Projektes, wobei auf die zu leistenden Aufgaben und der entsprechenden
@@ -30,7 +32,7 @@ Ergebnisse, die **Artefakte** genannt werden.
 
 <div style="text-align:center"> 
 	<img src="/../Abbildungen/Richard_Leikam/Kapitel_3_Projektphasen.png">
-	<div><b>Das grundlegene Phasenmodell wird mit seinen Artefakten hier dargestellt.</b></div>
+	<div><b>Das grundlegene Phasenmodell wird mit seinen Artefakten hier dargestellt.[2]</b></div>
 </div>
 
 ### Projektentstehung
@@ -101,7 +103,7 @@ Phasen rechtzeitig vorliegen.
 
 <div style="text-align:center"> 
 	<img src="/../Abbildungen/Richard_Leikam/Kapitel_3_V-Modell.png">
-	<div><b>Ein V-Modell mit öfter vorkommenden Phasen.</b></div>
+	<div><b>Ein V-Modell mit öfter vorkommenden Phasen.[3]</b></div>
 </div>
 
 ### Projektkontext und Projekthierarchien

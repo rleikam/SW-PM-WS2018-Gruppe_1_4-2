@@ -1,8 +1,11 @@
 ## YouTrack
+
+
+
 ### Einleitung
 YouTrack ist ein Projektmanagementtool mit dem _Schwerpunkt auf die Softwareentwicklung_ von der Firma JetBrains und ist _für agile
 Vorgehensmodelle ausgelegt_. Das Programm wird als Cloud-Anwendung, die für bis zu drei Personen kostenlos ist oder als Standalone, die
-man auf einem eigenen Server installieren kann und für bis zu zehn Personen kostenlos ist, angeboten. Es bietet zudem Schnittstellen für
+man auf einem eigenen Server installieren kann und für bis zu zehn Personen kostenlos ist, angeboten [18]. Es bietet zudem Schnittstellen für
 diverse Tools, wie z.B. GitHub und GitLab oder auch Test Management und Help Desk Tools. Da dieses Tool von JetBrains entwickelt wurde,
 kann es sehr gut in die weiteren Programme dieser Firma, wie die bekannten IDEs IntelliJ oder auch PyCharm, eingebunden werden.  
 Außerdem kann man das Projektmanagementtool mit vielen Erweiterungen oder eigenen Workflows weiter für die gestellten Projektansprüche

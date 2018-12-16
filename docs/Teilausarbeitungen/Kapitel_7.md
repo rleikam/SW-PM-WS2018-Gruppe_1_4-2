@@ -1,3 +1,5 @@
+[Quellenverzeichnis [1]](#Quellenverzeichnis)
+
 ## Einleitung
 Die Projektdefinitionsphse ergibt eine Doku über getroffene Vereinbarungen zwischen Vertragspartnern bezüglich Arbeiten, die für das Projekt nötig sind und zu liefernde Produkte und Dienstleistungen inklusive der Breite und die Tiefe dieser und der Bildung des Projektteams, der Einrichtung der Projektinfrastruktur und vielen weiteren organisatorischen Vorgaben für das Projekt.  
 Bei dem Kick-Off Meeting werden mitunter die Vorgaben für den Auftraggeber und den Auftragnehmer festgelegt und somit die "Spielregeln" für das Projekt erschaffen.
@@ -23,7 +25,7 @@ Für die Vorgaben des __Kommunikations- und Berichtswesens__ wird vorgeschlagen,
 Zu dem Berichtswesen gehören außerdem die __Berichtswege__, für die vertragliche Regelungen, Anforderungen des Unternehmens, sowie alle Vertragsparteien und Stakeholder beachtet werden müssen. Dafür werden Form und Aufbau von Berichten für Auftragnehmer und -geber und die Berichtsverfahren vorgegeben, damit eine _einfache und effiziente Kommunikation_ erreicht wird. Dabei sollten z.B. die Ersteller, der Adressat, die Form, der Inhalt und die Häufigkeit jeglicher Berichte dokumentiert werden. Als Werkzeug bietet sich eine Kommunikationsmatrix an, die alle diese Infos enthält und in der Projektzeit immer weiter ausgebaut wird. Eine Grundlage dafür kann z.B. eine _RAC-Matrix (im Kapitel 2.1 enthalten)_ sein.  
 <div style="text-align:center"> 
 	<img src="/../Abbildungen/Andre_Grellmann/Kap7-Kommunikationsmatrix.PNG">
-	<div><b>Beispiel Kommunikationsmatrix, Literaturverzeichnis: Bild Kommunikationsmatrix</b></div>
+	<div><b>Beispiel Kommunikationsmatrix [5]</b></div>
 </div>
 
 ## Definition eines QS-Verfahrens
@@ -56,20 +58,20 @@ __Netzpläne__ stellen logische Beziehungen zwischen Arbeitspaketen und die zeit
 Netzpläne werden gewöhnlicherweise mit Knotenpunkten, die Ereignisse darstellen und Pfeilen, die Vorgänge oder Abhängigkeiten, dargestellt und basieren auf mathematischen Funktionen und Mengen. Mit ihnen kann man den Entwicklungsprozess gut optimieren, da man wichtige Daten zu Parallelität und Gesamtdauer ablesen kann. Auch kritische Pfade können erkannt werden. Diese sind Ketten von Vorgängen, die bei Problemen in diesen das Potential dazu haben, das ganze Projekt zu verzögern und somit die Termine zu verschieben. Davon gibt es mindestens einen im Plan, sie sind aber auch in Teilplänen möglich. Bei der Planung und der Durchführung muss besonders auf diese Pfade geachtet werden.    
 <div style="text-align:center"> 
 	<img src="/../Abbildungen/Andre_Grellmann/Kap7-KritPfad.PNG">
-	<div><b>Beispiel für einen kritischer Pfad, Literaturverzeichnis: Bild Kritischer Pfad</b></div>
+	<div><b>Beispiel für einen kritischer Pfad [6]</b></div>
 </div>
 
 Die Probleme der Netzplantechnik liegen darin, dass sie manche Randbedingungen, wie Krankheit oder ähnliches, nicht beachtet und auf "starren" Abhängigkeiten basiert, die in dieser Form in der Realität eigentlich nicht vorkommen. Um sie dynamischer zu machen und das Vorziehen von Vorgängen zu ermöglichen müssten sie zu detailliert werden, sodass der Aufwand für die Erstellung viel zu hoch würde. Daher eignet sich diese Technik eher gut für eine grobe Planung und die Darstellung dabei. Für die Erstellung und Darstellung werden trotzdem Softwarewerkzeuge empfohlen.  
 Die __Balkenplantechnik__ ermöglicht eine bessere Darstellung von möglichen parallel ausführbaren Arbeitspaketen mit Berücksichtigung von Ressourcenbeschränkungen. Für die Darstellung eignet sich z.B. ein __Gantt-Diagramm__. Dieses enthält in der ersten Zeile eine Zeitleiste, wobei die Spalten für Zeitabschnitte stehen, und in den weiteren Zeilen Vorgänge und Infos zu diesen. Das Diagramm visualisiert die Dauer bzw. den Anfang und das Ende von Vorgängen durch Balken in den Zeilen, wobei Überlappungen dabei möglich sind.  
 <div style="text-align:center"> 
 	<img src="/../Abbildungen/Andre_Grellmann/Kap7-Balkenplan.PNG">
-	<div><b>Beispiel für einen Balkenplan, Literaturverzeichnis: Bild Balkenplan</b></div>
+	<div><b>Beispiel für einen Balkenplan [7]</b></div>
 </div> 
 
 In vernetzten Diagrammen bestehen Abhängigkeiten zwischen Vorgängen, die mit Pfeilen dargestellt werden und unter Umständen auch nach dem ersten Erstellen hinzugefügt werden können, wenn nur ein unvernetztes erstellt wurde. Es gibt diese Diagramme in der _personen- und der aufgabenbezogenen_ Variante. Pro Zeile können z.B. Aufgaben mit Angaben zu dem Bearbeiter dargestellt werden. Somit kann man sich eine gute Übersicht z.B. über den Workload (von einzelnen Personen) verschaffen. Es gibt unterschiedliche Arten von _Beziehungen und Abhängigkeiten_, den __Anordnungsbeziehungen__. Diese werden aufgeteilt in die Normal-, Anfangs-, End- und Sprungfolge. Die Bedingung der __Normalfolge__ (Ende-Anfang-Beziehung) ist der Abschluss einer ersten Aufgabe, damit eine weitere begonnen werden kann und erlaubt somit keine Überlappung. Die __Anfangsfolge__ (Anfang-Anfang-Beziehung) hingegen setzt den Anfang einer Aufgabe voraus, damit eine weitere gestartet werden kann und erlaubt Überlappungen. Bei der __Endfolge__ (Ende-Ende-Beziehung) muss ein Vorgang abgeschlossen werden damit ein weiterer auch beendet werden kann. Sie erlaubt somit auch Überlappung. Die __Sprungfolge__ (Anfang-Ende-Beziehung) erlaubt keine parallele Bearbeitung, da für diese eine Aufgabe angefangen werden muss, damit eine weitere abgeschlossen werden kann. Für gewöhnlich werden bei der Diagrammerstellung zuerst die Ende-Anfang-Beziehungen beachtet und später die anderen hinzugefügt.  
 <div style="text-align:center"> 
 	<img src="/../Abbildungen/Andre_Grellmann/Kap7-BPAbhaengik.PNG">
-	<div><b>Beispiel zu den Abhängigkeiten im Balkenplan, Literaturverzeichnis: Bild Abhängigkeiten</b></div>
+	<div><b>Beispiel zu den Abhängigkeiten im Balkenplan [8]</b></div>
 </div> 
 
 Für die Projektplanung muss am Anfang die __Philosophie__ dieser festgelegt werden, da diese die Grundlage für den Aufbau der Planung ist. Im Folgenden werden beispielhaft vier Varianten vorgestellt. Die erste ist die __Meilenstein-Orientierte Planung__, in der Meilensteine die Basis für den Projektplan sind. Dafür werden zuerst eine Meilensteinliste erstellt und dann die Projektpläne davon abgeleitet und mit weiterführenden Informationen gefüllt. Bei auftretenden Problemen werden bei dieser Philosophie meist die Meilensteine sowohl vor als auch zurück verschoben.  

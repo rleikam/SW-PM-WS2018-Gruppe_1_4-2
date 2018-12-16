@@ -1,3 +1,5 @@
+[Quellenverzeichnis [1]](#Quellenverzeichnis)
+
 ## Einleitung
 
 Mit dem Projektabschluss werden die Ergebnisse des Projekts an den Kunden übergeben und durch diesen akzeptiert. Dies bezeichnet
@@ -8,7 +10,7 @@ den Rahmenbedingungen erfolgreich abgeschlossen wurde oder einen **außerordentl
 
 <div style="text-align:center"> 
 	<img src="/../Abbildungen/Richard_Leikam/Kapitel_9_Projektabschluss.png">
-	<div><b>Der Projektabschluss in einem kleinen Überblick.</b></div>
+	<div><b>Der Projektabschluss in einem kleinen Überblick. [10]</b></div>
 </div>
 
 ## Projektabnahme
