@@ -29,6 +29,8 @@ Datum      | Tätigkeiten                                                 | Daue
 03.12.2018 | Meeting | 1:15
 10.12.2018 | Optimierung der Ausarbeitungen mit Literaturverzeichniss und korrektur lesen | 3:00
 10.12.2018 | Meeting | 1:00
+16.12.2018 | Team-Viewer,Discord: Gemeinsames Anfertigen der Ausarbeitung  | 9:00
+
 
 
 
