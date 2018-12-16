@@ -19,7 +19,7 @@ Bezeichnung            | Verweis
 ## Quellenverzeichnis-Werkzeuge
 Bezeichnung | Verweis
 ----------- | ------------------------------------------------------------------------------------------------------------------
-1           | Der Folgende textuelle Inhalt stammt, wenn nicht anders vermerkt, aus: Manfred Broy, Marco Kuhrmann, Projektorganisation und Management im Software Engineering  1.Auflage, Springer-Verlag Berlin Heidelberg 2013, Kapitel 12 (S. 355 ff)
+Gesamttext  | Der Folgende textuelle Inhalt stammt, wenn nicht anders vermerkt, aus: Manfred Broy, Marco Kuhrmann, Projektorganisation und Management im Software Engineering  1.Auflage, Springer-Verlag Berlin Heidelberg 2013, Kapitel 12 (S. 355 ff)
 
 
 ## Quellenverzeichnis-Jira
