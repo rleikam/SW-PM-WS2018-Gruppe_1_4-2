@@ -17,14 +17,14 @@ existieren noch weitere Metriken dieser Bereiche.
 
 Die Wahl der Metriken fällt immer mit den Aspekten von Software und Prozessen einher. Bei Software sind zum Beispiel Aspekte, wie Umfang
 und Leistung, Komplexität und Effizienz zu untersuchen und bei Prozessen Aspekte wie Produktivität, Effektivität und Kommunikationsintensität.
-Das diese Aspekte alle nicht sehr einfach zu messen sind, wählt man einfache Metriken. Mit der Metrik **Lines of Code (LOC)** beispielsweise
+Da diese Aspekte alle nicht sehr einfach zu messen sind, wählt man einfache Metriken. Mit der Metrik **Lines of Code (LOC)** beispielsweise
 lässt sich die Anzahl der Codezeilen von Programmen messen. Vergleiche werden durch verschiedene Versionen von Programmiersprachen oder
 verschiedener Programmkonstrukte, wie Methoden gemessen und analysiert. Selbstverständlich ist es möglich ein Problem durch Programme
 mit verschiedener Programmzeilenlänge zu lösen, was die Aussagekraft von LOC anzweifelt. Die Metrik LOC wird allerdings trotzdem oft verwendet
 um z.B. die Produktivität einer Softwareentwicklung zu bestimmten. Dabei werden Lines of Code pro Personentag zum Vergleich gemessen.
 Mit Werkzeugen lassen sich mehrere Sätze von Metriken berechnen und darstellen um Schwachpunkte zu identifizieren.
-Anhand von Erfahrungsdaten, durch das Sammeln von Kennzahlen von entsprechenden Statistiken, geführte Werkzeuge lassen sich Aussage
-über die Situation und die Veränderung der Softwareentwicklung treffen.
+Anhand von Erfahrungsdaten, die durch das Sammeln von Kennzahlen von entsprechenden Statistiken gewonnen wurden, die in entsprechende
+Werkzeuge eingeführt werden, lassen sich Aussagen über die Situation und die Veränderung der Softwareentwicklung treffen.
 
 ## Beispiele für Metriken bei Produkten, Prozesse und Projekte
 
@@ -34,7 +34,7 @@ mit der die mittlere Lebensdauer bis zum Ausfall eines Produktes beschrieben wir
 zyklomatische Komplexität bekannt ist, mit der man die Komplexität eines Softwareteils durch Kontrollflussgraphen bestimmen kann.  
 
 Mit **Prozessmetriken** kann die Leistung und Reife von Entwicklungsprozessen beschrieben werden. Somit kann die Projektfähigkeit
-eines Unternehmens aus der Sicht von Softwareprozessen festgestellt werden. Abhängig vom Vorgehensmodells werden Kennzahlen, wie
+eines Unternehmens aus der Sicht von Softwareprozessen festgestellt werden. Abhängig vom Vorgehensmodell werden Kennzahlen, wie
 der Zeitbedarf für Fehlerkorrekturen und Einarbeitung von Änderungen sowie die Prozessreife gewählt. Es gibt teilweise Überschneidungen
 mit den Projektmetriken. Diese nennt man dann speziell **In-Process Quality Metric**.
 
@@ -50,5 +50,7 @@ Dabei geht der GQM von **Messzielen** und weiteren Informationen aus um damit Me
 eine Struktur aufgebaut, auf dessen erster Ebene die Ziele stehen. In den darauffolgenden Ebenen werden Fragen gestellt und immer weiter
 ebenenweise verfeinert bis zu einer Ebene auf der Metriken definiert sind. Die Auswertung folgt dann von Bottom-Up dieser Struktur, also
 angefangen bei den Metriken. Der Vorteil liegt dabei auf dieser schrittweisen Vorgehensweise, so dass man nur im Sinne der Messziele
-Metriken definiert und gemessen wird.  
+Metriken definiert und gemessen wird.
 
+![Kapitel 10 Goal Question Metric Ansatz](/../Abbildungen/Richard_Leikam/Kapitel_10_Goal-Question-Metric.png)
+Die Abbildung zeigt den GQM-Ansatz mit einem Ziel, mehreren Fragen bezogen auf das Ziel und einzelner Metriken.
