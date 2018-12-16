@@ -38,10 +38,5 @@
 [Jira](Teilausarbeitungen/Jira.md ':include')  
 
 [Github Project Board Tool](Teilausarbeitungen/GitHub_Project_Board_Tool.md ':include')  
- 
-
-### Zusammenfassung oder Ausblick
-
-[Abbildungsverzeichnis](./Teilausarbeitungen/Abbildungsverzeichnis.md ':include')
 
 [Quellenverzeichnis](./Teilausarbeitungen/Quellenverzeichnis.md ':include')

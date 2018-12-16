@@ -26,7 +26,7 @@ Mit Werkzeugen lassen sich mehrere Sätze von Metriken berechnen und darstellen 
 Anhand von Erfahrungsdaten, die durch das Sammeln von Kennzahlen von entsprechenden Statistiken gewonnen wurden, die in entsprechende
 Werkzeuge eingeführt werden, lassen sich Aussagen über die Situation und die Veränderung der Softwareentwicklung treffen.
 
-### Beispiele für Metriken bei Produkten, Prozesse und Projekte
+### Beispiele für Metriken
 
 In **Produktmetriken** werden die Produkte anhand von Eigenschaften, wie Umfang, Komplexität, Design und Performanz beschrieben.
 Hierunter fällt zum Beispiel auch das bereits erwähnte LOC. Eine gebräuchliche Metrik ist die **Mean Time To Failure (MTTF)**,
