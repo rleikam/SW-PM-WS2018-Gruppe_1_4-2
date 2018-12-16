@@ -23,6 +23,8 @@ Datum      | Tätigkeiten                                                       
 01.12.2018 | Ausarbeitung: Kapitel 9, Subkapitel 3-4 fertiggestellt                                                                   | 3:00
 02.12.2018 | Ausarbeitung: Kapitel 10, Subkapitel 1-3 fertiggestellt                                                                  | 3:00
 09.12.2018 | Optimierung: Jira Ausarbeitung optimiert, Kapitel 3 - Abschnitte und Sätze umstrukturiert                                | 2:00
+15.12.2018 | Optimierung: Kapitel 3 teilweise optimiert                                                                               | 0:45
+16.12.2018 | Optimierung: Kapitel 3, 9 und 10 fertig optimiert, Integration der Ausarbeitung und optimierung                          | 7:35
 
 <script src="Tagebücher/timeCalculation.js">
 </script>
