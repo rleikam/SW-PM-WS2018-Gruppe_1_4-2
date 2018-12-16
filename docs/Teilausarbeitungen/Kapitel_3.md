@@ -28,7 +28,7 @@ Die einzelnen Phasen werden entsprechend weiter verfeinert. Dabei legt jede Phas
 Tätigkeiten fest. Jede Phase hat eine Gliederung von Aufgaben, Aktivitäten und Tätigkeiten. Dabei erarbeitet jede Tätigkeit bestimmte
 Ergebnisse, die **Artefakte** genannt werden.
 
-![Jira Klassische Projekte](/../Abbildungen/Richard_Leikam/Kapitel_3_Projektphasen.png)
+![Kapitel 3 Projektlebenszyklus](/../Abbildungen/Richard_Leikam/Kapitel_3_Projektphasen.png)
 Das grundlegene Phasenmodell wird mit seinen Artefakten hier dargestellt.
 
 ### Projektentstehung
