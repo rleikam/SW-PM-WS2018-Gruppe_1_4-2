@@ -112,9 +112,10 @@ Um ein sogenanntes **RUP-Gebirge** zu erstellen müssen die **Phasen** auf der X
 Koordinatensystem dargestellt werden. Durch diese Darstellung sieht man deutlich die Schwerpunkte der **Phasen** und die damit
 verbundenen Tätigkeiten. 
 
-![Ein RUP-Gebirge](Abbildungen/Nick_Friedrich/RUP-Gebirge.png)
-
-​				**RUP-Gebirge** :Literatur Verzeichnis
+<div style="text-align:center"> 
+	<img src="/../Abbildungen/Nick_Friedrich/RUP-Gebirge.png">
+	<div><b></b></div>
+</div>	
 
 **RUP** teilt das Projekt in folgende **Phasen** und **Meilensteine**:
 
