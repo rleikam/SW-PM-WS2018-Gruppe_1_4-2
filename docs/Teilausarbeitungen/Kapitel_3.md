@@ -28,8 +28,10 @@ Die einzelnen Phasen werden entsprechend weiter verfeinert. Dabei legt jede Phas
 Tätigkeiten fest. Jede Phase hat eine Gliederung von Aufgaben, Aktivitäten und Tätigkeiten. Dabei erarbeitet jede Tätigkeit bestimmte
 Ergebnisse, die **Artefakte** genannt werden.
 
-![Kapitel 3 Projektlebenszyklus](/../Abbildungen/Richard_Leikam/Kapitel_3_Projektphasen.png)  
-Das grundlegene Phasenmodell wird mit seinen Artefakten hier dargestellt.
+<div style="text-align:center"> 
+	<img src="/../Abbildungen/Richard_Leikam/Kapitel_3_Projektphasen.png">
+	<div><b>Das grundlegene Phasenmodell wird mit seinen Artefakten hier dargestellt.</b></div>
+</div>
 
 ### Projektentstehung
 
@@ -97,8 +99,10 @@ Teilergebnissen der vorherigen Phasen begonnen werden. Dies macht gern man wegen
 Phasen. Für eine parallele Ausführung werden die entsprechenden Ressourcen und mehr Planung benötigt, damit die Resultate in späteren
 Phasen rechtzeitig vorliegen.
 
-![Kapitel 3 V-Modell](/../Abbildungen/Richard_Leikam/Kapitel_3_V-Modell.png)  
-Ein V-Modell mit öfter vorkommenden Phasen.
+<div style="text-align:center"> 
+	<img src="/../Abbildungen/Richard_Leikam/Kapitel_3_V-Modell.png">
+	<div><b>Ein V-Modell mit öfter vorkommenden Phasen.</b></div>
+</div>
 
 ### Projektkontext und Projekthierarchien
 
