@@ -1,5 +1,4 @@
-## Werkzeuge
-[1](#Literaturverzeichnis Werkzeuge)
+## Werkzeuge ([1](#Literaturverzeichnis-Werkzeuge))
 
 ### Einleitung
 Softwarewerkzeuge wurden schon früh im Softwareengineering zur Unterstützung beim Modellieren und Entwickeln eingesetzt. Der Oberbegriff für diese Werkzeuge ist __CASE__ _(Computer Aided Software Engineering)-Tools_. Ihr Einsatz kann die Qualität und die Produktivität des Projekts stark steigern, wenn sie gut ausgesucht und ihr Einsatz gut geplant wurden. Viele Werkzeuge sind mittlerweile in IDEs zusammengefasst, es gibt allerdings auch weiterhin hoch spezialisierte. Die Tools werden in verschiedene Werkzeuggruppen aufgeteilt:
@@ -18,7 +17,7 @@ Da Projekte heute immer öfter global sein können, sind diese Werkzeuge sehr wi
 _Work Item Tracking Systeme_ sind eine Weiterentwicklung der klassischen Ticket Systemen. Sie lohnen sich besonders für große Teams und sind eine Plattform für Bug-Reports oder allgemeineren Aufgaben etc.. In diesen Systemen werden Work Items mit Bearbeitern, Workflow und Zuständen zentral gelagert. Sie sind somit sehr flexibel, da sie nicht auf bestimmte Typen festgelegt sind. Vertreter dieser Systemgruppe sind z.B. Mantis, Bugzilla und Trac. Team-Portale sind meistens eine zentrale Webseite im Intranet, die Dokumentenablagen, Aufgabenlisten und benutzerdefinierte Formulare beinhalten und Benachrichtigungsfunktionen oder Workflow-Unterstützungen bieten. Daher sind die Portale für die Bereitstellung von Standarts gut geeignet und meistens stark konfigurierbar.
 
 
-## Literaturverzeichnis Werkzeuge
+## Literaturverzeichnis-Werkzeuge
 Bezeichnung | Verweis
 ----------- | ------------------------------------------------------------------------------------------------------------------
 1           | Der Folgende textuelle Inhalt stammt, wenn nicht anders vermerkt, aus: Manfred Broy, Marco Kuhrmann, Projektorganisation und Management im Software Engineering  1.Auflage, Springer-Verlag Berlin Heidelberg 2013, Kapitel 12 (S. 355 ff)
