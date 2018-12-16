@@ -18,14 +18,20 @@ angepasst_ werden kann. Standartmäßig befinden sich auf dieser (bei dem Defaul
 Die Projektseite ist die zentrale Anlaufstelle eines Projekts. Auf dieser befinden sich diverse Links zu den weiteren Einstellungen und
 Funktionen, wie z.B. der Erstellung von neuen Issues.  
 
-![YouTrack Projektseite](./Abbildungen/Andre_Grellmann/YouTrack-Projektseite.PNG)  __YouTrack Projektseite, Screenshot vom 14.12.2018__  
+<div style="text-align:center"> 
+	<img src="/../Abbildungen/Andre_Grellmann/YouTrack-Projektseite.PNG">
+	<div><b>YouTrack Projektseite, Screenshot vom 14.12.2018</b></div>
+</div>
 
 __Issues__ sind in YouTrack Tickets, die mit bestimmten, in den Projekteinstellungen vorgegebenen, Eigenschaften, einer Überschrift
 und optionalen Beschreibung bzw. weiteren Inhalten (Bilder o.ä.) erstellt werden können und _für eine Aufgabe stehen_. Man kann außerdem
 Tags zu dem Ticket hinzufügen und es mit anderen verknüpfen, um Abhängigkeiten zu verdeutlichen. Es gibt außerdem eine Kommentarfunktion,
 mit der man auch vordefinierte Aufgaben auslösen kann.  
 
-![YouTrack Issues](./Abbildungen/Andre_Grellmann/YouTrack-Issue.PNG)  __YouTrack Issue Beispiel, Screenshot vom 14.12.2018__
+<div style="text-align:center"> 
+	<img src="/../Abbildungen/Andre_Grellmann/YouTrack-Issue.PNG">
+	<div><b>YouTrack Issue Beispiel, Screenshot vom 14.12.2018</b></div>
+</div>
 
 ### Dashboards
 In YouTrack hat jeder Benutzer die Möglichkeit, eigene Dashboard anzulegen und zu konfigurieren. In denen kann man sich die _gewünschten
@@ -33,7 +39,10 @@ Informationen_ anzeigen lassen, indem man Widgets, wie zuvor auf der Projektseit
 z.B. ein Dashboard mit generellen Infos und ein weiteres mit Infos, die sich nur auf Projekte oder Issues aus dem eigenen Aktivitätsbereich
 beziehen. Man kann Dashboards sowohl als persönliche Überblickstelle verwenden oder veröffentlichen und somit anderen Usern bereitstellen.  
 
-![YouTrack Dashboard](./Abbildungen/Andre_Grellmann/YouTrack-Dashboard.PNG)  __YouTrack Dashboard Beispiel, Screenshot vom 14.12.2018__
+<div style="text-align:center"> 
+	<img src="/../Abbildungen/Andre_Grellmann/YouTrack-Dashboard.PNG">
+	<div><b>YouTrack Dashboard Beispiel, Screenshot vom 14.12.2018</b></div>
+</div>
 
 ### Agile-Boards
 YouTrack bietet _verschiedene Arten_ von Agile-Boards an. Bei der Erstellung von einem solchen hat man die Wahl zwischen einem Scrum,
@@ -45,7 +54,10 @@ Board und plant Sprints in dem Board. Die Diagramme können auch an das Projekt 
 Informationen grafisch darzustellen. Die Agile-Boards können für bestimmte Benutzergruppen eingeschränkt werden oder auch nur für
 Einzelpersonen erstellt werden.  
 
-![YouTrack Agile-Board](./Abbildungen/Andre_Grellmann/YouTrack-AgileBoard.PNG)  __YouTrack Agile-Board Beispiel, Screenshot vom 14.12.2018__
+<div style="text-align:center"> 
+	<img src="/../Abbildungen/Andre_Grellmann/YouTrack-AgileBoard.PNG">
+	<div><b>YouTrack Agile-Board Beispiel, Screenshot vom 14.12.2018</b></div>
+</div>
 
 ### Berichte
 Berichte werden in YouTrack in einem eigenen Tab angelegt und verwaltet und können im freigegebenen Kontext in Widgets benutzt werden.
@@ -54,4 +66,7 @@ Statusänderungsberichten. In jeder von diesen Kategorien gibt es außerdem vork
 berichtenden Daten angepasst werden müssen. Es besteht allerdings weiterhin die Möglichkeit, die Berichte recht frei
 zu __konfigurieren__.  
 
-![YouTrack Berichte](./Abbildungen/Andre_Grellmann/YouTrack-Berichte.PNG)  __YouTrack Berichtserstellung Beispiel, Screenshot vom 14.12.2018__
+<div style="text-align:center"> 
+	<img src="/../Abbildungen/Andre_Grellmann/YouTrack-Berichte.PNG">
+	<div><b>YouTrack Berichtserstellung Beispiel, Screenshot vom 14.12.2018</b></div>
+</div>
