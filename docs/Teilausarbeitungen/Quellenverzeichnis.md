@@ -1,14 +1,14 @@
 # Quellenverzeichnis
 
 ## Quellenverzeichnis-Projektdefinition
-Bezeichnung | Verweis
------------ | ------------------------------------------------------------------------------------------------------------------
-PM-Buch     | Manfred Broy, Marco Kuhrmann, Projektorganisation und Management im Software Engineering  1.Auflage, Springer-Verlag Berlin Heidelberg 2013
-1           | Der Folgende textuelle Inhalt stammt, wenn nicht anders vermerkt, aus: PM-Buch (s.oben), Kapitel 7 (S. 193 ff)
-2           | PM-Buch (s. oben), Seite 205, Abb. 7.8
-3           | PM-Buch (s. oben), Seite 232, Abb. 7.22
-4           | PM-Buch (s. oben), Seite 234, Abb. 7.24
-5           | PM-Buch (s. oben), Seite 235f., Abb. 7.25, 7.26, 7.27, 7.28
+Bezeichnung               | Verweis
+------------------------- | ------------------------------------------------------------------------------------------------------------------
+PM-Buch                   | Manfred Broy, Marco Kuhrmann, Projektorganisation und Management im Software Engineering  1.Auflage, Springer-Verlag Berlin Heidelberg 2013
+Gesamttext                | Der Folgende textuelle Inhalt stammt, wenn nicht anders vermerkt, aus: PM-Buch (s.oben), Kapitel 7 (S. 193 ff)
+Bild Kommunikationsmatrix | PM-Buch (s. oben), Seite 205, Abb. 7.8
+Bild Kritischer Pfad      | PM-Buch (s. oben), Seite 232, Abb. 7.22
+Bild Balkenplan           | PM-Buch (s. oben), Seite 234, Abb. 7.24
+Bild Abhängigkeiten       | PM-Buch (s. oben), Seite 235f., Abb. 7.25, 7.26, 7.27, 7.28
 
 
 ## Quellenverzeichnis-Projektdurchführung
@@ -19,7 +19,7 @@ Bezeichnung            | Verweis
 ## Quellenverzeichnis-Werkzeuge
 Bezeichnung | Verweis
 ----------- | ------------------------------------------------------------------------------------------------------------------
-1           | Der Folgende textuelle Inhalt stammt, wenn nicht anders vermerkt, aus: Manfred Broy, Marco Kuhrmann, Projektorganisation und Management im Software Engineering  1.Auflage, Springer-Verlag Berlin Heidelberg 2013, Kapitel 12 (S. 355 ff)
+Gesamttext  | Der Folgende textuelle Inhalt stammt, wenn nicht anders vermerkt, aus: Manfred Broy, Marco Kuhrmann, Projektorganisation und Management im Software Engineering  1.Auflage, Springer-Verlag Berlin Heidelberg 2013, Kapitel 12 (S. 355 ff)
 
 
 ## Quellenverzeichnis-Jira
