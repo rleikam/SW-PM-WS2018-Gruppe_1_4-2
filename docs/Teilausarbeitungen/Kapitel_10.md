@@ -52,5 +52,7 @@ ebenenweise verfeinert bis zu einer Ebene auf der Metriken definiert sind. Die A
 angefangen bei den Metriken. Der Vorteil liegt dabei auf dieser schrittweisen Vorgehensweise, so dass man nur im Sinne der Messziele
 Metriken definiert und gemessen wird.
 
-![Kapitel 10 Goal Question Metric Ansatz](/../Abbildungen/Richard_Leikam/Kapitel_10_Goal-Question-Metric.png)
-Die Abbildung zeigt den GQM-Ansatz mit einem Ziel, mehreren Fragen bezogen auf das Ziel und einzelner Metriken.
+<div style="text-align:center"> 
+	<img src="/../Abbildungen/Richard_Leikam/Kapitel_10_Goal-Question-Metric.png">
+	<div><b>Die Abbildung zeigt den GQM-Ansatz mit einem Ziel, mehreren Fragen bezogen auf das Ziel und einzelner Metriken.</b></div>
+</div>	
