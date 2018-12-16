@@ -20,16 +20,12 @@ Um die Stärken und Schwächen zu finden werden die Erfolgsfaktoren untersucht d
 
 Diese Punkte sollten von der Firma untersucht werden auf Schwächen und auch Verbesserungsmöglichkeiten. **CMMI** gruppierte Aspekte zu Prozessgebieten die eine Sammlung ähnlicher Prozesse aus einem Thema oder Bereich sind. **Prozessgebiete** haben weitere Unterteilungen in erforderliche **Prozessgebietskomponenten** in denen die Ziele festgehalten werden was wiederum relevant für den Reifegrad eines Projekts ist. und Informative Prozessgebietskomponenten enthalten Informationen zu anderen **Prozessgebietskomponenten** wie Verweise und anderen Komponenten oder Subpraktiken der Komponenten.
 
-#### Fähigkeitsgrade 
 
-**Fähigkeitsgrade** werden genutzt um zu zeigen wie weit ein **Prozessgebiet** sich in die Firma eingebaut hat.
-
+**Fähigkeitsgrade** werden genutzt um zu zeigen wie weit ein **Prozessgebiet** sich in die Firma eingebaut hat:
 **Grad 0** (*Incomplete*) ist ein noch nicht vollständig definiertes Vorgehen, **Grad 1 **(*Performed*) ist ein ein Prozess der alle spezifischen Zielstellungen erfüllt. **Grad 2** (*Managed*)  kennzeichnet einen Prozess der nach den Vorgaben durchgeführt wird und dessen Durchführung und Ergebnisse kontrolliert wird.In **Grad 3**  (*Defined*) wird der Prozess auch kontrolliert aber der Prozess wird aus einem Standardprozess des Unternehmens mit Tailorings abgeleitet.
 
-#### Reifegrade
 
-Mithilfe von **Reifengraden** wird ein Unternehmen bewertet. Die **Reifegrade** werden den einzelnen **Prozessgebieten** zugeordnet wenn ein Unternehmen in allen **Prozessgebieten** einen **Reifegrad** der gleichen Stufe hat hat das Unternehmen den **Reifegrad** erreicht. Das **CMMI** unterscheidet in 5 Reifegrade.
-
+Mithilfe von **Reifengraden** wird ein Unternehmen bewertet. Die **Reifegrade** werden den einzelnen **Prozessgebieten** zugeordnet wenn ein Unternehmen in allen **Prozessgebieten** einen **Reifegrad** der gleichen Stufe hat hat das Unternehmen den **Reifegrad** erreicht. Das **CMMI** unterscheidet in 5 Reifegrade:
 **Level 1** (*Initial*) bedeutet das die Firma keine Vorgaben oder Anforderungen an ihre Entwicklung hat. Bei einen **Reifegrad** von **Level 2** (*Managed*) sind Grundsätze eingerichtet und die Arbeit wird so durchgeführt das auch ähnliche Projekte danach durchgeführt werden können. Ein Reifegrad von **Level 3** (*Defined*) hat zusätzlich ein festgelegtes Vorgehen in Projekten z.B. auf Basis eines Standardprozesses. Ebenfalls sollte ein **KVP** im Unternehmen eingeführt sein. Wenn das Unternehmen einen **Reifegrad** von **Level 4** (*Qualitatively Managed*)Um den höchsten Reifegrad **Level 5** (*Optimizing*) zu bekommen müssen die Projekte durch die Messungen verbessert und optimiert werden.
 
 Um die Reife des Unternehmens zu Prüfen gibt es **SCAMPI** (*Standard CMMI Appraisal Method*
