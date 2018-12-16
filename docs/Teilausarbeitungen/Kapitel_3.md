@@ -63,7 +63,7 @@ Innerhalb der **Projektdurchführung** wird das Projekt nun umgesetzt. Hier werd
 der Projektarbeit, dem Management der Projektressourcen, dem Controlling, der Umplanung von Projektzielen, Kosten und etliches,
 das Erkennen und lösen von Problemen und Konflikten und der Dokumentation, ausgeführt. In der **Projektfortschrittskontrolle** erfasst
 man anhand der Kennzahlen die Messung vom Ist-Zustand des Projektes und den Soll-Vorgaben den **Arbeitsstand** des Projektes.
-Darunter fallen als wichtige Parameter Zeit, Kosten, Zielsetzung für das Management an. Zudem spielt das **Berichtswesen** eine wichtige
+Darunter fallen als wichtige Parameter Zeit, Kosten und Zielsetzung für das Management an. Zudem spielt das **Berichtswesen** eine wichtige
 Rolle, damit der Projektstatus für Stakeholder sichtbar gemacht wird. Neben der Projektfortschrittskontrolle gibt es auch die
 **Qualitätskontrolle und -steuerung**. Diese überwacht und steuert die Qualität im Projekt ebenfalls durch Kennzahlen oder Anforderungen.
 Auch hier findet das Berichtswesen statt, damit die Entwicklung der Qualität sichtbar gemacht werden kann. In der **Systementwicklung**
