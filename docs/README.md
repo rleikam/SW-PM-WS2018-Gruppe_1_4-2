@@ -27,11 +27,11 @@
 
 [MS Project 2019](./Teilausarbeitungen/MS_Project_2019.md ':include')  
 
-[Youtrack](./Teilausarbeitungen/Youtrack.md ':include')  
+[YouTrack](./Teilausarbeitungen/YouTrack.md ':include')  
 
 [Jira](./Teilausarbeitungen/Jira.md ':include')  
 
-[Github Project Board Tool](./Teilausarbeitungen/Github_Project_Board_Tool.md ':include')  
+[Github Project Board Tool](./Teilausarbeitungen/GitHub_Project_Board_Tool.md ':include')  
  
 
 ### Zusammenfassung oder Ausblick
