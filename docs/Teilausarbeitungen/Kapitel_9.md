@@ -8,8 +8,10 @@ Projekte aufbewahrt. Desweiteren muss eine Ressourcenfreigabe und eine Zuweisung
 Man kann einen Projektabschluss in zwei **Abschlusskategorien** einteilen. Einen **ordentlichen** Abschluss, bei der das Projekt unter
 den Rahmenbedingungen erfolgreich abgeschlossen wurde oder einen **außerordentlichen** Abschluss, bei der dies nicht der Fall war.
 
-![Kapitel 9 Projektabschluss](/../Abbildungen/Richard_Leikam/Kapitel_9_Projektabschluss.png)
-Der Projektabschluss in einem kleinen Überblick.
+<div style="text-align:center"> 
+	<img src="/../Abbildungen/Richard_Leikam/Kapitel_9_Projektabschluss.png">
+	<div><b>Der Projektabschluss in einem kleinen Überblick.</b></div>
+</div>
 
 ### Projektabnahme
 
