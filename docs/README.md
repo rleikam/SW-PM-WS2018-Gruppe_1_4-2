@@ -1,7 +1,7 @@
 
 [Deckblatt](Teilausarbeitungen/Deckblatt.md ':include')  
-[Inhaltsverzeichnis](Teilausarbeitungen/Inhaltsverzeichnis.md ':include')
- 
+
+[Vorwort](Teilausarbeitungen/Vorwort.md ':include')  
 
 ### Einleitung
 ### Hauptteil (=eigentliche Arbeit, meist 3–5 Hauptkapitel)
