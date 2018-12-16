@@ -1,6 +1,6 @@
-## Kapitel 9 - Abschlussphase
+[Quellenverzeichnis [1]](#Quellenverzeichnis)
 
-### Einleitung
+## Einleitung
 
 Mit dem Projektabschluss werden die Ergebnisse des Projekts an den Kunden übergeben und durch diesen akzeptiert. Dies bezeichnet
 man als **Projektabnahme**. Zudem werden die gesammelten Erfahrungen im Projekt durch das Wissensmanagement für zukünftige
@@ -8,10 +8,12 @@ Projekte aufbewahrt. Desweiteren muss eine Ressourcenfreigabe und eine Zuweisung
 Man kann einen Projektabschluss in zwei **Abschlusskategorien** einteilen. Einen **ordentlichen** Abschluss, bei der das Projekt unter
 den Rahmenbedingungen erfolgreich abgeschlossen wurde oder einen **außerordentlichen** Abschluss, bei der dies nicht der Fall war.
 
-![Kapitel 9 Projektabschluss](/../Abbildungen/Richard_Leikam/Kapitel_9_Projektabschluss.png)
-Der Projektabschluss in einem kleinen Überblick.
+<div style="text-align:center"> 
+	<img src="/../Abbildungen/Richard_Leikam/Kapitel_9_Projektabschluss.png">
+	<div><b>Der Projektabschluss in einem kleinen Überblick. [10]</b></div>
+</div>
 
-### Projektabnahme
+## Projektabnahme
 
 Wie es schon in der Einleitung erwähnt, dient die Projektabnahme der Übergabe, also der Abnahme vom Kunden und der Akzeptanz
 der Ergebnisse. Dafür wird normalerweise ein **Abnahmeverfahren** festgelegt, damit bestimmte Zwischen- und Endergebnisse geregelt vom
@@ -48,13 +50,11 @@ weil die im Vertrag definierten Anforderungen nicht mit der Lieferung übereinst
 kann es passieren, dass es Uneinigkeiten zwischen Auftraggeber und Auftragnehmer gibt, wegen einer nicht abgenommenen Abnahme. Hier bleibt
 dann wahrscheinlich nur die Wahl zum Gericht.
 
-### Projektabschluss
-
 Mit dem Projektabschluss leitet man das Ende eines Projekts ein. Der Projektabschluss bedient sich noch weiterer Aufgaben, die wir folglich
 genauer erläutern werden. Dazu zählt zum einen die **Aufräumung** und das Sichern des **Wissen** des Projektes. Desweitern wird noch auf
 den **Projektabschlussbericht** weiter eingegangen. Nebst dieser gilt es den Projektabschluss zu **Organisieren**.
 
-### Aufgaben des Projektabschlusses
+## Aufgaben des Projektabschlusses
 
 Das **Aufräumen** beschreibt die **Planung** und die **Abschlusskalkulation** mit der Abrechnung. Es werden die eigentlichen Projektdaten, wie
 die Projektdauer, Aufwand, Kosten und weiteres mit den geplanten Daten gegenübergestellt um damit die **Präzision** der Planung herauszufinden
@@ -71,13 +71,13 @@ persönlichen Erfahrungen einzelner Mitarbeiter wichtig, den damit lässt sich d
 und das Bewerten der gemachten Aufgaben des Projektleiters. Im Project Debriefing kann man einen Workshop für ein **Lessons learned**
 anlegen um damit das gegenseitige Lernen von Mitarbeitern und Führungskräfte durch Feedback ankurbeln.
 
-### Projektabschlussbericht
+## Projektabschlussbericht
 
 Mit dem Projektabschlussbericht wird der Abschluss des Projektes definiert. Eine entsprechende Vorgabe wird normalerweise durch das Vorgehensmodell
 getroffen. Beim V-Model XT beispielsweise existiert eine Gliederung in die Managementübersicht, Ausgangslage und Ziel, Projektergebnisse,
 Qualitätsbewertung und Projektverlauf. Diese Vorgaben existieren in ähnlicher Form auch in anderen Vorgehensmodellen.
 
-### Organisation des Projektabschlusses
+## Organisation des Projektabschlusses
 
 Die Organisation des Abschlusses ist abhängig von bestimmten Faktoren. Bei iterativen Projekten kann der Abschluss Phasen- oder Stufenweise
 erfolgen. In agilen Vorgehensmodellen, wie z.B. bei Scrum existieren sogar Sprint Reviews nach den jweiligen Sprints mit der neue

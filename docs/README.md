@@ -1,44 +1,42 @@
-## Ausarbeitung
-### Deckblatt
 
-[Deckblatt](./Teilausarbeitungen/Deckblatt.md ':include')  
+[Deckblatt](Teilausarbeitungen/Deckblatt.md ':include')  
 
-### Inhaltsverzeichnis (ggf. Abkürzungsverzeichnis oder Glossar, falls notwendig)
+[Vorwort](Teilausarbeitungen/Vorwort.md ':include')  
 
-[Inhaltsverzeichnis](./Teilausarbeitungen/Inhaltsverzeichnis.md ':include')
- 
+# Einleitung und Begriffserklärung
 
-### Einleitung
-### Hauptteil (=eigentliche Arbeit, meist 3–5 Hauptkapitel)
+[Kapitel 3](Teilausarbeitungen/Kapitel_3.md ':include')  
 
-[Kapitel 3](./Teilausarbeitungen/Kapitel_3.md ':include')  
+[Kapitel 4](Teilausarbeitungen/Kapitel_4.md ':include')  
 
-[Kapitel 4](./Teilausarbeitungen/Kapitel_4.md ':include')  
+# Projektdefinition: Planen, Einrichten, Aufsetzen
 
-[Kapitel 7](./Teilausarbeitungen/Kapitel_7.md ':include')  
+[Kapitel 7](Teilausarbeitungen/Kapitel_7.md ':include')  
 
-[Kapitel 8](./Teilausarbeitungen/Kapitel_8.md ':include')  
+# Projektdurchführung
 
-[Kapitel 9](./Teilausarbeitungen/Kapitel_9.md ':include')  
+[Kapitel 8](Teilausarbeitungen/Kapitel_8.md ':include')  
 
-[Kapitel 10](./Teilausarbeitungen/Kapitel_10.md ':include')  
+# Projektabschluss
 
-[Kapitel 12](./Teilausarbeitungen/Kapitel_12.md ':include')  
+[Kapitel 9](Teilausarbeitungen/Kapitel_9.md ':include')  
 
-[MS Project 2019](./Teilausarbeitungen/MS_Project_2019.md ':include')  
+# Metriken und Prozessverbesserung
 
-[YouTrack](./Teilausarbeitungen/YouTrack.md ':include')  
+[Kapitel 10](Teilausarbeitungen/Kapitel_10.md ':include')  
 
-[Jira](./Teilausarbeitungen/Jira.md ':include')  
+[Kapitel 11](Teilausarbeitungen/Kapitel_11.md ':include')  
 
-[Github Project Board Tool](./Teilausarbeitungen/GitHub_Project_Board_Tool.md ':include')  
- 
+# Werkzeuge
 
-### Zusammenfassung oder Ausblick
-### Abbildungsverzeichnis
+[Kapitel 12](Teilausarbeitungen/Kapitel_12.md ':include')  
 
-[Abbildungsverzeichnis](./Teilausarbeitungen/Abbildungsverzeichnis.md ':include')
+[MS Project 2019](Teilausarbeitungen/MS_Project_2019.md ':include')  
 
-### Quellenverzeichnis
+[YouTrack](Teilausarbeitungen/YouTrack.md ':include')  
+
+[Jira](Teilausarbeitungen/Jira.md ':include')  
+
+[Github Project Board Tool](Teilausarbeitungen/GitHub_Project_Board_Tool.md ':include')  
 
 [Quellenverzeichnis](./Teilausarbeitungen/Quellenverzeichnis.md ':include')

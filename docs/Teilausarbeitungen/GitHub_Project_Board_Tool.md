@@ -1,30 +1,34 @@
-# Github Project board
+## GitHub Project Board
 
-Github bietet auch Tools zum Projetkmanagment an in der form von project Boards diese Projectboards können entweder zu einem Respository angehören oder sogar bis zu 5 wenn mann ein Organisation Project Board erstellt
+_Zusammengefasst aus [27, 28, 29, 30, 31, 32, 33]._
 
-## Templates
+**GitHub** bietet auch Tools zum Projektmanagement in der Form von **Project Boards**. Diese **Project Boards** können entweder zu
+einem **Repository** angehören oder sogar bis zu 5 verschiedenen **Respositories**, wenn man ein **Organisation Project Board** erstellt.
 
-Github Project Boards bietet 4 verschiedene Templates an um ein Project Board vorzubereiten dabei sind 3 der Templates verschiedene Versionen von Kanban(Basic,Automated,Automated with review).
+### Templates
 
-Kanban unterteilt die Aufgaben in 3 Spalten To do, In progress und Done. Und Atomated Kanban nimmt automatisch Issues und Pull Request im Board auf und Automated Kanban with Reviews sorgt dafür das eine Beschreibung zu Pull Requests als Review musste benötigt. 
+**GitHub Project Boards** bietet 4 verschiedene **Templates** an, um ein **Project Board** vorzubereiten. Dabei sind 3 der Templates
+verschiedene Versionen von **Kanban (Basic, Automated, Automated with review).**
 
-## Arten der Karten
+**Kanban** unterteilt die Aufgaben in 3 Spalten **To do**, **In progress** und **Done**. **Automated Kanban** nimmt automatisch
+**Issues** und **Pull Request** im Board auf und **Automated Kanban with Reviews** sorgt dafür, dass eine Beschreibung zu **Pull Requests**
+als Review benötigt wird. 
 
-In den Spalten werden dann Karten die sich in 3 Arten unterteilen lässt
+### Arten der Karten
 
-### Notizen
+In den Spalten werden dann **Karten** eingefügt, die sich in 3 Arten unterteilen lassen:
 
-Notizen sind einfache Textboxen die in den Spalten erstellt werden können diese beinhalten eine Beschreibung und können zwischen den Spalten geschoben werden. Sie können in Issues umgewandelt werden.
+**Notizen** sind einfache Text-Boxen, die in den **Spalten** erstellt werden können. Diese beinhalten eine Beschreibung und können zwischen
+den **Spalten** geschoben werden, welche in **Issues** umgewandelt werden können.
 
-### Issues
+**Issues** können automatisch aus den **Issues** des **GitHub Repository** erstellt und einer Spalte hinzugefügt werden.
+Es ist möglich diesen **Karten** einen **Contributer** des **Repository** zuzuweisen. Dieser kann dann die **Karte** manuell oder
+automatisch bearbeiten. Damit ist gemeint, dass die **Issues** automatisch in die **Spalte** "Done" eingefügt werden, wenn die jeweiligen
+**Issues** gefixed werden.
 
-Issues können automatisch aus den Issues des Github Respository erstellt werden und in einer Spalte hinzugefügt werden. Es ist möglich ein dieser Karte/Task/Aufgaben einen Contributer des Respository zuzuweisen. Dieser kann dann die Karte manuell oder automatisch bearbeiten. Damit ist gemeint das die Issue automatisch in der Spalte "Done" gewechselt wird wenn die Issue gefixed wird.
+**Pull Requests** können ebenfalls automatisch aus dem **Repository** hinzugefügt werden und werden auch automatisch nach dem **Merge**
+in die "Done" **Spalte** wechseln.
 
-### Pull Request
-
-Pull Request können ebenfalls automatisch aus dem Respository hinzugefügt werden und Automatisch nach dem Pull in die "Done" Spalte wechseln.
-
-## Sonstiges
-
-Es ist möglich allen Karten ein Label zuzuweisen. Die Labels helfen zu Identifikation der Karte.  Bereits vorgefertigte Labels gibt es wie z.B. "bug".
+Es ist möglich allen **Karten** ein **Label** zuzuweisen. Die **Labels** helfen zur Identifikation der Karte. Bereits vorgefertigte
+**Labels**, wie z.B. "bug", existieren schon.
 

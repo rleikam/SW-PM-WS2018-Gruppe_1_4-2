@@ -1,5 +1,7 @@
 ## Metriken
 
+[Quellenverzeichnis [1]](#Quellenverzeichnis)
+
 Metriken dienen zur Beurteilung von Software, der Softwareentwicklung und von Softwareentwicklungsprozessen. Eine Metrik stellt dabei
 eine Funktion dar, die eine Softwareeinheit auf eine Maßzahl abbildet. Man nutzt sie um z.B. die Leistungsfähigkeit von Software oder
 auch um die Produktivität und Qualität der Softwareentwicklung und von Softwareentwicklungsteams zu beurteilen.
@@ -26,7 +28,7 @@ Mit Werkzeugen lassen sich mehrere Sätze von Metriken berechnen und darstellen 
 Anhand von Erfahrungsdaten, die durch das Sammeln von Kennzahlen von entsprechenden Statistiken gewonnen wurden, die in entsprechende
 Werkzeuge eingeführt werden, lassen sich Aussagen über die Situation und die Veränderung der Softwareentwicklung treffen.
 
-### Beispiele für Metriken bei Produkten, Prozesse und Projekte
+### Beispiele für Metriken
 
 In **Produktmetriken** werden die Produkte anhand von Eigenschaften, wie Umfang, Komplexität, Design und Performanz beschrieben.
 Hierunter fällt zum Beispiel auch das bereits erwähnte LOC. Eine gebräuchliche Metrik ist die **Mean Time To Failure (MTTF)**,
@@ -52,5 +54,7 @@ ebenenweise verfeinert bis zu einer Ebene auf der Metriken definiert sind. Die A
 angefangen bei den Metriken. Der Vorteil liegt dabei auf dieser schrittweisen Vorgehensweise, so dass man nur im Sinne der Messziele
 Metriken definiert und gemessen wird.
 
-![Kapitel 10 Goal Question Metric Ansatz](/../Abbildungen/Richard_Leikam/Kapitel_10_Goal-Question-Metric.png)
-Die Abbildung zeigt den GQM-Ansatz mit einem Ziel, mehreren Fragen bezogen auf das Ziel und einzelner Metriken.
+<div style="text-align:center"> 
+	<img src="/../Abbildungen/Richard_Leikam/Kapitel_10_Goal-Question-Metric.png">
+	<div><b>Die Abbildung zeigt den GQM-Ansatz mit einem Ziel, mehreren Fragen bezogen auf das Ziel und einzelner Metriken. [11]</b></div>
+</div>	
