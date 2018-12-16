@@ -1,4 +1,4 @@
-## Werkzeuge ([1](#Literaturverzeichnis-Werkzeuge))
+## Werkzeuge
 
 ### Einleitung
 Softwarewerkzeuge wurden schon früh im Softwareengineering zur Unterstützung beim Modellieren und Entwickeln eingesetzt. Der Oberbegriff
