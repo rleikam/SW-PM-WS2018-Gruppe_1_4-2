@@ -68,8 +68,11 @@ Ziellinie bezeichnet wird. Geplante Meilensteine beginnen auf der y-Achse und ih
 eine Trendlinie die Diagonale, heißt es der Meilenstein ist erreicht worden. Die MTA gibt Aufschluss darüber, ob Planungen zu optimistisch
 oder zu pessimistisch gemacht wurden. Verzögerungen und Umplanungen werden deutlich sichtbar gemacht und ob und wie stark sie sich auf das
 Erreichen der Meilensteine auswirken.
-![Beispiel einer Meilensteintrendanalyse [1], Seite 259](/../Abbildungen/Jakob_Tissen/MTA.png)
 
+<div style="text-align:center"> 
+	<img src="/../Abbildungen/Jakob_Tissen/MTA.png">
+	<div><b></b></div>
+</div>
 
 ### Aufwandserfassung
 
