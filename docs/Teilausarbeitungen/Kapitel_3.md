@@ -97,6 +97,9 @@ Teilergebnissen der vorherigen Phasen begonnen werden. Dies macht gern man wegen
 Phasen. Für eine parallele Ausführung werden die entsprechenden Ressourcen und mehr Planung benötigt, damit die Resultate in späteren
 Phasen rechtzeitig vorliegen.
 
+![Kapitel 3 V-Modell](/../Abbildungen/Richard_Leikam/Kapitel_3_V-Modell.png)
+Ein V-Modell mit öfter vorkommenden Phasen.
+
 ### Projektkontext und Projekthierarchien
 
 Entwicklungsprozesse sind in den Lebenszyklus von Projekten eingebunden. Hier spricht man vom **Projektkontext**. Ein Projekt hat allerdings
