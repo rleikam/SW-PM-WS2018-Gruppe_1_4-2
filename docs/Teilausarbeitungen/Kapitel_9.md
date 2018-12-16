@@ -1,4 +1,4 @@
-## Kapitel 9 - Abschlussphase
+## Abschlussphase
 
 ### Einleitung
 
