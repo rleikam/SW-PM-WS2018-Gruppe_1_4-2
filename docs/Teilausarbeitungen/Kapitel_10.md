@@ -1,10 +1,10 @@
-# Metriken
+## Metriken
 
 Metriken dienen zur Beurteilung von Software, der Softwareentwicklung und von Softwareentwicklungsprozessen. Eine Metrik stellt dabei
 eine Funktion dar, die eine Softwareeinheit auf eine Maßzahl abbildet. Man nutzt sie um z.B. die Leistungsfähigkeit von Software oder
 auch um die Produktivität und Qualität der Softwareentwicklung und von Softwareentwicklungsteams zu beurteilen.
 
-## Sichten auf Metriken
+### Sichten auf Metriken
 
 Metriken können in bestimmten Bereichen z.B. bei Produkten oder in Entwicklungsprozessen verwendet werden. Kunden werden sich mehr mit den
 Metriken der Produkte einlassen, während Manager sich mehr für Metriken von Entwicklungsprozessen interessieren. Aus diesen und weiteren
@@ -13,7 +13,7 @@ Bereich zugeschnittene Metriken. Es haben sich dabei die Sichten **Managementsic
 die Entwicklersicht für Effizienz und Wartbarkeit und die Kundensicht für Metriken der Termintreue und Kosteneinhaltung etabliert. Es
 existieren noch weitere Metriken dieser Bereiche.
 
-## Metriken bei Software und Softwareprozessen
+### Metriken bei Software und Softwareprozessen
 
 Die Wahl der Metriken fällt immer mit den Aspekten von Software und Prozessen einher. Bei Software sind zum Beispiel Aspekte, wie Umfang
 und Leistung, Komplexität und Effizienz zu untersuchen und bei Prozessen Aspekte wie Produktivität, Effektivität und Kommunikationsintensität.
@@ -26,7 +26,7 @@ Mit Werkzeugen lassen sich mehrere Sätze von Metriken berechnen und darstellen 
 Anhand von Erfahrungsdaten, die durch das Sammeln von Kennzahlen von entsprechenden Statistiken gewonnen wurden, die in entsprechende
 Werkzeuge eingeführt werden, lassen sich Aussagen über die Situation und die Veränderung der Softwareentwicklung treffen.
 
-## Beispiele für Metriken bei Produkten, Prozesse und Projekte
+### Beispiele für Metriken bei Produkten, Prozesse und Projekte
 
 In **Produktmetriken** werden die Produkte anhand von Eigenschaften, wie Umfang, Komplexität, Design und Performanz beschrieben.
 Hierunter fällt zum Beispiel auch das bereits erwähnte LOC. Eine gebräuchliche Metrik ist die **Mean Time To Failure (MTTF)**,
@@ -41,7 +41,7 @@ mit den Projektmetriken. Diese nennt man dann speziell **In-Process Quality Metr
 Bei **Projektmetriken** nutzt man die Termintreue, Kosten- und Ressourcenverbrauch und die Produktivität als Beschreibung von Metriken.
 Die Projektmetriken werden für **Soll-Ist-Analysen** im Projektmangagement verwendet um damit Steuerungsmaßnahmen zu treffen.
 
-## Erfassen und Auswerten von Metriken
+### Erfassen und Auswerten von Metriken
 
 Das Erfassen und Auswerten von Metriken muss in Projekten untersucht werden. Dazu muss nach der Art der Metrik bzw. der Weg zur Metrik
 mit dem jeweiligen Messverfahren, und der Festlegung von daraus ableitbaren Aussagen untersucht werden. Dafür existiert ein bereits 
