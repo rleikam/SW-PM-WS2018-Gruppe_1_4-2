@@ -21,4 +21,4 @@ _Work Item Tracking Systeme_ sind eine Weiterentwicklung der klassischen Ticket 
 ## Literaturverzeichnis Werkzeuge
 Bezeichnung | Verweis
 ----------- | ------------------------------------------------------------------------------------------------------------------
-1           | Der Folgende textuelle Inhalt stammt, wenn nicht anders vermerk, aus: Manfred Broy, Marco Kuhrmann, Projektorganisation und Management im Software Engineering  1.Auflage, Springer-Verlag Berlin Heidelberg 2013, Kapitel 12 (S. 355 ff)
+1           | Der Folgende textuelle Inhalt stammt, wenn nicht anders vermerkt, aus: Manfred Broy, Marco Kuhrmann, Projektorganisation und Management im Software Engineering  1.Auflage, Springer-Verlag Berlin Heidelberg 2013, Kapitel 12 (S. 355 ff)
