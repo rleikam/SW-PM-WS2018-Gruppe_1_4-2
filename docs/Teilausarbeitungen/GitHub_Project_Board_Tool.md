@@ -1,14 +1,14 @@
-# Github Project board
+## Github Project board
 
 Github bietet auch Tools zum Projetkmanagment an in der form von project Boards diese Projectboards können entweder zu einem Respository angehören oder sogar bis zu 5 wenn mann ein Organisation Project Board erstellt
 
-## Templates
+### Templates
 
 Github Project Boards bietet 4 verschiedene Templates an um ein Project Board vorzubereiten dabei sind 3 der Templates verschiedene Versionen von Kanban(Basic,Automated,Automated with review).
 
 Kanban unterteilt die Aufgaben in 3 Spalten To do, In progress und Done. Und Atomated Kanban nimmt automatisch Issues und Pull Request im Board auf und Automated Kanban with Reviews sorgt dafür das eine Beschreibung zu Pull Requests als Review musste benötigt. 
 
-## Arten der Karten
+### Arten der Karten
 
 In den Spalten werden dann Karten die sich in 3 Arten unterteilen lässt
 
@@ -24,7 +24,7 @@ Issues können automatisch aus den Issues des Github Respository erstellt werden
 
 Pull Request können ebenfalls automatisch aus dem Respository hinzugefügt werden und Automatisch nach dem Pull in die "Done" Spalte wechseln.
 
-## Sonstiges
+### Sonstiges
 
 Es ist möglich allen Karten ein Label zuzuweisen. Die Labels helfen zu Identifikation der Karte.  Bereits vorgefertigte Labels gibt es wie z.B. "bug".
 
