@@ -48,15 +48,14 @@ Dienstleister erfolgen soll.
 Bei der **Projektdefinition** wird das Projekt nun ausgestaltet. Hier fallen nun die Zusammenstellung des Projektteams, organisatorische
 Regeln für das Projekt und Planungsaufgaben. Bevor mit der eigentlichen Arbeit angefangen werden kann, muss das Projekt mit dem **Set-Up**
 beginnen. Hier findet die **Strukturierung** des Projektes mit dem Aufbau und der Bereitstellung der **Projektinfrastruktur** statt.
-Ebenso wird hier das **Projektteam** mit der Besetzung der **Projektrollen** und den entsprechenden **Zuständigkeiten** gebildet.
-Im **Set-Up** muss außerdem ein **Projektmangementverfahren** und ein Verfahren für die Qualitätssicherung festgelegt werden. Dazu wählt man verschiedene
-Methoden aus dem Projektmanagement bzw. entsprechende Qualitätssicherungsmethoden. Dies ergibt dann eine saubere Projektplanung
-und ein **QS-Handbuch**, was für alle Mitglieder zugreifbar sein sollte. Genutzte Werkzeuge sollten auch dokumentiert und beschaffen werden.
-Am Ende entsteht das sogenannte **Projekthandbuch**, welches die Regeln für alle Beteiligten des Projekts wiedergibt. Innerhalb der
-Projektdefinition muss eine **Projektplanung** durchgeführt werden. Darunter fallen je nach Komplexität des Projekts unterschiedliche
-Projektpläne an, wie Meilensteinpläne, Arbeits- und Zeitpläne, Ressourcenpläne etc. die erstellt werden müssen und sind die 
+Innerhalb der Projektdefinition findet die **Projektplanung** statt. Darunter fallen je nach Komplexität des Projekts unterschiedliche
+Projektpläne an, wie Meilensteinpläne, Arbeits- und Zeitpläne, Ressourcenpläne etc. die erstellt werden müssen und sind die
 **Grundlage der Projektdurchführung**. Sie enthalten die **Soll-Vorgaben** für das Projekt und beschreiben die **Ist-Vorgaben** durch
-Referenz auf die Messung.
+Referenz auf die Messung. Es werden zudem noch das **Projektteam** mit der Besetzung der **Projektrollen** und den entsprechenden
+**Zuständigkeiten** gebildet. Außerdem wird ein **Projektmangementverfahren** und ein Verfahren für die Qualitätssicherung gebildet.
+Dazu wählt man verschiedene Methoden aus dem Projektmanagement bzw. entsprechende Qualitätssicherungsmethoden. Dies ergibt dann eine
+saubere Projektplanung und ein **QS-Handbuch**, was für alle Mitglieder zugreifbar sein sollte. Genutzte Werkzeuge sollten auch dokumentiert
+und beschaffen werden. Am Ende entsteht das sogenannte **Projekthandbuch**, welches die Regeln für alle Beteiligten des Projekts wiedergibt.
 
 ### Projektdurchführung
 
