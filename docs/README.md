@@ -1,38 +1,12 @@
 ## Ausarbeitung
 ### Deckblatt
 
-Wintersemester 2018/19  
-Fachhochschule Bielefeld  
-Campus Minden  
-Studiengang Informatik
+[Deckblatt](./Teilausarbeitungen/Deckblatt.md ':include')  
 
-<p style="text-align: center;"> Software Projektmanagement </p>
-
-angefertigt von:  
-Richard Leikam  
-André Grellmann  
-Nick Friedrich  
-Jakob Tissen  
-Kevin Gerzen  
-Lennard Kuhnke  
-
-betreut von:  
-Prof. Dr. rer. nat. Jörg Brunsmann
-
-
-
-
-### Abstract (Kurzzusammenfassung=1 Seite)
 ### Inhaltsverzeichnis (ggf. Abkürzungsverzeichnis oder Glossar, falls notwendig)
 
-Definitionsphase  
-Planungsphase 
-Tools  
-Realisierungsphase  
-Abschlussphase  
-
-Abbildungsverzeichnis  
-Quellenverzeichnis  
+[Inhaltsverzeichnis](./Teilausarbeitungen/Inhaltsverzeichnis.md ':include')
+ 
 
 ### Einleitung
 ### Hauptteil (=eigentliche Arbeit, meist 3–5 Hauptkapitel)
@@ -51,6 +25,20 @@ Quellenverzeichnis
 
 [Kapitel 12](./Teilausarbeitungen/Kapitel_12.md ':include')  
 
+[MS Project 2019](./Teilausarbeitungen/MS_Project_2019.md ':include')  
+
+[Youtrack](./Teilausarbeitungen/Youtrack.md ':include')  
+
+[Jira](./Teilausarbeitungen/Jira.md ':include')  
+
+[Github Project Board Tool](./Teilausarbeitungen/Github_Project_Board_Tool.md ':include')  
+ 
+
 ### Zusammenfassung oder Ausblick
 ### Abbildungsverzeichnis
+
+[Abbildungsverzeichnis](./Teilausarbeitungen/Abbildungsverzeichnis.md ':include')
+
 ### Quellenverzeichnis
+
+[Quellenverzeichnis](./Teilausarbeitungen/Quellenverzeichnis.md ':include')
