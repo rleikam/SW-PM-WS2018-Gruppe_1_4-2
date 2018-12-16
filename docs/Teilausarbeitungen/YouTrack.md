@@ -1,4 +1,4 @@
-## Softwaremanagementtool: YouTrack
+## YouTrack
 ### Einleitung
 YouTrack ist ein Projektmanagementtool mit dem _Schwerpunkt auf die Softwareentwicklung_ von der Firma JetBrains und ist _für agile
 Vorgehensmodelle ausgelegt_. Das Programm wird als Cloud-Anwendung, die für bis zu drei Personen kostenlos ist oder als Standalone, die

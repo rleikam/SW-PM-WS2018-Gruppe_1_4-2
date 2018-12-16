@@ -9,7 +9,7 @@
 
 [Kapitel 4](Teilausarbeitungen/Kapitel_4.md ':include')  
 
-# Projektbeginn
+# Projektdefinition: Planen, Einrichten, Aufsetzen
 
 [Kapitel 7](Teilausarbeitungen/Kapitel_7.md ':include')  
 

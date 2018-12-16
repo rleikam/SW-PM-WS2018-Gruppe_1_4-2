@@ -1,19 +1,17 @@
-## Werkzeuge
-
-### Einleitung
+## Einleitung
 Softwarewerkzeuge wurden schon früh im Softwareengineering zur Unterstützung beim Modellieren und Entwickeln eingesetzt. Der Oberbegriff
 für diese Werkzeuge ist __CASE__ _(Computer Aided Software Engineering)-Tools_. Ihr Einsatz kann die Qualität und die Produktivität des
 Projekts stark steigern, wenn sie gut ausgesucht und ihr Einsatz gut geplant wurden. Viele Werkzeuge sind mittlerweile in IDEs
 zusammengefasst, es gibt allerdings auch weiterhin hoch spezialisierte. Die Tools werden in verschiedene Werkzeuggruppen aufgeteilt:
 
-### Projektmanagementwerkzeuge
+## Projektmanagementwerkzeuge
 Projektmanagementwerkzeuge helfen bei der __Übersicht über Daten__ z.B. zur aktuellen Planung, Ressourcen oder Trends von Maßzahlen.
 Bei der Wahl des Programms muss auf verschiedene Faktoren, wie der Hard- und Softwareinfrastruktur, der Art und Größe des Projekts und
 die verfügbaren Lizenzen geachtet werden, um ein sinnvolles bzw. angemessenes Programm für die Aufgabe auszuwählen. Das bedeutet auch,
 dass Excel ein angemessenes Werkzeug, für z.B. kleine Projekte, sein kann. Der "Eigenbau" von solchen Werkzeugen ist allerdings in der
 Regel nicht sinnvoll.
 
-### Repositories
+## Repositories
 Repositories sind die grundlegende Komponente von (verteilten) Projekten. Bei der Planung für diese müssen der Umgang mit ihnen,
 die Client-Software und der Repo-Server betrachtet werden. In dem Zug müssen Regeln für die Struktur, den Rechten, den Bearbeitungsregeln
 und den Verantwortungen erarbeitet werden. Die Strukturregeln legen fest, wie das Repo strukturiert werden soll. Dafür empfiehlt sich
@@ -23,14 +21,14 @@ der Dateitypen oder der Vorgabe zu den Check-In Kommentaren. Der (oder die) Vera
 und Regeln, sowie auf die Vermeidung von Chaos achten. Es empfiehlt sich außerdem, dass diese das Repo regelmäßig "aufräumen", indem sie
 altes archivieren und beim Aufbau von Strukturen helfen.
 
-### Entwicklungswerkzeuge
+## Entwicklungswerkzeuge
 Es gibt viele bereits konfigurierte Systeme für Implementierungsumgebungen. Deshalb muss bei der Auswahl der Entwicklungsumgebung
 und -werkzeuge darauf geachtet werden, ob alles kompatibel und geeignet für das Projekt ist. Zu den Entwicklungswerkzeugen gehören
 die IDEs (Integrated Development Environments), die mindestens aus einem Texteditor, einem Compiler und Linker, einem Debugger und
 vielen weiteren Hilfsfunktionen, wie z.B. Syntax-Highlighting, bestehen. Heute sind außerdem viele extra Tools und Assistenten mit
 in diese integriert. Daher sollte das Team für die Benutzung regelmäßig geschult werden.
 
-### Werkzeuge für Teamarbeit und Kollaboration
+## Werkzeuge für Teamarbeit und Kollaboration
 Da Projekte heute immer öfter global sein können, sind diese Werkzeuge sehr wichtig. Zu diesen Werkzeugen gehören z.B.
 Kommunikationssysteme, Kalender, Repos, Entwicklungs- und Buildserver, Tracking Systeme und Team-Portale. Kommunikationssysteme 
 ermöglichen es, ohne direkten Kontakt regelmäßig miteinander zu kommunizieren. Zu diesen gehören z.B. Telefone, Email,

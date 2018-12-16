@@ -1,18 +1,16 @@
-## Projektdurchführung 
-
-### Einleitung
+## Einleitung
 
 In der Phase der Projektdurchführung sind die Aufgaben des Managements konzentriert auf eine detaillierte Arbeits- und Ressourcenplanung,
 sowie die Steuerung und Überwachung der Vorgänge im Projekt. Zudem kommt die Erfassung des Projektfortschritts und das Problemmanagement.
 Im folgenden werden diese Faktoren des Projektmanagement genauer vorgestellt.
 
-### Vorbereitung
+## Vorbereitung
 
 Damit die Phase der Projektdurchführung erfolgreich gestalten werden kann, müssen Projektauftrag, Vertrag, QS-Handbuch, Lastenheft,
 der Projektplan und das Projekthandbuch vorliegen. Anhand dieser Artefakte kann das Management Kennzahlen und Trends im Fortschritt auf
 einer nachvollziehbaren Grundlage ermitteln.
 
-### Projektfortschrittskontrolle und Steuerung
+## Projektfortschrittskontrolle und Steuerung
 
 In der Projektdefinition sind die Rahmenbedingungen in den das Projektziel erreicht werden soll festgehalten und im Vertrag stehen
 die Projektziele, welche abgedeckt sein müssen. Das Management hat die Verantwortung, den Projektfortschritt und den Rahmen aufrecht
@@ -38,7 +36,7 @@ Meetings zu gewährleisten ist darauf zu achten, dass die Teilnehmer innerhalb z
 werden die Projektbesprechungen von einem Scrum Master moderiert. Es werden im Daily Scrum beispielsweise vom Projektteam kurz der aktuelle
 Projektstatus vorgestellt und die Ziele die am Ende des Arbeitstages erreicht werden sollen.
 
-### Projektfortschrittsentscheidung 
+## Projektfortschrittsentscheidung 
 
 Um Fortschritte machen zu können, müssen vom Management oder vom übergeordnetem Leitungsausschuss Entscheidungen getroffen werden, ob das
 Projekt fortgeführt werden darf oder ob Anpassungen gemacht werden müssen oder ob das Projekt abgebrochen werden muss. Dazu werden
@@ -54,7 +52,7 @@ Entscheidungen wird jetzt vorgestellt.
 Diese Form der Projektfortschrittskontrolle stellt sicher, das der Projektleiter vom Projektstand und Status im Bilde sein muss,
 ihn aber auch entlastet und oder bestärkt durch Fortschrittsentscheidungen von Vorgesetzten.
 
-### Fortschrittskontrolle
+## Fortschrittskontrolle
 
 Die Fortschrittskontrolle ist notwendig um Planungsabweichungen und Gründe dafür herauszuarbeiten und entsprechende Konsequenzen
 zu treffen. Erfasst und begutachtet werden Termintreue und Ressourceneinsatz. Die Termintreue kann berechnet werden in dem die geplanten
@@ -74,7 +72,7 @@ Erreichen der Meilensteine auswirken.
 	<div><b></b></div>
 </div>
 
-### Aufwandserfassung
+## Aufwandserfassung
 
 Ressourcenplanung und die Kontrolle ist wesentlich für ein erfolgreichen Projektabschluss. Der zeitliche Aufwand sowie die Kosten der
 Mitarbeiter müssen erfasst und zusammengetragen werden. Diese Daten werden den geplanten Kosten graphisch gegenübergestellt und so kann
@@ -99,7 +97,7 @@ Ursachen für ein zu niedrigen Aufwand sind
 Das Projektmanagement muss entsprechend frühzeitig auf Ergebnisse der Aufwandsabschätzung reagieren, insbesondere in großen Unternehmen
 kommt es häufig vor, das Mitarbeiter ausgelastet und nicht verfügbar sind, sodass eine Termingefährdung droht.
 
-### Kontrolle der Fertigstellungsgrades der Artefakte
+## Kontrolle der Fertigstellungsgrades der Artefakte
 
 Artefakte werden herangezogen um Aussagen über den Projektstatus zu treffen. Deshalb muss der Aufwand und die Kontrolle bei der Erstellung
 der Artefakte mit eingeplant werden. Es werden zwei Vorgehensmodele zur Berechnung des Fertigstellungsgrads eines Artefakts erläutert. Der
@@ -115,7 +113,7 @@ gesammelten Informationen können beispielhaft folgende Fragen beantwortet werde
 Im Agilen Vorgehensmodel Scrum wird der Burn Down Chart für die Darstellung der Zustände von Artefakten verwendet. Diese Form der
 Fortschrittskontrolle liefert schnell und aussagekräftige Aussagen über den aktuellen Projektstatus.
 
-### Kostenerfassung und Kontrolle 
+## Kostenerfassung und Kontrolle 
 
 Die Auswertung der Kostendaten ermöglicht es eine Aussage über Profitabilität und Produktivität eines Projekts oder eines Projektstands
 zu machen. Dafür muss ein Verwaltungssystem bereitstehen , wo Mitarbeiter ihre Leistungen kontieren und Arbeitspaketen zuweisen können.
@@ -123,7 +121,7 @@ Auch das Kontieren selber muss kontiert werden. Wie Kosten und Zeit miteinander 
 dargestellt werden. Mit dieser Methode der Kostenkontrolle werden Planzahlen den Ist-zahlen gegenübergestellt und daraus werden Kennzahlen
 ermittelt, die eine Aussage zulassen, ob man im Zeitplan und im Budgetrahmen ist.
 
-### Änderungsmanagement
+## Änderungsmanagement
 
 Die Rahmenbedingungen und Voraussetzungen eines Projekts sind nicht konstant. Welche Mechanismen wann und unter welchen Bedingungen
 eingesetzt werden, um Änderungen kontrolliert in das Projekt zu integrieren, müssen vom Management festgelegt und den Mitarbeitern
@@ -139,7 +137,7 @@ eines Projekts, braucht es eine statistische Erfassung aller Änderungen mit den
 Nachhaltigkeit und Kosten. Mit diesen Daten kann das Änderungsmanagement kontrolliert und justiert werden für aktuelle und auch zukünftige
 Projekte.
 
-### Der Projektstatusbericht
+## Der Projektstatusbericht
 
 Es werden in regelmäßigen Abständen Statusberichte von den Mitarbeitern angefertigt, welche vom Management festgelegte Fragen beantwortet.
 Diese werden vom Projektleiter gesichtet und mit den anderen Artefakten wird ein Projektstatusbericht angefertigt. Dieser wird aufbereitet
@@ -149,7 +147,7 @@ aktuell da sind und welche in Zukunft erwartet werden. Dazu werden für den Beri
 wichtige Plan-Ist Zahlen in einer Präsentation verglichen. Das Berichtswesen soll schematisch geschehen, für eine effektive und produktive
 Auswertung.
 
-### Qualitätskontrolle und Steuerung
+## Qualitätskontrolle und Steuerung
 
 In der Phase der Projektdurchführung wird darauf geachtet, das vereinbarte Mechanismen zur Qualitätssicherung durchgeführt und dokumentiert
 werden. Artefakte werden mit den in der Projektdefinition erstellten Fehlermodellen geprüft und neue unerwartete Fehler werden mit
@@ -163,7 +161,7 @@ Rückschlüsse auf Ursachen zu. Zum Beispiel lässt ein hohes Fehleraufkommen di
 richtig verstehen oder unterqualifiziert sind oder dass das Management die Anforderungen zu ungenau beschrieben haben. Es ist dann die
 Aufgabe des Management Maßnahmen abzuschätzen, Problemen nachzugehen, zu kommunizieren und gegenzusteuern. 
 
-### Systemanalyse und Spezifikation
+## Systemanalyse und Spezifikation
 
 Das Pflichtenheft wird in diesem Projektabschnitt erstellt. Es beinhaltet die Abgrenzung des Gegenstandsbereichs, die Erfassung von
 Rahmenbedingungen, welche fachliche Kompetenzen erfordert werden, Festlegung welche Technik zum Einsatz kommt und eine
@@ -174,7 +172,7 @@ den Projektumfang enorm. Mit der Anforderungsanalyse bekommt das Projekt und der
 Aufwandsabschätzung angepasst und dieses mit dem Kunden besprochen und eventuell neu verhandelt werden muss. Im Verlauf der Präzisierung
 der Anforderungen können auch Risiken genauer erfasst und dokumentiert werden.
 
-### Systementwurf und Architektur
+## Systementwurf und Architektur
 
 Der erste Schritt ist die Festlegung einer geeigneten Softwarearchitektur und darauffolgend die Schnittstellen. Eine gute Auswahl der
 Architektur ermöglicht eine gute Aufteilung des Arbeitsaufwandes und spätere Integration in ein Gesamtsystem und minimiert aufkommende
@@ -182,20 +180,20 @@ Fehler und Überlappungen von Aufgabenbereichen. Auch ist darauf zu achten, ob m
 Änderungsaufwand wiederverwenden kann. Das Management richtet die Teams nach der Architektur aus und sorgt dafür das Schnittstellen
 zwischen den Teams genau spezifiziert sind und das Kommunikationswege über Verantwortliche zwischen den Teams eingerichtet werden.
 
-### Implementierung und Test
+## Implementierung und Test
 
 Die Mitarbeiter realisieren innerhalb der gesetzten Rahmenbedingungen die Funktionalitäten der einzelnen Module und die Schnittstellen.
 Dabei werden vor der Integration von Modulen in größere Teilsysteme, diese mit Test auf Qualität und Funktionalität geprüft. Das
 Management hat darauf zu achten, das vereinbarte Rahmenbedingungen eingehalten werden und eventuell Korrekturen vorgenommen werden.
 Die Dokumentation des Codes soll zeitnah geschehen, weil das den Aufwand in der Wartung und im Fehlermanagement minimiert.
 
-### Integration und Test
+## Integration und Test
 
 Sind alle erforderlichen Module eines Teilsystems realisiert und getestet, werden diese zusammengefügt und anschließend wird die
 Qualität des Teilsystems mit Tests abgedeckt. Die Integration kann schon geschehen, wenn andere Teilsysteme noch nicht fertiggestellt
 sind. Das Stufenweise integrieren von kleineren in immer größere Teilsysteme minimiert den Aufwand im Fehlermanagement.
 
-### Transition in die Einsatzumgebung und Abgabe
+## Transition in die Einsatzumgebung und Abgabe
 Die Integration des Produkts in die Einsatzumgebung muss vom Management geplant werden. Die Termine müssen koordiniert werden,
 die Abnahmeprozeduren müssen festgelegt werden, die IT-Abteilung des Kunden muss informiert und die Abrechnung muss organisiert werden.
 Das Releasemanagement sorgt dafür, das die Versionierung des Produkts die Enthaltenen Funktionalitäten abbildet, sowie die Fehlerbehebungen.

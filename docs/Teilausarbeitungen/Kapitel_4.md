@@ -11,8 +11,6 @@ Dieses **Vorgehensmodell** kann viele Probleme kriegen wenn unerwartete Schwieri
 
 ### Spiralmodell
 
-### Iteratives Vorgehen
-
 Das **Spiralmodell** funktioniert über wiederholtes durchlaufen der **Entwicklungsphasen**, diese unterteilt man für gewöhnlich
 in 4 Schritte
 
@@ -22,8 +20,6 @@ wie oder ob man sie vermindern kann.
 3. **Realisierung** : In der Realisierung wird alles umgesetzt dazu gehört alles vom Feinentwurf und Codierung bis zur Integration
 und den Tests.
 4. **Planung** : Am ende von jeden Durchgang wird ein Review des Durchlaufs gemacht und der nächste Durchlauf wird geplant
-
-### Inkrementelles Vorgehen
 
 Häufig wird auch das **Inkrementelle Vorgehen** genutzt. Dieses **Vorgehen** funktioniert ebenfalls im **Spiralmodell** und ist ein
 Grundaufbau eines Systems in dem immer mehr hinzugefügt wird und aufeinander aufgebaut wird. Bei diesem **Vorgehen** ist wichtig in
@@ -57,7 +53,7 @@ Feedback erzeugen.
 Ein großer Vorteil an **Prototypen** ist das so früh Feedback von späteren Nutzern genutzt werden kann um das Projekt in eine gewünschte
 Richtung zu leiten.
 
-## Agile Methoden
+### Agile Methoden
 
 **Agile Methoden** sollen sich mehr mit dem direkten Code-Inhalt einen Projekt beschäftigen die Grundideen des Konzept wurden im
 "**Agilen Manifest**" geschrieben:
@@ -82,8 +78,6 @@ ist und ob es sich lohnt es überhaupt umzusetzen.
 
 Da ein **Agiles Vorgehen** dazu dient möglichst Variabel zu bleiben kann es zu Problemen bei Verträgen geben da diese gerne feste Werte
 und Ziele einschließen wollen.
-
-## Konkrete Methoden
 
 ### Scrum
 
