@@ -9,7 +9,7 @@ Faktor wiederspiegelt. Desweiteren lassen sich diese Phasen weiter in Bezug auf 
 Softwareentwicklung kann man 3 Lebenszyklusmodelle betrachten, diese sind der **Produktlebenszyklus**, der **Projektlebenszyklus**
 und **Softwarelebenszyklus**.
 
-### Lebenszylken
+### Lebenszyklen
 
 Der **Produktlebenzyklus** wird im Product Life Cycle Management definiert. Dabei werden auf die Aspekte der Entstehung, Entwicklung,
 Produktion und Markteinführung oder Inbetriebnahme und Betrieb und der Stilllegung des Produktes, eingegangen. Der **Projektlebenszyklus**
