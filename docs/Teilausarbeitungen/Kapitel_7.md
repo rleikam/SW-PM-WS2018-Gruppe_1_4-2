@@ -1,4 +1,4 @@
-## Projektdefinition: Planen, Einrichten, Aufsetzen ([1](#Literaturverzeichnis-Projektdefinition))
+## Projektdefinition: Planen, Einrichten, Aufsetzen ([1](#Quellenverzeichnis-Projektdefinition))
 
 ### Einleitung
 Die Projektdefinitionsphse ergibt eine Doku über getroffene Vereinbarungen zwischen Vertragspartnern bezüglich Arbeiten, die für das Projekt nötig sind und zu liefernde Produkte und Dienstleistungen inklusive der Breite und die Tiefe dieser und der Bildung des Projektteams, der Einrichtung der Projektinfrastruktur und vielen weiteren organisatorischen Vorgaben für das Projekt.  
@@ -68,13 +68,3 @@ Anders als die beiden, schon vorgestellten, Philosophien ist das __Time Boxing__
 __Critical Chain__ ist eine erweiternde Philosophie und keine eigenständige Planungsmethode. Der Kerngedanke ist die Vermeidung von Multitasking, indem parallele Arbeiten reduziert werden. Dadurch soll sich die Arbeit auf das Wesentliche fokussiert und die Produktivität als Folge darauf erhöht werden. Critical Chain ist eine wesentliche Säule für Kanban.
 
 ___Wichtig für die gesamte Projektplanung___ ist, dass immer auf den Zweck des Projektplans geachtet wird und dieser seinen bestimmten Sinn im Projekt hat. Ansonsten könnte sich dieser unter Umständen sogar negativ auf das Projekt auswirken.
-
-## Literaturverzeichnis-Projektdefinition
-Bezeichnung | Verweis
------------ | ------------------------------------------------------------------------------------------------------------------
-PM-Buch     | Manfred Broy, Marco Kuhrmann, Projektorganisation und Management im Software Engineering  1.Auflage, Springer-Verlag Berlin Heidelberg 2013
-1           | Der Folgende textuelle Inhalt stammt, wenn nicht anders vermerkt, aus: PM-Buch (s.oben), Kapitel 7 (S. 193 ff)
-2           | PM-Buch (s. oben), Seite 205, Abb. 7.8
-3           | PM-Buch (s. oben), Seite 232, Abb. 7.22
-4           | PM-Buch (s. oben), Seite 234, Abb. 7.24
-5           | PM-Buch (s. oben), Seite 235f., Abb. 7.25, 7.26, 7.27, 7.28

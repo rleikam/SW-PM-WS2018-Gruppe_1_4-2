@@ -15,9 +15,3 @@ Es gibt viele bereits konfigurierte Systeme für Implementierungsumgebungen. Des
 ### Werkzeuge für Teamarbeit und Kollaboration
 Da Projekte heute immer öfter global sein können, sind diese Werkzeuge sehr wichtig. Zu diesen Werkzeugen gehören z.B. Kommunikationssysteme, Kalender, Repos, Entwicklungs- und Buildserver, Tracking Systeme und Team-Portale. Kommunikationssysteme ermöglichen es, ohne direkten Kontakt regelmäßig miteinander zu kommunizieren. Zu diesen gehören z.B. Telefone, Email, Videokommunikationssysteme oder soziale Medien. Bei der Auswahl der Systeme muss auf Ausfallsicherheit und Kompatibilität geachtet werden. 
 _Work Item Tracking Systeme_ sind eine Weiterentwicklung der klassischen Ticket Systemen. Sie lohnen sich besonders für große Teams und sind eine Plattform für Bug-Reports oder allgemeineren Aufgaben etc.. In diesen Systemen werden Work Items mit Bearbeitern, Workflow und Zuständen zentral gelagert. Sie sind somit sehr flexibel, da sie nicht auf bestimmte Typen festgelegt sind. Vertreter dieser Systemgruppe sind z.B. Mantis, Bugzilla und Trac. Team-Portale sind meistens eine zentrale Webseite im Intranet, die Dokumentenablagen, Aufgabenlisten und benutzerdefinierte Formulare beinhalten und Benachrichtigungsfunktionen oder Workflow-Unterstützungen bieten. Daher sind die Portale für die Bereitstellung von Standarts gut geeignet und meistens stark konfigurierbar.
-
-
-## Literaturverzeichnis-Werkzeuge
-Bezeichnung | Verweis
------------ | ------------------------------------------------------------------------------------------------------------------
-1           | Der Folgende textuelle Inhalt stammt, wenn nicht anders vermerkt, aus: Manfred Broy, Marco Kuhrmann, Projektorganisation und Management im Software Engineering  1.Auflage, Springer-Verlag Berlin Heidelberg 2013, Kapitel 12 (S. 355 ff)
