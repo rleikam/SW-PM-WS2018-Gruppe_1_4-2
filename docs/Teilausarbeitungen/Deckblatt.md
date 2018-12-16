@@ -18,7 +18,7 @@
 	Lennard Kuhnke<br>
 </div>
 
-<div style="text-align: center; font-size: 1.1em">
+<div style="text-align: center; font-size: 1.1em; margin: 0px 0px 50px 0px; padding-bottom: 50px; border-bottom: solid 1px">
 	betreut von:<br>
 	Prof. Dr. rer. nat. Jörg Brunsmann<br>
-</div> 
+</div>
