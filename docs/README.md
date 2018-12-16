@@ -1,8 +1,5 @@
 
 [Deckblatt](Teilausarbeitungen/Deckblatt.md ':include')  
-
-### Inhaltsverzeichnis (ggf. Abkürzungsverzeichnis oder Glossar, falls notwendig)
-
 [Inhaltsverzeichnis](Teilausarbeitungen/Inhaltsverzeichnis.md ':include')
  
 
