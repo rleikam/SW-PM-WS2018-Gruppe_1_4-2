@@ -79,7 +79,7 @@ des Projektabschlusses, der Abrechung des Projekts, die Retrospektive zum Projek
 ### Softwarelebenszyklus und der Entwicklungsprozess
 
 Der Softwarelebenszyklus bildet eine Struktur für eine zu entwickelnde Software ab. Anhand der Phasen werden jeweilige Arbeiten zugeordnet.
-Im Softwarelebenszyklus werden zudem Tätigkeiten und Artefakte beschrieben. Der **Entwicklungsprozess** gibt zu dem entsprechenden
+Im Softwarelebenszyklus werden zudem Tätigkeiten und Artefakte beschrieben. Ein **Entwicklungsprozess** gibt zu dem entsprechenden
 Softwarelebenszyklus Rollen und Abläufe an und beides zusammen ergibt dann das Vorgehensmodell. Es gibt beim Entwicklungsprozess
 zwei verschiedene **Faktoren**, die für Kosten, Termine und Qualität relevant sind. Dies sind zum einen zur Verfügung stehende
 **Ressourcen**, wie Personal, Finanzbudgets, Werkzeuge und Räumlichkeiten bzw. Arbeitsumgebungen. Die Ressourcen sollten auf das Projekt
