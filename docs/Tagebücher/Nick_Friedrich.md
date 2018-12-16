@@ -11,5 +11,9 @@ Datum      | Tätigkeiten   | Dauer
 04.11.2018 | Online Meeting: Kurzes Wochenreview, und Beschprechung des weiteren Vorgehens | 0:45
 12.11.2018 | Ausarbeitung Vorgehensmodelle Kapitel 4 | 1:45
 12.11.2018 | Online Meeting: Kurze Besprechung der Sortierung der Ausarbeitung | 0:30
+19.11.2018 | Kapitel 11 Ausarbeitung| 1:15
+15.12.2018 | Kapitel 11 Ausarbeitung| 1:30
+16.12.2018 | Optimierung Kapitel 11,4 und Github | 2:30
+16.12.2018 | Online Meeting: Letzte Zusammenführung | 6:30
 <script src="Tagebücher/timeCalculation.js">
 </script>
