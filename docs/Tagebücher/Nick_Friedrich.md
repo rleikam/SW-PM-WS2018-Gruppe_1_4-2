@@ -14,6 +14,7 @@ Datum      | Tätigkeiten   | Dauer
 19.11.2018 | Kapitel 11 Ausarbeitung| 1:15
 15.12.2018 | Kapitel 11 Ausarbeitung| 1:30
 16.12.2018 | Optimierung Kapitel 11,4 und Github | 2:30
-16.12.2018 | Online Meeting: Letzte Zusammenführung | 6:30
+16.12.2018 | Online Meeting: Letzte Zusammenführung | 6:30 
+
 <script src="Tagebücher/timeCalculation.js">
 </script>
