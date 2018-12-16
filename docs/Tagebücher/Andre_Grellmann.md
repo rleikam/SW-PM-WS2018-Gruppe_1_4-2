@@ -30,6 +30,7 @@ Datum      | Tätigkeiten                                                       
 10.12.2018 | Meeting: Wochbesprechung                                            | 2:30
 13.12.2018 | Ausarbeitungen optimieren (Formatierung)                            | 1:10
 14.12.2018 | Ausarbeitungen optimieren (Bilder, Verweise, Sprache)               | 5:30
+16.12.2018 | Virtuelles Meeting: Ausarbeitungsintegration                        | 8:15
 
 ---
 
