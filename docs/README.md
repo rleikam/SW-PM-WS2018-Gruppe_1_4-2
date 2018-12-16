@@ -36,6 +36,7 @@ Quellenverzeichnis
 
 ### Einleitung
 ### Hauptteil (=eigentliche Arbeit, meist 3–5 Hauptkapitel)
+[Kapitel 10](./Teilausarbeitungen/Kapitel12.md ':include')
 ### Zusammenfassung oder Ausblick
 ### Abbildungsverzeichnis
 ### Quellenverzeichnis
