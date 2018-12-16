@@ -38,10 +38,7 @@
  
 
 ### Zusammenfassung oder Ausblick
-### Abbildungsverzeichnis
 
 [Abbildungsverzeichnis](./Teilausarbeitungen/Abbildungsverzeichnis.md ':include')
-
-### Quellenverzeichnis
 
 [Quellenverzeichnis](./Teilausarbeitungen/Quellenverzeichnis.md ':include')
