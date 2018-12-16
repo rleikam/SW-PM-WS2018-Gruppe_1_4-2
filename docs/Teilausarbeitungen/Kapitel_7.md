@@ -72,7 +72,7 @@ ___Wichtig für die gesamte Projektplanung___ ist, dass immer auf den Zweck des 
 Bezeichnung | Verweis
 ----------- | ------------------------------------------------------------------------------------------------------------------
 PM-Buch     | Manfred Broy, Marco Kuhrmann, Projektorganisation und Management im Software Engineering  1.Auflage, Springer-Verlag Berlin Heidelberg 2013
-1           | Der Folgende textuelle Inhalt stammt, wenn nicht anders vermerk, aus: PM-Buch (s.oben), Kapitel 7 (S. 193 ff)
+1           | Der Folgende textuelle Inhalt stammt, wenn nicht anders vermerkt, aus: PM-Buch (s.oben), Kapitel 7 (S. 193 ff)
 2           | PM-Buch (s. oben), Seite 205, Abb. 7.8
 3           | PM-Buch (s. oben), Seite 232, Abb. 7.22
 4           | PM-Buch (s. oben), Seite 234, Abb. 7.24
