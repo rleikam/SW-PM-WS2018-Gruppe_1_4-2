@@ -31,7 +31,7 @@ Tätigkeiten fest. Jede Phase hat eine Gliederung von Aufgaben, Aktivitäten und
 Ergebnisse, die **Artefakte** genannt werden.
 
 <div style="text-align:center"> 
-	<img src="/../Abbildungen/Richard_Leikam/Kapitel_3_Projektphasen.png">
+	<img src="/Abbildungen/Richard_Leikam/Kapitel_3_Projektphasen.png">
 	<div><b>Das grundlegene Phasenmodell wird mit seinen Artefakten hier dargestellt.[2]</b></div>
 </div>
 
