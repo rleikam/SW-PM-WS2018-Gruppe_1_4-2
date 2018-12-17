@@ -1,6 +1,3 @@
-
-[Deckblatt](Teilausarbeitungen/Deckblatt.md ':include')  
-
 [Vorwort](Teilausarbeitungen/Vorwort.md ':include')  
 
 # Einleitung und Begriffserklärung
