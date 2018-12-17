@@ -31,7 +31,7 @@ Tätigkeiten fest. Jede Phase hat eine Gliederung von Aufgaben, Aktivitäten und
 Ergebnisse, die **Artefakte** genannt werden.
 
 <div style="text-align:center"> 
-	<img src="Abbildungen/Richard_Leikam/Kapitel_3_Projektphasen.png">
+	<img src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/Abbildungen/Richard_Leikam/Kapitel_3_Projektphasen.png">
 	<div><b>Das grundlegene Phasenmodell wird mit seinen Artefakten hier dargestellt.[2]</b></div>
 </div>
 
@@ -102,7 +102,7 @@ Phasen. Für eine parallele Ausführung werden die entsprechenden Ressourcen und
 Phasen rechtzeitig vorliegen.
 
 <div style="text-align:center"> 
-	<img src="Abbildungen/Richard_Leikam/Kapitel_3_V-Modell.png">
+	<img src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/Abbildungen/Richard_Leikam/Kapitel_3_V-Modell.png">
 	<div><b>Ein V-Modell mit öfter vorkommenden Phasen.[3]</b></div>
 </div>
 

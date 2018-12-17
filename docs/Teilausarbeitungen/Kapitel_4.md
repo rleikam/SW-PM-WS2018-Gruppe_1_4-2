@@ -109,7 +109,7 @@ Koordinatensystem dargestellt werden. Durch diese Darstellung sieht man deutlich
 verbundenen Tätigkeiten. 
 
 <div style="text-align:center"> 
-	<img src="/../Abbildungen/Nick_Friedrich/RUP-Gebirge.png">
+	<img src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/Abbildungen/Nick_Friedrich/RUP-Gebirge.PNG">
 	<div><b>RUP-Gebirge[4]</b></div>
 </div>	
 

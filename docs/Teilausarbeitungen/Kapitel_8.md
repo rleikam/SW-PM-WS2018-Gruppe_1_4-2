@@ -70,7 +70,7 @@ oder zu pessimistisch gemacht wurden. Verzögerungen und Umplanungen werden deut
 Erreichen der Meilensteine auswirken.
 
 <div style="text-align:center"> 
-	<img src="/../Abbildungen/Jakob_Tissen/MTA.png">
+	<img src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/Abbildungen/Jakob_Tissen/MTA.png">
 	<div><b>Meilensteintrendanalyse[9]</b></div>
 </div>
 

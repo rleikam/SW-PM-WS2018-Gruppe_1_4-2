@@ -55,6 +55,6 @@ angefangen bei den Metriken. Der Vorteil liegt dabei auf dieser schrittweisen Vo
 Metriken definiert und gemessen wird.
 
 <div style="text-align:center"> 
-	<img src="/../Abbildungen/Richard_Leikam/Kapitel_10_Goal-Question-Metric.png">
+	<img src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/Abbildungen/Richard_Leikam/Kapitel_10_Goal-Question-Metric.png">
 	<div><b>Die Abbildung zeigt den GQM-Ansatz mit einem Ziel, mehreren Fragen bezogen auf das Ziel und einzelner Metriken. [11]</b></div>
 </div>	

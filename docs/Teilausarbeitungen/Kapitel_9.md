@@ -9,7 +9,7 @@ Man kann einen Projektabschluss in zwei **Abschlusskategorien** einteilen. Einen
 den Rahmenbedingungen erfolgreich abgeschlossen wurde oder einen **außerordentlichen** Abschluss, bei der dies nicht der Fall war.
 
 <div style="text-align:center"> 
-	<img src="/../Abbildungen/Richard_Leikam/Kapitel_9_Projektabschluss.png">
+	<img src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/Abbildungen/Richard_Leikam/Kapitel_9_Projektabschluss.png">
 	<div><b>Der Projektabschluss in einem kleinen Überblick. [10]</b></div>
 </div>
 

@@ -22,7 +22,7 @@ Die Projektseite ist die zentrale Anlaufstelle eines Projekts. Auf dieser befind
 Funktionen, wie z.B. der Erstellung von neuen Issues.  
 
 <div style="text-align:center"> 
-	<img src="/../Abbildungen/Andre_Grellmann/YouTrack-Projektseite.PNG">
+	<img src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/Abbildungen/Andre_Grellmann/YouTrack-Projektseite.PNG">
 	<div><b>YouTrack Projektseite, Screenshot vom 14.12.2018</b></div>
 </div>
 
@@ -32,7 +32,7 @@ Tags zu dem Ticket hinzufügen und es mit anderen verknüpfen, um Abhängigkeite
 mit der man auch vordefinierte Aufgaben auslösen kann.  
 
 <div style="text-align:center"> 
-	<img src="/../Abbildungen/Andre_Grellmann/YouTrack-Issue.PNG">
+	<img src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/Abbildungen/Andre_Grellmann/YouTrack-Issue.PNG">
 	<div><b>YouTrack Issue Beispiel, Screenshot vom 14.12.2018</b></div>
 </div>
 
@@ -43,7 +43,7 @@ z.B. ein Dashboard mit generellen Infos und ein weiteres mit Infos, die sich nur
 beziehen. Man kann Dashboards sowohl als persönliche Überblickstelle verwenden oder veröffentlichen und somit anderen Usern bereitstellen.  
 
 <div style="text-align:center"> 
-	<img src="/../Abbildungen/Andre_Grellmann/YouTrack-Dashboard.PNG">
+	<img src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/Abbildungen/Andre_Grellmann/YouTrack-Dashboard.PNG">
 	<div><b>YouTrack Dashboard Beispiel, Screenshot vom 14.12.2018</b></div>
 </div>
 
@@ -58,7 +58,7 @@ Informationen grafisch darzustellen. Die Agile-Boards können für bestimmte Ben
 Einzelpersonen erstellt werden.  
 
 <div style="text-align:center"> 
-	<img src="/../Abbildungen/Andre_Grellmann/YouTrack-AgileBoard.PNG">
+	<img src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/Abbildungen/Andre_Grellmann/YouTrack-AgileBoard.PNG">
 	<div><b>YouTrack Agile-Board Beispiel, Screenshot vom 14.12.2018</b></div>
 </div>
 
@@ -70,6 +70,6 @@ berichtenden Daten angepasst werden müssen. Es besteht allerdings weiterhin die
 zu __konfigurieren__.  
 
 <div style="text-align:center"> 
-	<img src="/../Abbildungen/Andre_Grellmann/YouTrack-Berichte.PNG">
+	<img src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2/Abbildungen/Andre_Grellmann/YouTrack-Berichte.PNG">
 	<div><b>YouTrack Berichtserstellung Beispiel, Screenshot vom 14.12.2018</b></div>
 </div>
