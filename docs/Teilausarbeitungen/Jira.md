@@ -21,7 +21,7 @@ ermöglichen. Je nach der ausgewählten Projektvorlage ist das Jira Projekt eing
 Nutzung [20].
 
 <div style="text-align:center"> 
-	<img src="/../Abbildungen/Richard_Leikam/Jira_Klassische_Projekte.png">
+	<img src="/Abbildungen/Richard_Leikam/Jira_Klassische_Projekte.png">
 	<div><b>Der Ausschnitt zeigt eine Teilmenge der Vorlagen für eine Projektkonfiguration in Jira.</b></div>
 </div>
 
